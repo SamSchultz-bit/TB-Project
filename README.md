@@ -1,19 +1,12 @@
 # Group_Project_1
 Repo for Group Project 1
 
-### Title: TB: The Curable Disease Still Killing Millions
-### Team:
-Colin Vehmeier, Laura Bishop, Matthew Bond, Sam Schultz, Sha'miah Lindsey
-
-### Description: 
-Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
-
 ### Title: 
 TB: The Curable Disease Still Killing Millions
-
-### Team: 
+### Team:
 Colin Vehmeier, Laura Bishop, Matthew Bond, Sam Schultz, Sha'miah Lindsey
-
+### Description: 
+Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
 ### Description:
  Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
 
