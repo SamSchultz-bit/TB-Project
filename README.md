@@ -1,5 +1,29 @@
 # Group_Project_1
 Repo for Group Project 1
 
-## Authors: Laura Bishop (TLCLauraB), Sam Schultz (SamSchultz-bit), Matthew Bond (Matthewbond12), Colin Vehmeier (cvhemei3r) and Shamiah Lindsey (ShamaihL)
- 
+### Title: 
+TB: The Curable Disease Still Killing Millions
+
+### Team: 
+Colin Vehmeier, Laura Bishop, Matthew Bond, Sam Schultz, Sha'miah Lindsey
+
+### Description:
+ Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
+
+### Research Questions:
+    1) Is there a link between HDI and infection and mortality?
+    2) What role does HIV infection play in TB infection and mortality?
+    3) What role does multidrug-resistant TB play in infection and mortality?
+
+### Data sets:
+	* Data Dictionary: » https://extranet.who.int/tme/generateCSV.asp?ds=dictionary
+ 	* Infection/Mortality Rates(HIV): https://extranet.who.int/tme/generateCSV.asp?ds=estimates
+	* MDR: https://extranet.who.int/tme/generateCSV.asp?ds=mdr_rr_estimates
+
+### Task Leads:
+	* Data Cleaning: Sam & Laura
+	* Q1: Matt
+	* Q2: Sam & Sha'maih
+	* Q3: Colin	
+	* Analysis: Colin & Laura
+	* Slides: Laura
