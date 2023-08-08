@@ -8,6 +8,15 @@ Colin Vehmeier, Laura Bishop, Matthew Bond, Sam Schultz, Sha'miah Lindsey
 ### Description: 
 Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
 
+### Title: 
+TB: The Curable Disease Still Killing Millions
+
+### Team: 
+Colin Vehmeier, Laura Bishop, Matthew Bond, Sam Schultz, Sha'miah Lindsey
+
+### Description:
+ Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
+
 ### Research Questions:
     1) Is there a link between HDI and infection and mortality?
     2) What role does HIV infection play in TB infection and mortality?
@@ -25,6 +34,6 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 	* Q3: Colin	
 	* Analysis: Colin & Laura
 	* Slides: Laura
-
 ### Proposal:
 https://docs.google.com/document/d/1rxHTi2pmAGjePYVj5ul5AofuYjhgOCADi2n8ihrXRwE/edit?usp=sharing
+
