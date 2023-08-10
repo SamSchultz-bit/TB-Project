@@ -1,0 +1,1492 @@
+"country","iso2","iso3","iso_numeric","g_whoregion","year","source_rr_new","e_rr_pct_new","e_rr_pct_new_lo","e_rr_pct_new_hi","source_rr_ret","e_rr_pct_ret","e_rr_pct_ret_lo","e_rr_pct_ret_hi","e_inc_rr_num","e_inc_rr_num_lo","e_inc_rr_num_hi"
+"Afghanistan","AF","AFG","004","EMR",2015,"Model",5.1,0.45,19,"Surveillance",8.6,6.5,11,3600,0,10000
+"Afghanistan","AF","AFG","004","EMR",2016,"Model",5.1,0.5,20,"Surveillance",11,9.4,14,3800,0,11000
+"Afghanistan","AF","AFG","004","EMR",2017,"Model",5.2,0.53,19,"Surveillance",15,13,16,3900,0,11000
+"Afghanistan","AF","AFG","004","EMR",2018,"Model",5.2,0.54,20,"Surveillance",19,17,20,4100,0,12000
+"Afghanistan","AF","AFG","004","EMR",2019,"Model",5.3,0.55,20,"Surveillance",24,21,26,4300,0,12000
+"Afghanistan","AF","AFG","004","EMR",2020,"Model",5.4,0.58,19,"Surveillance",30,25,34,4500,0,12000
+"Afghanistan","AF","AFG","004","EMR",2021,"Model",5.4,0.6,19,"Surveillance",36,29,44,4800,0,13000
+"Albania","AL","ALB","008","EUR",2015,"Surveillance",2,1.2,3,"Surveillance",15,7.4,25,14,8,21
+"Albania","AL","ALB","008","EUR",2016,"Surveillance",2,1.2,3,"Surveillance",15,7,26,14,8,21
+"Albania","AL","ALB","008","EUR",2017,"Surveillance",2,1.1,3.1,"Surveillance",15,6.5,27,17,9,25
+"Albania","AL","ALB","008","EUR",2018,"Surveillance",1.9,1,3.2,"Surveillance",15,6,28,15,7,22
+"Albania","AL","ALB","008","EUR",2019,"Surveillance",1.9,0.96,3.3,"Surveillance",15,5.5,30,14,6,21
+"Albania","AL","ALB","008","EUR",2020,"Surveillance",1.9,0.91,3.4,"Surveillance",15,5.1,31,13,5,20
+"Albania","AL","ALB","008","EUR",2021,"Surveillance",1.9,0.86,3.5,"Surveillance",15,4.7,33,14,5,22
+"Algeria","DZ","DZA","012","AFR",2015,"Model",2.2,0.59,5.5,"Model",20,0.92,73,700,0,1500
+"Algeria","DZ","DZA","012","AFR",2016,"Model",2.3,0.56,5.9,"Model",20,0.98,71,700,0,1500
+"Algeria","DZ","DZA","012","AFR",2017,"Model",2.4,0.53,6.3,"Model",20,1.1,69,740,0,1600
+"Algeria","DZ","DZA","012","AFR",2018,"Model",2.5,0.51,7,"Model",20,1.2,68,790,0,1800
+"Algeria","DZ","DZA","012","AFR",2019,"Model",2.6,0.47,7.5,"Model",20,1.4,68,730,0,1700
+"Algeria","DZ","DZA","012","AFR",2020,"Model",2.7,0.45,8.1,"Model",21,1.6,68,740,0,1800
+"Algeria","DZ","DZA","012","AFR",2021,"Model",2.8,0.43,8.8,"Model",21,1.6,67,740,0,1800
+"American Samoa","AS","ASM","016","WPR",2015,"Surveillance",2.2,0.19,9.1,"Surveillance",38,4.3,83,1,0,3
+"American Samoa","AS","ASM","016","WPR",2016,"Surveillance",2.2,0.2,9,"Surveillance",37,4.1,81,1,0,2
+"American Samoa","AS","ASM","016","WPR",2017,"Surveillance",2.3,0.2,8.8,"Surveillance",35,4.2,79,1,0,3
+"American Samoa","AS","ASM","016","WPR",2018,"Surveillance",2.3,0.21,9.2,"Surveillance",34,4.1,77,0,0,0
+"American Samoa","AS","ASM","016","WPR",2019,"Surveillance",2.4,0.23,9.2,"Surveillance",33,4.2,76,0,0,1
+"American Samoa","AS","ASM","016","WPR",2020,"Surveillance",2.4,0.24,9.7,"Surveillance",32,4.1,76,0,0,1
+"American Samoa","AS","ASM","016","WPR",2021,"Surveillance",2.5,0.26,9.9,"Surveillance",31,3.6,75,0,0,1
+"Andorra","AD","AND","020","EUR",2015,"Surveillance",2.3,0.37,6.5,"Model",20,2.1,54,0,0,0
+"Andorra","AD","AND","020","EUR",2016,"Surveillance",2.4,0.39,7.1,"Model",21,2.3,55,0,0,0
+"Andorra","AD","AND","020","EUR",2017,"Surveillance",2.4,0.39,7.5,"Model",21,2.5,58,0,0,0
+"Andorra","AD","AND","020","EUR",2018,"Surveillance",2.5,0.41,7.9,"Model",22,2.6,60,0,0,0
+"Andorra","AD","AND","020","EUR",2019,"Surveillance",2.6,0.42,8.3,"Model",23,2.7,62,0,0,1
+"Andorra","AD","AND","020","EUR",2020,"Surveillance",2.7,0.42,8.8,"Model",24,2.9,65,0,0,0
+"Andorra","AD","AND","020","EUR",2021,"Surveillance",2.9,0.42,9.6,"Model",25,2.9,67,0,0,0
+"Angola","AO","AGO","024","AFR",2015,"Model",3.6,0.34,14,"Model",19,1.3,65,5300,0,14000
+"Angola","AO","AGO","024","AFR",2016,"Model",3.5,0.35,14,"Model",19,1.4,64,5300,0,14000
+"Angola","AO","AGO","024","AFR",2017,"Model",3.5,0.36,15,"Model",19,1.5,63,5400,0,15000
+"Angola","AO","AGO","024","AFR",2018,"Model",3.5,0.37,14,"Model",20,1.6,63,5500,0,14000
+"Angola","AO","AGO","024","AFR",2019,"Model",3.5,0.37,14,"Model",20,1.8,62,5700,0,15000
+"Angola","AO","AGO","024","AFR",2020,"Model",3.5,0.36,13,"Model",20,1.9,63,5500,0,14000
+"Angola","AO","AGO","024","AFR",2021,"Model",3.5,0.35,13,"Model",20,2,63,5600,0,14000
+"Anguilla","AI","AIA","660","AMR",2015,"Model",3.3,0.22,16,"Model",19,0.93,71,1,0,2
+"Anguilla","AI","AIA","660","AMR",2016,"Model",3.3,0.24,15,"Model",18,1,69,1,0,2
+"Anguilla","AI","AIA","660","AMR",2017,"Model",3.3,0.24,14,"Model",17,1,64,1,0,2
+"Anguilla","AI","AIA","660","AMR",2018,"Model",3.3,0.25,14,"Model",16,1,60,1,0,2
+"Anguilla","AI","AIA","660","AMR",2019,"Model",3.3,0.25,14,"Model",15,0.99,58,1,0,1
+"Anguilla","AI","AIA","660","AMR",2020,"Model",3.3,0.27,15,"Model",15,0.98,54,0,0,1
+"Anguilla","AI","AIA","660","AMR",2021,"Model",3.3,0.27,14,"Model",14,0.91,51,0,0,1
+"Antigua and Barbuda","AG","ATG","028","AMR",2015,"Model",3.4,0.19,16,"Model",21,0.78,75,0,0,1
+"Antigua and Barbuda","AG","ATG","028","AMR",2016,"Model",3.4,0.2,15,"Model",21,0.87,74,0,0,1
+"Antigua and Barbuda","AG","ATG","028","AMR",2017,"Model",3.4,0.21,15,"Model",21,0.92,74,0,0,0
+"Antigua and Barbuda","AG","ATG","028","AMR",2018,"Model",3.4,0.21,16,"Model",21,0.94,74,1,0,2
+"Antigua and Barbuda","AG","ATG","028","AMR",2019,"Model",3.4,0.2,15,"Model",21,0.89,74,0,0,0
+"Antigua and Barbuda","AG","ATG","028","AMR",2020,"Model",3.4,0.2,16,"Model",21,0.94,73,0,0,1
+"Antigua and Barbuda","AG","ATG","028","AMR",2021,"Model",3.4,0.2,15,"Model",21,0.9,73,0,0,1
+"Argentina","AR","ARG","032","AMR",2015,"Model",2,0.71,4.8,"Model",12,2.9,32,350,57,650
+"Argentina","AR","ARG","032","AMR",2016,"Model",2,0.66,4.9,"Model",12,2.4,34,380,44,710
+"Argentina","AR","ARG","032","AMR",2017,"Model",2,0.61,5.2,"Model",12,2,35,370,21,710
+"Argentina","AR","ARG","032","AMR",2018,"Model",2,0.56,5.6,"Model",12,1.7,36,370,0,750
+"Argentina","AR","ARG","032","AMR",2019,"Model",2.1,0.51,5.9,"Model",11,1.4,38,410,0,850
+"Argentina","AR","ARG","032","AMR",2020,"Model",2.1,0.47,6.2,"Model",11,1.1,39,400,0,850
+"Argentina","AR","ARG","032","AMR",2021,"Model",2.1,0.42,6.6,"Model",11,0.92,41,430,0,960
+"Armenia","AM","ARM","051","EUR",2015,"Surveillance",16,14,18,"Surveillance",49,44,53,310,160,470
+"Armenia","AM","ARM","051","EUR",2016,"Surveillance",16,15,18,"Surveillance",49,44,53,280,160,400
+"Armenia","AM","ARM","051","EUR",2017,"Surveillance",17,15,19,"Surveillance",49,44,54,230,150,320
+"Armenia","AM","ARM","051","EUR",2018,"Surveillance",18,16,20,"Surveillance",48,43,54,210,140,280
+"Armenia","AM","ARM","051","EUR",2019,"Surveillance",18,16,21,"Surveillance",48,43,55,180,120,230
+"Armenia","AM","ARM","051","EUR",2020,"Surveillance",19,16,22,"Surveillance",48,42,55,180,120,230
+"Armenia","AM","ARM","051","EUR",2021,"Surveillance",19,16,23,"Surveillance",48,42,56,200,130,260
+"Aruba","AW","ABW","533","AMR",2015,"Surveillance",3.6,0.41,12,"Model",20,1.4,69,1,0,1
+"Aruba","AW","ABW","533","AMR",2016,"Surveillance",3.5,0.44,12,"Model",19,1.4,64,1,0,2
+"Aruba","AW","ABW","533","AMR",2017,"Surveillance",3.5,0.46,12,"Model",18,1.4,61,0,0,1
+"Aruba","AW","ABW","533","AMR",2018,"Surveillance",3.4,0.46,11,"Model",17,1.4,58,0,0,1
+"Aruba","AW","ABW","533","AMR",2019,"Surveillance",3.4,0.44,12,"Model",16,1.4,56,0,0,0
+"Aruba","AW","ABW","533","AMR",2020,"Surveillance",3.4,0.43,12,"Model",15,1.3,54,0,0,0
+"Aruba","AW","ABW","533","AMR",2021,"Surveillance",3.4,0.42,12,"Model",15,1.2,51,0,0,1
+"Australia","AU","AUS","036","WPR",2015,"Surveillance",2.3,2,2.7,"Surveillance",14,10,19,44,34,53
+"Australia","AU","AUS","036","WPR",2016,"Surveillance",2.3,2,2.7,"Surveillance",14,9.1,19,47,37,58
+"Australia","AU","AUS","036","WPR",2017,"Surveillance",2.3,1.9,2.7,"Surveillance",13,8.2,19,48,37,59
+"Australia","AU","AUS","036","WPR",2018,"Surveillance",2.2,1.8,2.7,"Surveillance",13,7.4,19,48,36,59
+"Australia","AU","AUS","036","WPR",2019,"Surveillance",2.2,1.8,2.7,"Surveillance",12,6.6,20,49,36,62
+"Australia","AU","AUS","036","WPR",2020,"Surveillance",2.2,1.7,2.7,"Surveillance",12,5.9,20,52,37,66
+"Australia","AU","AUS","036","WPR",2021,"Surveillance",2.2,1.6,2.8,"Surveillance",12,5.1,21,46,32,60
+"Austria","AT","AUT","040","EUR",2015,"Surveillance",3.6,2.6,5,"Surveillance",33,24,43,31,21,42
+"Austria","AT","AUT","040","EUR",2016,"Surveillance",3.8,2.7,5.4,"Surveillance",36,26,47,37,24,50
+"Austria","AT","AUT","040","EUR",2017,"Surveillance",4.1,2.8,5.9,"Surveillance",39,27,51,36,22,49
+"Austria","AT","AUT","040","EUR",2018,"Surveillance",4.4,2.9,6.5,"Surveillance",42,29,55,32,19,45
+"Austria","AT","AUT","040","EUR",2019,"Surveillance",4.7,3,7.1,"Surveillance",45,30,60,34,19,48
+"Austria","AT","AUT","040","EUR",2020,"Surveillance",5,3,7.8,"Surveillance",48,32,64,29,16,43
+"Austria","AT","AUT","040","EUR",2021,"Surveillance",5.3,3.1,8.5,"Surveillance",51,34,68,29,16,43
+"Azerbaijan","AZ","AZE","031","EUR",2015,"Surveillance",12,11,13,"Surveillance",33,31,34,1500,1100,2000
+"Azerbaijan","AZ","AZE","031","EUR",2016,"Surveillance",12,11,13,"Surveillance",30,29,31,1400,990,1800
+"Azerbaijan","AZ","AZE","031","EUR",2017,"Surveillance",12,11,13,"Surveillance",28,27,29,1300,950,1700
+"Azerbaijan","AZ","AZE","031","EUR",2018,"Surveillance",12,11,13,"Surveillance",26,25,26,1200,890,1600
+"Azerbaijan","AZ","AZE","031","EUR",2019,"Surveillance",12,11,13,"Surveillance",23,23,24,1100,830,1400
+"Azerbaijan","AZ","AZE","031","EUR",2020,"Surveillance",12,11,13,"Surveillance",21,20,23,1000,780,1300
+"Azerbaijan","AZ","AZE","031","EUR",2021,"Surveillance",12,11,13,"Surveillance",20,18,21,1100,810,1300
+"Bahamas","BS","BHS","044","AMR",2015,"Surveillance",7.6,4.3,11,"Surveillance",15,3.6,33,6,3,9
+"Bahamas","BS","BHS","044","AMR",2016,"Surveillance",7,3.9,11,"Surveillance",14,3.4,32,8,4,12
+"Bahamas","BS","BHS","044","AMR",2017,"Surveillance",6.5,3.4,10,"Surveillance",14,3,31,4,2,6
+"Bahamas","BS","BHS","044","AMR",2018,"Surveillance",6,3,10,"Surveillance",13,2.9,32,4,2,6
+"Bahamas","BS","BHS","044","AMR",2019,"Surveillance",5.6,2.6,9.6,"Surveillance",13,2.6,31,4,1,6
+"Bahamas","BS","BHS","044","AMR",2020,"Surveillance",5.2,2.3,9.5,"Surveillance",13,2.3,32,2,1,3
+"Bahamas","BS","BHS","044","AMR",2021,"Surveillance",4.8,2,9.3,"Surveillance",12,2.1,33,3,1,5
+"Bahrain","BH","BHR","048","EMR",2015,"Surveillance",2.3,1.4,3.4,"Surveillance",26,3.7,69,5,3,8
+"Bahrain","BH","BHR","048","EMR",2016,"Surveillance",2.3,1.4,3.5,"Surveillance",23,3.4,64,5,2,7
+"Bahrain","BH","BHR","048","EMR",2017,"Surveillance",2.3,1.3,3.5,"Surveillance",21,2.9,60,4,2,7
+"Bahrain","BH","BHR","048","EMR",2018,"Surveillance",2.3,1.2,3.6,"Surveillance",19,2.5,56,4,2,7
+"Bahrain","BH","BHR","048","EMR",2019,"Surveillance",2.3,1.1,3.7,"Surveillance",17,2,51,5,2,8
+"Bahrain","BH","BHR","048","EMR",2020,"Surveillance",2.2,1.1,3.8,"Surveillance",15,1.7,47,5,2,9
+"Bahrain","BH","BHR","048","EMR",2021,"Surveillance",2.2,1,4,"Surveillance",13,1.4,45,5,2,9
+"Bangladesh","BD","BGD","050","SEA",2015,"Survey",1.1,0.72,1.5,"Survey & Surveillance",13,12,14,4600,2400,6700
+"Bangladesh","BD","BGD","050","SEA",2016,"Survey",1.1,0.71,1.5,"Survey & Surveillance",11,10,12,4600,2400,6700
+"Bangladesh","BD","BGD","050","SEA",2017,"Survey",1.1,0.68,1.6,"Survey & Surveillance",9.5,9,9.9,4500,2300,6800
+"Bangladesh","BD","BGD","050","SEA",2018,"Survey",1,0.64,1.6,"Survey & Surveillance",8,7.7,8.3,4500,2100,7000
+"Bangladesh","BD","BGD","050","SEA",2019,"Survey",1,0.61,1.7,"Survey & Surveillance",6.7,6.4,7.1,4500,1900,7100
+"Bangladesh","BD","BGD","050","SEA",2020,"Survey",1,0.57,1.7,"Survey & Surveillance",5.7,5.3,6,4500,1700,7300
+"Bangladesh","BD","BGD","050","SEA",2021,"Survey",1,0.53,1.8,"Survey & Surveillance",4.8,4.4,5.2,4500,1500,7600
+"Barbados","BB","BRB","052","AMR",2015,"Surveillance",2.5,0.37,8.7,"Surveillance",15,0.67,57,0,0,0
+"Barbados","BB","BRB","052","AMR",2016,"Surveillance",2.5,0.38,8.6,"Surveillance",14,0.67,52,0,0,1
+"Barbados","BB","BRB","052","AMR",2017,"Surveillance",2.4,0.39,8.5,"Surveillance",13,0.71,49,0,0,0
+"Barbados","BB","BRB","052","AMR",2018,"Surveillance",2.4,0.4,8.3,"Surveillance",12,0.72,46,0,0,0
+"Barbados","BB","BRB","052","AMR",2019,"Surveillance",2.4,0.39,7.8,"Surveillance",12,0.76,44,0,0,0
+"Barbados","BB","BRB","052","AMR",2020,"Surveillance",2.4,0.38,7.9,"Surveillance",11,0.74,41,0,0,1
+"Barbados","BB","BRB","052","AMR",2021,"Surveillance",2.4,0.38,7.9,"Surveillance",11,0.71,39,0,0,1
+"Belarus","BY","BLR","112","EUR",2015,"Surveillance",37,36,37,"Surveillance",68,67,69,2300,1300,3200
+"Belarus","BY","BLR","112","EUR",2016,"Surveillance",37,36,38,"Surveillance",68,67,70,1900,1200,2700
+"Belarus","BY","BLR","112","EUR",2017,"Surveillance",38,37,39,"Surveillance",69,67,70,1700,1200,2300
+"Belarus","BY","BLR","112","EUR",2018,"Surveillance",38,37,39,"Surveillance",69,67,71,1500,1100,1900
+"Belarus","BY","BLR","112","EUR",2019,"Surveillance",39,37,40,"Surveillance",69,67,71,1400,1000,1700
+"Belarus","BY","BLR","112","EUR",2020,"Surveillance",39,38,41,"Surveillance",69,67,72,1300,960,1700
+"Belarus","BY","BLR","112","EUR",2021,"Surveillance",40,38,41,"Surveillance",70,67,72,1400,1000,1800
+"Belgium","BE","BEL","056","EUR",2015,"Surveillance",1.8,1.3,2.3,"Surveillance",11,6.7,16,31,22,39
+"Belgium","BE","BEL","056","EUR",2016,"Surveillance",1.8,1.3,2.3,"Surveillance",11,6.7,17,33,23,43
+"Belgium","BE","BEL","056","EUR",2017,"Surveillance",1.8,1.3,2.4,"Surveillance",12,6.8,18,31,22,41
+"Belgium","BE","BEL","056","EUR",2018,"Surveillance",1.8,1.3,2.5,"Surveillance",12,6.7,20,32,21,42
+"Belgium","BE","BEL","056","EUR",2019,"Surveillance",1.8,1.3,2.5,"Surveillance",13,6.7,21,32,21,42
+"Belgium","BE","BEL","056","EUR",2020,"Surveillance",1.8,1.2,2.6,"Surveillance",13,6.6,23,28,18,38
+"Belgium","BE","BEL","056","EUR",2021,"Surveillance",1.9,1.2,2.7,"Surveillance",14,6.6,24,28,17,38
+"Belize","BZ","BLZ","084","AMR",2015,"Surveillance",0.92,0.2,2.6,"Surveillance",24,7.3,48,2,0,4
+"Belize","BZ","BLZ","084","AMR",2016,"Surveillance",0.87,0.19,2.4,"Surveillance",22,7,43,2,0,5
+"Belize","BZ","BLZ","084","AMR",2017,"Surveillance",0.83,0.18,2.2,"Surveillance",20,6.4,41,2,0,5
+"Belize","BZ","BLZ","084","AMR",2018,"Surveillance",0.8,0.17,2.1,"Surveillance",18,5.8,37,2,0,4
+"Belize","BZ","BLZ","084","AMR",2019,"Surveillance",0.76,0.17,2,"Surveillance",17,5.1,35,2,0,3
+"Belize","BZ","BLZ","084","AMR",2020,"Surveillance",0.74,0.16,1.9,"Surveillance",15,4.5,33,1,0,3
+"Belize","BZ","BLZ","084","AMR",2021,"Surveillance",0.71,0.15,1.9,"Surveillance",14,3.8,32,2,0,3
+"Benin","BJ","BEN","204","AFR",2015,"Surveillance",1.1,0.7,1.7,"Surveillance",8.7,7.4,10,95,40,150
+"Benin","BJ","BEN","204","AFR",2016,"Surveillance",1.1,0.73,1.6,"Surveillance",7.7,6.6,9.1,93,42,140
+"Benin","BJ","BEN","204","AFR",2017,"Surveillance",1.1,0.75,1.6,"Surveillance",6.9,5.7,8.2,92,43,140
+"Benin","BJ","BEN","204","AFR",2018,"Surveillance",1.1,0.77,1.5,"Surveillance",6.1,4.9,7.5,90,44,140
+"Benin","BJ","BEN","204","AFR",2019,"Surveillance",1.1,0.77,1.5,"Surveillance",5.4,4.2,6.9,89,45,130
+"Benin","BJ","BEN","204","AFR",2020,"Surveillance",1.1,0.75,1.5,"Surveillance",4.8,3.5,6.3,89,43,130
+"Benin","BJ","BEN","204","AFR",2021,"Surveillance",1.1,0.72,1.6,"Surveillance",4.2,3,5.7,88,40,140
+"Bermuda","BM","BMU","060","AMR",2015,"Surveillance",2.6,0.2,10,"Model",20,0.89,73,0,0,0
+"Bermuda","BM","BMU","060","AMR",2016,"Surveillance",2.6,0.21,10,"Model",19,0.91,70,0,0,0
+"Bermuda","BM","BMU","060","AMR",2017,"Surveillance",2.7,0.21,10,"Model",18,0.92,66,0,0,0
+"Bermuda","BM","BMU","060","AMR",2018,"Surveillance",2.7,0.22,9.9,"Model",17,0.97,62,0,0,0
+"Bermuda","BM","BMU","060","AMR",2019,"Surveillance",2.7,0.23,10,"Model",16,1,58,0,0,0
+"Bermuda","BM","BMU","060","AMR",2020,"Surveillance",2.7,0.22,9.9,"Model",16,0.98,55,0,0,0
+"Bermuda","BM","BMU","060","AMR",2021,"Surveillance",2.8,0.22,10,"Model",15,0.95,55,0,0,0
+"Bhutan","BT","BTN","064","SEA",2015,"Surveillance",13,11,15,"Surveillance",26,19,32,160,120,210
+"Bhutan","BT","BTN","064","SEA",2016,"Surveillance",13,12,15,"Surveillance",24,18,30,190,140,250
+"Bhutan","BT","BTN","064","SEA",2017,"Surveillance",13,12,15,"Surveillance",23,17,29,150,110,190
+"Bhutan","BT","BTN","064","SEA",2018,"Surveillance",13,12,15,"Surveillance",21,16,28,150,110,190
+"Bhutan","BT","BTN","064","SEA",2019,"Surveillance",13,12,15,"Surveillance",20,14,28,170,120,220
+"Bhutan","BT","BTN","064","SEA",2020,"Surveillance",13,11,16,"Surveillance",19,13,27,170,120,220
+"Bhutan","BT","BTN","064","SEA",2021,"Surveillance",13,11,16,"Surveillance",18,11,27,180,120,230
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2015,"Surveillance",1.5,0.92,2.5,"Surveillance",13,12,14,280,100,460
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2016,"Surveillance",1.6,1,2.3,"Surveillance",13,12,14,280,120,430
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2017,"Surveillance",1.6,1.2,2.1,"Surveillance",13,11,14,280,140,410
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2018,"Surveillance",1.6,1.3,2,"Surveillance",13,11,15,280,150,400
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2019,"Surveillance",1.6,1.3,1.9,"Surveillance",13,11,15,280,160,390
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2020,"Surveillance",1.6,1.4,1.9,"Surveillance",13,10,15,280,150,400
+"Bolivia (Plurinational State of)","BO","BOL","068","AMR",2021,"Surveillance",1.7,1.3,2,"Surveillance",12,10,15,300,160,440
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2015,"Surveillance",0.29,0.18,0.43,"Surveillance",3.3,1.9,5.4,6,2,9
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2016,"Surveillance",0.28,0.17,0.43,"Surveillance",3.2,1.7,5.4,5,2,7
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2017,"Surveillance",0.27,0.16,0.43,"Surveillance",3.1,1.5,5.4,4,2,6
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2018,"Surveillance",0.27,0.15,0.44,"Surveillance",3,1.4,5.4,3,1,5
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2019,"Surveillance",0.26,0.14,0.45,"Surveillance",2.9,1.3,5.3,3,1,5
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2020,"Surveillance",0.25,0.13,0.45,"Surveillance",2.8,1.2,5.3,3,1,5
+"Bosnia and Herzegovina","BA","BIH","070","EUR",2021,"Surveillance",0.25,0.12,0.45,"Surveillance",2.7,1.1,5.3,3,1,5
+"Botswana","BW","BWA","072","AFR",2015,"Model",4.4,2.4,7.5,"Model",15,6.3,28,410,85,730
+"Botswana","BW","BWA","072","AFR",2016,"Model",4.6,2.3,8.2,"Model",15,5.9,30,400,120,680
+"Botswana","BW","BWA","072","AFR",2017,"Model",4.9,2.3,8.9,"Model",15,5.6,32,390,110,680
+"Botswana","BW","BWA","072","AFR",2018,"Model",5.1,2.2,9.8,"Model",16,5.3,33,390,90,680
+"Botswana","BW","BWA","072","AFR",2019,"Model",5.3,2.2,11,"Model",16,4.9,35,380,73,680
+"Botswana","BW","BWA","072","AFR",2020,"Model",5.6,2.2,12,"Model",16,4.6,38,370,55,680
+"Botswana","BW","BWA","072","AFR",2021,"Model",5.9,2.2,13,"Model",17,4.3,40,400,42,760
+"Brazil","BR","BRA","076","AMR",2015,"Model",1.6,0.78,2.9,"Model",9.5,3.3,20,2600,1200,4000
+"Brazil","BR","BRA","076","AMR",2016,"Model",1.6,0.74,3.1,"Model",9.8,3,22,2700,1000,4300
+"Brazil","BR","BRA","076","AMR",2017,"Model",1.6,0.69,3.4,"Model",10,2.7,24,2900,920,4800
+"Brazil","BR","BRA","076","AMR",2018,"Model",1.6,0.63,3.7,"Model",10,2.4,27,3000,780,5300
+"Brazil","BR","BRA","076","AMR",2019,"Model",1.7,0.59,4,"Model",11,2.1,29,3100,610,5600
+"Brazil","BR","BRA","076","AMR",2020,"Model",1.7,0.55,4.3,"Model",11,1.9,32,3200,420,6000
+"Brazil","BR","BRA","076","AMR",2021,"Model",1.7,0.51,4.6,"Model",12,1.7,34,3500,260,6800
+"British Virgin Islands","VG","VGB","092","AMR",2015,"Model",3.5,0.32,14,"Model",24,1.3,74,0,0,0
+"British Virgin Islands","VG","VGB","092","AMR",2016,"Model",3.5,0.34,13,"Model",23,1.5,71,0,0,0
+"British Virgin Islands","VG","VGB","092","AMR",2017,"Model",3.5,0.35,13,"Model",22,1.6,69,0,0,0
+"British Virgin Islands","VG","VGB","092","AMR",2018,"Model",3.5,0.36,13,"Model",22,1.7,67,0,0,0
+"British Virgin Islands","VG","VGB","092","AMR",2019,"Model",3.5,0.37,13,"Model",21,1.8,65,0,0,0
+"British Virgin Islands","VG","VGB","092","AMR",2020,"Model",3.6,0.37,13,"Model",21,1.7,64,0,0,0
+"British Virgin Islands","VG","VGB","092","AMR",2021,"Model",3.6,0.38,14,"Model",20,1.5,64,0,0,0
+"Brunei Darussalam","BN","BRN","096","WPR",2015,"Surveillance",0.28,0.12,0.53,"Surveillance",1.1,0.2,3.2,1,0,2
+"Brunei Darussalam","BN","BRN","096","WPR",2016,"Surveillance",0.29,0.13,0.55,"Surveillance",1.3,0.24,3.5,1,0,2
+"Brunei Darussalam","BN","BRN","096","WPR",2017,"Surveillance",0.3,0.14,0.58,"Surveillance",1.4,0.28,3.8,1,0,2
+"Brunei Darussalam","BN","BRN","096","WPR",2018,"Surveillance",0.32,0.14,0.61,"Surveillance",1.6,0.34,4.3,1,0,2
+"Brunei Darussalam","BN","BRN","096","WPR",2019,"Surveillance",0.33,0.14,0.64,"Surveillance",1.9,0.37,5.2,1,0,2
+"Brunei Darussalam","BN","BRN","096","WPR",2020,"Surveillance",0.35,0.14,0.7,"Surveillance",2.2,0.41,6.1,2,0,3
+"Brunei Darussalam","BN","BRN","096","WPR",2021,"Surveillance",0.37,0.14,0.76,"Surveillance",2.5,0.44,7.6,1,0,2
+"Bulgaria","BG","BGR","100","EUR",2015,"Surveillance",2.4,1.8,3.1,"Surveillance",21,17,26,85,50,120
+"Bulgaria","BG","BGR","100","EUR",2016,"Surveillance",2.3,1.7,3.1,"Surveillance",20,15,26,78,45,110
+"Bulgaria","BG","BGR","100","EUR",2017,"Surveillance",2.3,1.5,3.2,"Surveillance",19,13,26,69,39,100
+"Bulgaria","BG","BGR","100","EUR",2018,"Surveillance",2.2,1.4,3.3,"Surveillance",18,12,26,62,33,90
+"Bulgaria","BG","BGR","100","EUR",2019,"Surveillance",2.2,1.3,3.4,"Surveillance",17,11,25,53,28,79
+"Bulgaria","BG","BGR","100","EUR",2020,"Surveillance",2.1,1.2,3.5,"Surveillance",16,9.6,25,47,22,71
+"Bulgaria","BG","BGR","100","EUR",2021,"Surveillance",2.1,1.1,3.6,"Surveillance",15,8.5,25,41,17,65
+"Burkina Faso","BF","BFA","854","AFR",2015,"Survey & Surveillance",1.6,1.1,2.3,"Survey",16,9.7,24,240,120,370
+"Burkina Faso","BF","BFA","854","AFR",2016,"Survey & Surveillance",1.6,1.2,2.1,"Survey",14,9.2,21,230,120,350
+"Burkina Faso","BF","BFA","854","AFR",2017,"Survey & Surveillance",1.5,1.2,1.9,"Survey",13,8,20,220,120,320
+"Burkina Faso","BF","BFA","854","AFR",2018,"Survey & Surveillance",1.4,1.1,1.8,"Survey",12,6.6,19,210,110,310
+"Burkina Faso","BF","BFA","854","AFR",2019,"Survey & Surveillance",1.4,1.1,1.7,"Survey",11,5.4,19,200,110,290
+"Burkina Faso","BF","BFA","854","AFR",2020,"Survey & Surveillance",1.3,0.98,1.7,"Survey",11,4.1,20,190,100,290
+"Burkina Faso","BF","BFA","854","AFR",2021,"Survey & Surveillance",1.3,0.89,1.8,"Survey",9.9,3.1,21,190,88,280
+"Burundi","BI","BDI","108","AFR",2015,"Model",1.8,0.14,8,"Surveillance",17,13,22,300,0,940
+"Burundi","BI","BDI","108","AFR",2016,"Model",1.7,0.14,7.4,"Surveillance",18,14,21,290,0,870
+"Burundi","BI","BDI","108","AFR",2017,"Model",1.6,0.14,7.1,"Surveillance",18,15,22,270,0,820
+"Burundi","BI","BDI","108","AFR",2018,"Model",1.5,0.13,6.8,"Surveillance",19,14,25,260,0,790
+"Burundi","BI","BDI","108","AFR",2019,"Model",1.5,0.14,6.6,"Surveillance",20,13,29,260,0,760
+"Burundi","BI","BDI","108","AFR",2020,"Model",1.4,0.13,6.2,"Surveillance",21,12,33,250,0,720
+"Burundi","BI","BDI","108","AFR",2021,"Model",1.4,0.13,5.8,"Surveillance",22,10,38,240,0,680
+"Cabo Verde","CV","CPV","132","AFR",2015,"Model",2.9,0.17,13,"Surveillance",10,1.3,30,12,0,38
+"Cabo Verde","CV","CPV","132","AFR",2016,"Model",2.8,0.18,13,"Surveillance",9.6,1.4,26,11,0,33
+"Cabo Verde","CV","CPV","132","AFR",2017,"Model",2.8,0.18,12,"Surveillance",9,1.5,23,11,0,32
+"Cabo Verde","CV","CPV","132","AFR",2018,"Model",2.8,0.18,12,"Surveillance",8.4,1.4,21,9,0,25
+"Cabo Verde","CV","CPV","132","AFR",2019,"Model",2.8,0.19,11,"Surveillance",7.9,1.5,20,9,0,24
+"Cabo Verde","CV","CPV","132","AFR",2020,"Model",2.8,0.19,11,"Surveillance",7.5,1.3,20,7,0,21
+"Cabo Verde","CV","CPV","132","AFR",2021,"Model",2.8,0.18,11,"Surveillance",7.2,1.3,20,7,0,19
+"Cambodia","KH","KHM","116","WPR",2015,"Survey",1.6,1,2.3,"Survey",9.5,5.9,15,1000,360,1700
+"Cambodia","KH","KHM","116","WPR",2016,"Survey",1.6,1,2.4,"Survey",9.9,6,16,1000,360,1700
+"Cambodia","KH","KHM","116","WPR",2017,"Survey",1.7,1,2.6,"Survey",10,6.1,17,1000,350,1700
+"Cambodia","KH","KHM","116","WPR",2018,"Survey",1.7,0.99,2.7,"Survey",11,6.1,18,980,330,1600
+"Cambodia","KH","KHM","116","WPR",2019,"Survey",1.8,0.98,2.9,"Survey",11,6.2,19,950,310,1600
+"Cambodia","KH","KHM","116","WPR",2020,"Survey",1.8,0.97,3.1,"Survey",12,6.2,20,960,300,1600
+"Cambodia","KH","KHM","116","WPR",2021,"Survey",1.9,0.95,3.3,"Survey",12,6.2,22,1000,290,1800
+"Cameroon","CM","CMR","120","AFR",2015,"Survey",1.7,1,2.8,"Surveillance",9.1,6.9,12,1100,340,1800
+"Cameroon","CM","CMR","120","AFR",2016,"Survey",1.6,1,2.7,"Surveillance",8.9,7.3,11,1000,350,1700
+"Cameroon","CM","CMR","120","AFR",2017,"Survey",1.6,0.95,2.6,"Surveillance",8.8,7.6,10,960,340,1600
+"Cameroon","CM","CMR","120","AFR",2018,"Survey",1.5,0.9,2.5,"Surveillance",8.7,7.9,9.5,920,340,1500
+"Cameroon","CM","CMR","120","AFR",2019,"Survey",1.5,0.81,2.5,"Surveillance",8.5,7.8,9.4,880,300,1500
+"Cameroon","CM","CMR","120","AFR",2020,"Survey",1.5,0.73,2.6,"Surveillance",8.4,7.3,9.6,850,240,1500
+"Cameroon","CM","CMR","120","AFR",2021,"Survey",1.4,0.64,2.7,"Surveillance",8.3,6.8,10,810,170,1500
+"Canada","CA","CAN","124","AMR",2015,"Surveillance",1.2,0.79,1.7,"Surveillance",4.3,2,7.6,31,20,43
+"Canada","CA","CAN","124","AMR",2016,"Surveillance",1.2,0.76,1.8,"Surveillance",4.8,2.2,9,34,20,48
+"Canada","CA","CAN","124","AMR",2017,"Surveillance",1.2,0.72,1.9,"Surveillance",5.4,2.1,11,36,20,53
+"Canada","CA","CAN","124","AMR",2018,"Surveillance",1.3,0.7,2,"Surveillance",6,2.2,13,37,19,56
+"Canada","CA","CAN","124","AMR",2019,"Surveillance",1.3,0.67,2.2,"Surveillance",6.7,2.2,15,41,19,63
+"Canada","CA","CAN","124","AMR",2020,"Surveillance",1.3,0.65,2.3,"Surveillance",7.6,2.1,18,39,16,62
+"Canada","CA","CAN","124","AMR",2021,"Surveillance",1.3,0.62,2.5,"Surveillance",8.5,2.1,21,41,15,67
+"Cayman Islands","KY","CYM","136","AMR",2015,"Surveillance",1.6,0.2,5.1,"Model",17,0.87,62,0,0,0
+"Cayman Islands","KY","CYM","136","AMR",2016,"Surveillance",1.5,0.21,5,"Model",16,0.94,60,0,0,0
+"Cayman Islands","KY","CYM","136","AMR",2017,"Surveillance",1.5,0.21,4.8,"Model",15,0.99,57,0,0,0
+"Cayman Islands","KY","CYM","136","AMR",2018,"Surveillance",1.5,0.22,4.7,"Model",14,1.1,55,0,0,0
+"Cayman Islands","KY","CYM","136","AMR",2019,"Surveillance",1.5,0.22,4.7,"Model",14,1.1,52,0,0,0
+"Cayman Islands","KY","CYM","136","AMR",2020,"Surveillance",1.5,0.23,4.9,"Model",13,1.1,49,0,0,0
+"Cayman Islands","KY","CYM","136","AMR",2021,"Surveillance",1.5,0.23,5,"Model",12,0.98,45,0,0,0
+"Central African Republic","CF","CAF","140","AFR",2015,"Model",1.1,0.19,3.6,"Model",17,0.66,69,390,0,920
+"Central African Republic","CF","CAF","140","AFR",2016,"Model",1.2,0.2,3.9,"Model",17,0.77,66,410,0,1000
+"Central African Republic","CF","CAF","140","AFR",2017,"Model",1.3,0.2,4.2,"Model",16,0.82,63,440,0,1100
+"Central African Republic","CF","CAF","140","AFR",2018,"Model",1.4,0.21,4.6,"Model",16,0.92,61,480,0,1200
+"Central African Republic","CF","CAF","140","AFR",2019,"Model",1.5,0.21,5,"Model",17,0.95,59,520,0,1300
+"Central African Republic","CF","CAF","140","AFR",2020,"Model",1.6,0.21,5.4,"Model",17,1,57,570,0,1400
+"Central African Republic","CF","CAF","140","AFR",2021,"Model",1.7,0.21,6.1,"Model",17,1,57,620,0,1600
+"Chad","TD","TCD","148","AFR",2015,"Surveillance",1.8,0.89,3,"Surveillance",2.8,0.84,6.6,390,110,660
+"Chad","TD","TCD","148","AFR",2016,"Surveillance",1.7,1,2.7,"Surveillance",2.8,1.1,5.6,390,150,620
+"Chad","TD","TCD","148","AFR",2017,"Surveillance",1.7,1.1,2.4,"Surveillance",2.9,1.5,5,390,170,600
+"Chad","TD","TCD","148","AFR",2018,"Surveillance",1.6,1.2,2.1,"Surveillance",3,1.9,4.4,390,200,580
+"Chad","TD","TCD","148","AFR",2019,"Surveillance",1.6,1.3,2,"Surveillance",3.2,2.2,4.3,390,220,560
+"Chad","TD","TCD","148","AFR",2020,"Surveillance",1.5,1.3,1.8,"Surveillance",3.4,2.4,4.5,400,220,570
+"Chad","TD","TCD","148","AFR",2021,"Surveillance",1.5,1.2,1.9,"Surveillance",3.6,2.3,5.3,400,220,580
+"Chile","CL","CHL","152","AMR",2015,"Surveillance",1.9,1.6,2.1,"Surveillance",6.1,5.1,7.3,63,51,76
+"Chile","CL","CHL","152","AMR",2016,"Surveillance",1.9,1.7,2.2,"Surveillance",6.1,5,7.3,66,53,78
+"Chile","CL","CHL","152","AMR",2017,"Surveillance",2,1.8,2.3,"Surveillance",6.1,4.9,7.4,74,59,88
+"Chile","CL","CHL","152","AMR",2018,"Surveillance",2.1,1.9,2.4,"Surveillance",6,4.7,7.5,83,67,99
+"Chile","CL","CHL","152","AMR",2019,"Surveillance",2.3,1.9,2.6,"Surveillance",6,4.6,7.6,86,68,100
+"Chile","CL","CHL","152","AMR",2020,"Surveillance",2.4,2,2.8,"Surveillance",5.9,4.4,7.6,74,58,91
+"Chile","CL","CHL","152","AMR",2021,"Surveillance",2.5,2,3,"Surveillance",5.9,4.3,7.8,85,65,100
+"China","CN","CHN","156","WPR",2015,"Surveillance",4.7,4.5,5,"Surveillance",23,23,24,53000,42000,64000
+"China","CN","CHN","156","WPR",2016,"Surveillance",4.5,4.3,4.7,"Surveillance",23,22,23,49000,39000,59000
+"China","CN","CHN","156","WPR",2017,"Surveillance",4.2,4.1,4.4,"Surveillance",22,22,22,46000,37000,55000
+"China","CN","CHN","156","WPR",2018,"Surveillance",4,3.9,4.1,"Surveillance",21,21,21,43000,35000,51000
+"China","CN","CHN","156","WPR",2019,"Surveillance",3.8,3.7,3.9,"Surveillance",20,20,21,39000,32000,46000
+"China","CN","CHN","156","WPR",2020,"Surveillance",3.6,3.5,3.7,"Surveillance",20,20,20,36000,30000,43000
+"China","CN","CHN","156","WPR",2021,"Surveillance",3.4,3.3,3.5,"Surveillance",19,19,20,33000,27000,39000
+"China, Hong Kong SAR","HK","HKG","344","WPR",2015,"Surveillance",0.96,0.82,1.1,"Surveillance",3,2.2,4,55,43,66
+"China, Hong Kong SAR","HK","HKG","344","WPR",2016,"Surveillance",0.96,0.82,1.1,"Surveillance",2.9,2,3.9,54,42,65
+"China, Hong Kong SAR","HK","HKG","344","WPR",2017,"Surveillance",0.96,0.81,1.1,"Surveillance",2.7,1.9,3.8,52,41,64
+"China, Hong Kong SAR","HK","HKG","344","WPR",2018,"Surveillance",0.96,0.8,1.1,"Surveillance",2.6,1.7,3.6,52,40,64
+"China, Hong Kong SAR","HK","HKG","344","WPR",2019,"Surveillance",0.95,0.79,1.1,"Surveillance",2.5,1.6,3.5,49,37,61
+"China, Hong Kong SAR","HK","HKG","344","WPR",2020,"Surveillance",0.95,0.78,1.2,"Surveillance",2.3,1.4,3.4,44,33,55
+"China, Hong Kong SAR","HK","HKG","344","WPR",2021,"Surveillance",0.95,0.77,1.2,"Surveillance",2.2,1.3,3.3,45,34,57
+"China, Macao SAR","MO","MAC","446","WPR",2015,"Surveillance",2,1.5,2.6,"Surveillance",9.1,6.3,12,11,7,15
+"China, Macao SAR","MO","MAC","446","WPR",2016,"Surveillance",2,1.5,2.7,"Surveillance",8.8,5.9,12,11,7,14
+"China, Macao SAR","MO","MAC","446","WPR",2017,"Surveillance",2,1.4,2.7,"Surveillance",8.6,5.4,12,11,7,15
+"China, Macao SAR","MO","MAC","446","WPR",2018,"Surveillance",2,1.3,2.8,"Surveillance",8.3,5,13,9,6,13
+"China, Macao SAR","MO","MAC","446","WPR",2019,"Surveillance",2,1.3,2.8,"Surveillance",8.1,4.6,13,10,6,15
+"China, Macao SAR","MO","MAC","446","WPR",2020,"Surveillance",2,1.2,2.9,"Surveillance",7.9,4.2,13,10,6,15
+"China, Macao SAR","MO","MAC","446","WPR",2021,"Surveillance",2,1.2,3,"Surveillance",7.7,3.9,13,10,5,14
+"Colombia","CO","COL","170","AMR",2015,"Model",4,1.6,8.2,"Model",5.7,3.3,9.2,590,110,1100
+"Colombia","CO","COL","170","AMR",2016,"Model",4.2,1.6,9,"Model",4.8,2.5,8.3,650,84,1200
+"Colombia","CO","COL","170","AMR",2017,"Model",4.5,1.5,9.9,"Model",4,1.9,7.5,700,49,1400
+"Colombia","CO","COL","170","AMR",2018,"Model",4.7,1.5,11,"Model",3.3,1.4,6.8,750,14,1500
+"Colombia","CO","COL","170","AMR",2019,"Model",5,1.5,12,"Model",2.8,1,6.1,860,0,1800
+"Colombia","CO","COL","170","AMR",2020,"Model",5.3,1.5,13,"Model",2.3,0.77,5.5,890,0,1900
+"Colombia","CO","COL","170","AMR",2021,"Model",5.7,1.4,14,"Model",2,0.57,5,1100,0,2400
+"Comoros","KM","COM","174","AFR",2015,"Surveillance",1.1,0.17,3.2,"Surveillance",12,0.82,50,3,0,8
+"Comoros","KM","COM","174","AFR",2016,"Surveillance",1.1,0.18,3.1,"Surveillance",12,0.82,47,3,0,8
+"Comoros","KM","COM","174","AFR",2017,"Surveillance",1.1,0.19,3,"Surveillance",11,0.81,44,3,0,8
+"Comoros","KM","COM","174","AFR",2018,"Surveillance",1.1,0.2,3,"Surveillance",11,0.82,42,3,0,8
+"Comoros","KM","COM","174","AFR",2019,"Surveillance",1.1,0.2,3.1,"Surveillance",10,0.8,38,3,0,8
+"Comoros","KM","COM","174","AFR",2020,"Surveillance",1.1,0.2,3.1,"Surveillance",9.7,0.77,37,3,0,8
+"Comoros","KM","COM","174","AFR",2021,"Surveillance",1.1,0.2,3.2,"Surveillance",9.4,0.77,37,4,0,8
+"Congo","CG","COG","178","AFR",2015,"Model",2.4,0.27,8.8,"Surveillance",18,13,23,570,0,1500
+"Congo","CG","COG","178","AFR",2016,"Model",2.3,0.28,8.4,"Surveillance",17,14,20,560,0,1500
+"Congo","CG","COG","178","AFR",2017,"Model",2.3,0.28,8.1,"Surveillance",16,13,19,560,0,1400
+"Congo","CG","COG","178","AFR",2018,"Model",2.3,0.3,7.9,"Surveillance",14,11,18,560,0,1400
+"Congo","CG","COG","178","AFR",2019,"Model",2.2,0.3,7.8,"Surveillance",13,8.6,19,560,0,1400
+"Congo","CG","COG","178","AFR",2020,"Model",2.2,0.29,7.9,"Surveillance",13,7,20,570,0,1500
+"Congo","CG","COG","178","AFR",2021,"Model",2.2,0.29,7.8,"Surveillance",12,5.6,21,570,0,1500
+"Cook Islands","CK","COK","184","WPR",2015,"Surveillance",2.5,0.22,9.1,"Model",40,6.2,85,0,0,0
+"Cook Islands","CK","COK","184","WPR",2016,"Surveillance",2.6,0.24,9.6,"Model",39,6.2,84,1,0,2
+"Cook Islands","CK","COK","184","WPR",2017,"Surveillance",2.7,0.25,10,"Model",38,6.2,83,0,0,0
+"Cook Islands","CK","COK","184","WPR",2018,"Surveillance",2.8,0.27,11,"Model",37,6.1,81,0,0,0
+"Cook Islands","CK","COK","184","WPR",2019,"Surveillance",3,0.29,12,"Model",36,5.8,80,1,0,1
+"Cook Islands","CK","COK","184","WPR",2020,"Surveillance",3.2,0.32,12,"Model",35,6.1,80,1,0,1
+"Cook Islands","CK","COK","184","WPR",2021,"Surveillance",3.4,0.35,13,"Model",34,5.7,80,0,0,1
+"Costa Rica","CR","CRI","188","AMR",2015,"Surveillance",1.4,0.83,2.2,"Surveillance",4.7,1.5,10,9,4,13
+"Costa Rica","CR","CRI","188","AMR",2016,"Surveillance",1.4,0.81,2.1,"Surveillance",4.6,1.4,10,7,4,11
+"Costa Rica","CR","CRI","188","AMR",2017,"Surveillance",1.4,0.79,2.1,"Surveillance",4.6,1.3,10,7,4,11
+"Costa Rica","CR","CRI","188","AMR",2018,"Surveillance",1.4,0.75,2.1,"Surveillance",4.6,1.1,11,8,3,12
+"Costa Rica","CR","CRI","188","AMR",2019,"Surveillance",1.3,0.71,2.2,"Surveillance",4.5,1,11,8,3,12
+"Costa Rica","CR","CRI","188","AMR",2020,"Surveillance",1.3,0.69,2.2,"Surveillance",4.5,0.94,12,7,3,12
+"Costa Rica","CR","CRI","188","AMR",2021,"Surveillance",1.3,0.66,2.2,"Surveillance",4.5,0.84,12,8,3,13
+"Côte d'Ivoire","CI","CIV","384","AFR",2015,"Survey",3.8,2.6,5.5,"Survey & Surveillance",29,26,31,1600,690,2600
+"Côte d'Ivoire","CI","CIV","384","AFR",2016,"Survey",3.8,2.5,5.7,"Survey & Surveillance",28,26,30,1600,670,2500
+"Côte d'Ivoire","CI","CIV","384","AFR",2017,"Survey",3.8,2.4,5.8,"Survey & Surveillance",27,25,28,1600,650,2500
+"Côte d'Ivoire","CI","CIV","384","AFR",2018,"Survey",3.9,2.4,6,"Survey & Surveillance",26,24,27,1600,640,2500
+"Côte d'Ivoire","CI","CIV","384","AFR",2019,"Survey",3.9,2.3,6.2,"Survey & Surveillance",25,23,26,1600,610,2500
+"Côte d'Ivoire","CI","CIV","384","AFR",2020,"Survey",3.9,2.2,6.5,"Survey & Surveillance",24,22,26,1600,550,2600
+"Côte d'Ivoire","CI","CIV","384","AFR",2021,"Survey",4,2.1,6.8,"Survey & Surveillance",23,21,25,1600,480,2600
+"Croatia","HR","HRV","191","EUR",2015,"Surveillance",0.49,0.26,0.86,"Surveillance",5.1,2.1,9.4,4,2,6
+"Croatia","HR","HRV","191","EUR",2016,"Surveillance",0.49,0.24,0.89,"Surveillance",5.3,2.1,10,3,1,5
+"Croatia","HR","HRV","191","EUR",2017,"Surveillance",0.49,0.24,0.91,"Surveillance",5.5,2,11,3,1,5
+"Croatia","HR","HRV","191","EUR",2018,"Surveillance",0.49,0.22,0.94,"Surveillance",5.8,2,12,3,1,5
+"Croatia","HR","HRV","191","EUR",2019,"Surveillance",0.49,0.21,0.97,"Surveillance",6,1.9,13,2,1,4
+"Croatia","HR","HRV","191","EUR",2020,"Surveillance",0.49,0.2,1,"Surveillance",6.3,1.9,14,1,0,2
+"Croatia","HR","HRV","191","EUR",2021,"Surveillance",0.49,0.19,1.1,"Surveillance",6.6,1.8,15,1,0,2
+"Cuba","CU","CUB","192","AMR",2015,"Model",2.2,1,4,"Surveillance",19,14,24,29,12,47
+"Cuba","CU","CUB","192","AMR",2016,"Model",2.3,1,4.5,"Surveillance",20,14,26,31,12,51
+"Cuba","CU","CUB","192","AMR",2017,"Model",2.5,1.1,5.1,"Surveillance",21,15,29,35,11,59
+"Cuba","CU","CUB","192","AMR",2018,"Model",2.7,1.1,5.8,"Surveillance",23,15,31,38,11,65
+"Cuba","CU","CUB","192","AMR",2019,"Model",3,1.1,6.5,"Surveillance",24,16,34,36,9,64
+"Cuba","CU","CUB","192","AMR",2020,"Model",3.2,1.1,7.3,"Surveillance",26,16,37,38,8,69
+"Cuba","CU","CUB","192","AMR",2021,"Model",3.5,1.1,8.3,"Surveillance",28,17,40,44,7,82
+"Curaçao","CW","CUW","531","AMR",2015,"Surveillance",4,0.8,11,"Model",20,1.1,72,0,0,1
+"Curaçao","CW","CUW","531","AMR",2016,"Surveillance",4,0.88,11,"Model",18,1.1,69,0,0,0
+"Curaçao","CW","CUW","531","AMR",2017,"Surveillance",4,0.9,11,"Model",17,1.1,65,1,0,1
+"Curaçao","CW","CUW","531","AMR",2018,"Surveillance",4,0.92,11,"Model",15,0.99,61,1,0,1
+"Curaçao","CW","CUW","531","AMR",2019,"Surveillance",4.1,0.91,12,"Model",14,1,59,1,0,1
+"Curaçao","CW","CUW","531","AMR",2020,"Surveillance",4.1,0.94,12,"Model",13,1,55,1,0,2
+"Curaçao","CW","CUW","531","AMR",2021,"Surveillance",4.2,0.89,13,"Model",12,0.92,51,1,0,2
+"Cyprus","CY","CYP","196","EUR",2015,"Surveillance",1.5,0.61,3,"Surveillance",9.8,1.5,26,1,0,2
+"Cyprus","CY","CYP","196","EUR",2016,"Surveillance",1.4,0.55,2.8,"Surveillance",9.7,1.6,26,1,0,2
+"Cyprus","CY","CYP","196","EUR",2017,"Surveillance",1.4,0.49,2.7,"Surveillance",9.7,1.6,26,1,0,2
+"Cyprus","CY","CYP","196","EUR",2018,"Surveillance",1.3,0.45,2.6,"Surveillance",9.7,1.6,26,1,0,2
+"Cyprus","CY","CYP","196","EUR",2019,"Surveillance",1.2,0.39,2.6,"Surveillance",9.7,1.6,28,1,0,2
+"Cyprus","CY","CYP","196","EUR",2020,"Surveillance",1.1,0.34,2.5,"Surveillance",9.8,1.5,29,1,0,1
+"Cyprus","CY","CYP","196","EUR",2021,"Surveillance",1.1,0.3,2.5,"Surveillance",10,1.4,31,1,0,2
+"Czechia","CZ","CZE","203","EUR",2015,"Surveillance",2.4,1.9,3,"Surveillance",12,7.2,18,17,12,22
+"Czechia","CZ","CZE","203","EUR",2016,"Surveillance",2.5,1.9,3.2,"Surveillance",12,6.8,19,18,13,23
+"Czechia","CZ","CZE","203","EUR",2017,"Surveillance",2.6,2,3.4,"Surveillance",12,6.4,20,18,13,24
+"Czechia","CZ","CZE","203","EUR",2018,"Surveillance",2.7,2,3.5,"Surveillance",12,6.2,21,16,11,22
+"Czechia","CZ","CZE","203","EUR",2019,"Surveillance",2.9,2,3.8,"Surveillance",13,6.1,22,18,12,24
+"Czechia","CZ","CZE","203","EUR",2020,"Surveillance",3,2.1,4,"Surveillance",13,5.9,23,15,10,20
+"Czechia","CZ","CZE","203","EUR",2021,"Surveillance",3.1,2.1,4.2,"Surveillance",13,5.6,24,15,9,20
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2015,"Model",2.4,1.1,4.5,"Model",15,8.4,24,5200,2200,8100
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2016,"Model",2.4,1.1,4.6,"Model",14,7.3,24,5200,2100,8200
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2017,"Model",2.4,1.1,4.8,"Model",14,6.3,25,5200,2000,8300
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2018,"Model",2.4,1.1,4.9,"Model",13,5.4,26,5200,1800,8500
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2019,"Model",2.5,1.1,5,"Model",13,4.7,27,5200,1700,8700
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2020,"Model",2.5,1,5.3,"Model",12,3.9,28,5200,1500,9000
+"Democratic People's Republic of Korea","KP","PRK","408","SEA",2021,"Model",2.5,0.96,5.4,"Model",12,3.3,31,5300,1300,9200
+"Democratic Republic of the Congo","CD","COD","180","AFR",2015,"Survey",1.8,0.92,3,"Survey & Surveillance",7.7,7,8.4,5500,1600,9400
+"Democratic Republic of the Congo","CD","COD","180","AFR",2016,"Survey",1.7,0.92,2.9,"Survey & Surveillance",9,8.4,9.7,5600,1800,9400
+"Democratic Republic of the Congo","CD","COD","180","AFR",2017,"Survey",1.7,0.91,2.8,"Survey & Surveillance",11,10,11,5700,1900,9500
+"Democratic Republic of the Congo","CD","COD","180","AFR",2018,"Survey",1.7,0.89,2.8,"Survey & Surveillance",12,12,13,5900,1900,9800
+"Democratic Republic of the Congo","CD","COD","180","AFR",2019,"Survey",1.7,0.85,2.8,"Survey & Surveillance",15,14,15,6000,1900,10000
+"Democratic Republic of the Congo","CD","COD","180","AFR",2020,"Survey",1.6,0.81,3,"Survey & Surveillance",17,16,18,6200,1600,11000
+"Democratic Republic of the Congo","CD","COD","180","AFR",2021,"Survey",1.6,0.76,3.1,"Survey & Surveillance",20,18,21,6400,1400,11000
+"Denmark","DK","DNK","208","EUR",2015,"Surveillance",1.1,0.7,1.6,"Surveillance",2.6,0.99,5.1,5,3,7
+"Denmark","DK","DNK","208","EUR",2016,"Surveillance",1.2,0.73,1.8,"Surveillance",2.9,1.1,5.8,5,3,7
+"Denmark","DK","DNK","208","EUR",2017,"Surveillance",1.3,0.75,1.9,"Surveillance",3.2,1.1,6.7,5,3,7
+"Denmark","DK","DNK","208","EUR",2018,"Surveillance",1.3,0.77,2.1,"Surveillance",3.5,1.1,7.7,5,3,8
+"Denmark","DK","DNK","208","EUR",2019,"Surveillance",1.4,0.79,2.3,"Surveillance",3.9,1.1,8.9,5,3,8
+"Denmark","DK","DNK","208","EUR",2020,"Surveillance",1.5,0.81,2.5,"Surveillance",4.4,1.1,11,5,2,7
+"Denmark","DK","DNK","208","EUR",2021,"Surveillance",1.6,0.83,2.8,"Surveillance",4.8,1.2,12,5,2,7
+"Djibouti","DJ","DJI","262","EMR",2015,"Survey",4.2,2.4,6.9,"Survey & Surveillance",24,18,30,160,55,270
+"Djibouti","DJ","DJI","262","EMR",2016,"Survey",4,2.3,6.8,"Survey & Surveillance",20,14,26,150,50,250
+"Djibouti","DJ","DJI","262","EMR",2017,"Survey",3.9,2.1,6.8,"Survey & Surveillance",16,11,22,120,39,190
+"Djibouti","DJ","DJI","262","EMR",2018,"Survey",3.7,1.9,6.8,"Survey & Surveillance",13,8.1,20,110,32,190
+"Djibouti","DJ","DJI","262","EMR",2019,"Survey",3.6,1.7,6.8,"Survey & Surveillance",11,5.8,18,96,24,170
+"Djibouti","DJ","DJI","262","EMR",2020,"Survey",3.5,1.5,6.9,"Survey & Surveillance",9.1,4.1,17,89,18,160
+"Djibouti","DJ","DJI","262","EMR",2021,"Survey",3.4,1.3,7,"Survey & Surveillance",7.5,2.9,15,81,11,150
+"Dominica","DM","DMA","212","AMR",2015,"Model",3.1,0.3,13,"Surveillance",10,1,34,0,0,1
+"Dominica","DM","DMA","212","AMR",2016,"Model",3.1,0.32,12,"Surveillance",10,1.2,34,0,0,1
+"Dominica","DM","DMA","212","AMR",2017,"Model",3.2,0.33,13,"Surveillance",10,1.2,35,0,0,0
+"Dominica","DM","DMA","212","AMR",2018,"Model",3.3,0.37,13,"Surveillance",10,1.3,34,0,0,1
+"Dominica","DM","DMA","212","AMR",2019,"Model",3.4,0.38,12,"Surveillance",11,1.4,35,1,0,2
+"Dominica","DM","DMA","212","AMR",2020,"Model",3.5,0.4,13,"Surveillance",11,1.3,37,1,0,2
+"Dominica","DM","DMA","212","AMR",2021,"Model",3.7,0.42,14,"Surveillance",11,1.3,38,1,0,2
+"Dominican Republic","DO","DOM","214","AMR",2015,"Surveillance",7.8,4.5,13,"Surveillance",32,26,39,570,270,870
+"Dominican Republic","DO","DOM","214","AMR",2016,"Surveillance",7.6,4.9,11,"Surveillance",28,23,32,510,280,740
+"Dominican Republic","DO","DOM","214","AMR",2017,"Surveillance",7.5,5.2,10,"Surveillance",23,19,27,440,270,610
+"Dominican Republic","DO","DOM","214","AMR",2018,"Surveillance",7.3,5.6,9.3,"Surveillance",19,16,23,420,270,560
+"Dominican Republic","DO","DOM","214","AMR",2019,"Surveillance",7.2,5.9,8.6,"Surveillance",16,12,20,380,260,490
+"Dominican Republic","DO","DOM","214","AMR",2020,"Surveillance",7.2,6.1,8.4,"Surveillance",13,9.6,17,360,250,470
+"Dominican Republic","DO","DOM","214","AMR",2021,"Surveillance",7.1,5.8,8.6,"Surveillance",11,7.3,15,380,260,510
+"Ecuador","EC","ECU","218","AMR",2015,"Surveillance",3.9,3.3,4.6,"Surveillance",28,26,30,350,240,460
+"Ecuador","EC","ECU","218","AMR",2016,"Surveillance",3.8,3.1,4.4,"Surveillance",27,25,29,350,230,460
+"Ecuador","EC","ECU","218","AMR",2017,"Surveillance",3.6,3,4.3,"Surveillance",27,25,29,360,240,490
+"Ecuador","EC","ECU","218","AMR",2018,"Surveillance",3.4,2.8,4.1,"Surveillance",27,25,29,360,230,490
+"Ecuador","EC","ECU","218","AMR",2019,"Surveillance",3.3,2.6,4,"Surveillance",27,24,29,370,240,510
+"Ecuador","EC","ECU","218","AMR",2020,"Surveillance",3.2,2.5,3.9,"Surveillance",27,24,30,350,220,490
+"Ecuador","EC","ECU","218","AMR",2021,"Surveillance",3,2.3,3.7,"Surveillance",26,23,30,370,220,520
+"Egypt","EG","EGY","818","EMR",2015,"Surveillance",3.2,2.9,3.5,"Surveillance",22,21,23,610,510,710
+"Egypt","EG","EGY","818","EMR",2016,"Surveillance",2.8,2.5,3.1,"Surveillance",20,19,22,510,430,600
+"Egypt","EG","EGY","818","EMR",2017,"Surveillance",2.4,2.1,2.6,"Surveillance",19,17,20,430,360,500
+"Egypt","EG","EGY","818","EMR",2018,"Surveillance",2.1,1.8,2.3,"Surveillance",17,15,19,360,300,420
+"Egypt","EG","EGY","818","EMR",2019,"Surveillance",1.8,1.5,2,"Surveillance",16,14,17,300,250,350
+"Egypt","EG","EGY","818","EMR",2020,"Surveillance",1.5,1.3,1.8,"Surveillance",14,13,16,250,200,300
+"Egypt","EG","EGY","818","EMR",2021,"Surveillance",1.3,1.1,1.6,"Surveillance",13,11,15,210,170,250
+"El Salvador","SV","SLV","222","AMR",2015,"Model",1.1,0.3,2.6,"Model",6.4,2.8,11,47,0,98
+"El Salvador","SV","SLV","222","AMR",2016,"Model",1.1,0.29,2.7,"Model",6.2,2.5,12,58,0,120
+"El Salvador","SV","SLV","222","AMR",2017,"Model",1.1,0.27,2.8,"Model",6.1,2.3,12,70,0,150
+"El Salvador","SV","SLV","222","AMR",2018,"Model",1.1,0.25,2.9,"Model",6,2.1,12,70,0,160
+"El Salvador","SV","SLV","222","AMR",2019,"Model",1.1,0.24,3,"Model",5.9,1.9,12,58,0,130
+"El Salvador","SV","SLV","222","AMR",2020,"Model",1.1,0.22,3.2,"Model",5.7,1.7,13,55,0,130
+"El Salvador","SV","SLV","222","AMR",2021,"Model",1.1,0.2,3.3,"Model",5.6,1.5,13,50,0,120
+"Equatorial Guinea","GQ","GNQ","226","AFR",2015,"Model",3.3,0.24,15,"Surveillance",31,19,45,210,0,580
+"Equatorial Guinea","GQ","GNQ","226","AFR",2016,"Model",3.2,0.25,14,"Surveillance",28,19,38,220,0,630
+"Equatorial Guinea","GQ","GNQ","226","AFR",2017,"Model",3.1,0.24,14,"Surveillance",25,18,32,220,0,610
+"Equatorial Guinea","GQ","GNQ","226","AFR",2018,"Model",3.1,0.24,14,"Surveillance",22,18,27,190,0,540
+"Equatorial Guinea","GQ","GNQ","226","AFR",2019,"Model",3,0.24,13,"Surveillance",20,16,24,220,0,620
+"Equatorial Guinea","GQ","GNQ","226","AFR",2020,"Model",3,0.24,13,"Surveillance",18,13,23,210,0,590
+"Equatorial Guinea","GQ","GNQ","226","AFR",2021,"Model",3,0.24,13,"Surveillance",16,10,22,210,0,610
+"Eritrea","ER","ERI","232","AFR",2015,"Survey & Surveillance",2.4,1.5,3.6,"Survey & Surveillance",6.8,3.1,13,90,9,170
+"Eritrea","ER","ERI","232","AFR",2016,"Survey & Surveillance",2.5,1.7,3.5,"Survey & Surveillance",6.6,3.5,11,100,9,190
+"Eritrea","ER","ERI","232","AFR",2017,"Survey & Surveillance",2.6,1.9,3.5,"Survey & Surveillance",6.5,3.9,9.8,96,16,180
+"Eritrea","ER","ERI","232","AFR",2018,"Survey & Surveillance",2.7,2.1,3.5,"Survey & Surveillance",6.4,4.1,9.3,92,23,160
+"Eritrea","ER","ERI","232","AFR",2019,"Survey & Surveillance",2.9,2.2,3.6,"Survey & Surveillance",6.4,4,9.4,94,26,160
+"Eritrea","ER","ERI","232","AFR",2020,"Survey & Surveillance",3,2.3,3.9,"Survey & Surveillance",6.4,3.8,9.9,92,23,160
+"Eritrea","ER","ERI","232","AFR",2021,"Survey & Surveillance",3.2,2.2,4.3,"Survey & Surveillance",6.5,3.4,11,92,18,170
+"Estonia","EE","EST","233","EUR",2015,"Surveillance",20,18,22,"Surveillance",53,48,59,58,47,70
+"Estonia","EE","EST","233","EUR",2016,"Surveillance",20,18,22,"Surveillance",54,48,59,54,43,65
+"Estonia","EE","EST","233","EUR",2017,"Surveillance",21,18,23,"Surveillance",54,48,60,50,40,61
+"Estonia","EE","EST","233","EUR",2018,"Surveillance",21,18,24,"Surveillance",54,48,61,43,34,53
+"Estonia","EE","EST","233","EUR",2019,"Surveillance",21,19,24,"Surveillance",55,48,62,45,35,54
+"Estonia","EE","EST","233","EUR",2020,"Surveillance",22,19,25,"Surveillance",55,48,62,37,29,46
+"Estonia","EE","EST","233","EUR",2021,"Surveillance",22,19,26,"Surveillance",55,48,63,34,26,42
+"Eswatini","SZ","SWZ","748","AFR",2015,"Survey & Surveillance",6.9,5.9,8,"Survey & Surveillance",42,37,47,650,150,1100
+"Eswatini","SZ","SWZ","748","AFR",2016,"Survey & Surveillance",6.5,5.7,7.4,"Survey & Surveillance",42,37,48,520,190,850
+"Eswatini","SZ","SWZ","748","AFR",2017,"Survey & Surveillance",6.2,5.5,6.9,"Survey & Surveillance",43,37,48,470,180,760
+"Eswatini","SZ","SWZ","748","AFR",2018,"Survey & Surveillance",5.8,5.1,6.6,"Survey & Surveillance",43,37,49,400,180,620
+"Eswatini","SZ","SWZ","748","AFR",2019,"Survey & Surveillance",5.5,4.7,6.5,"Survey & Surveillance",44,36,51,320,170,470
+"Eswatini","SZ","SWZ","748","AFR",2020,"Survey & Surveillance",5.2,4.3,6.3,"Survey & Surveillance",44,36,52,290,150,440
+"Eswatini","SZ","SWZ","748","AFR",2021,"Survey & Surveillance",5,3.9,6.2,"Survey & Surveillance",44,36,53,290,140,440
+"Ethiopia","ET","ETH","231","AFR",2015,"Survey & Surveillance",1.1,0.96,1.2,"Survey & Surveillance",15,13,17,2600,1500,3600
+"Ethiopia","ET","ETH","231","AFR",2016,"Survey & Surveillance",1.1,0.98,1.1,"Survey & Surveillance",14,13,16,2400,1400,3500
+"Ethiopia","ET","ETH","231","AFR",2017,"Survey & Surveillance",1.1,0.99,1.1,"Survey & Surveillance",14,13,15,2300,1400,3200
+"Ethiopia","ET","ETH","231","AFR",2018,"Survey & Surveillance",1.1,0.99,1.1,"Survey & Surveillance",13,12,14,2200,1400,3000
+"Ethiopia","ET","ETH","231","AFR",2019,"Survey & Surveillance",1.1,0.99,1.1,"Survey & Surveillance",13,11,14,2100,1400,2800
+"Ethiopia","ET","ETH","231","AFR",2020,"Survey & Surveillance",1.1,0.97,1.2,"Survey & Surveillance",12,10,14,1900,1300,2600
+"Ethiopia","ET","ETH","231","AFR",2021,"Survey & Surveillance",1.1,0.95,1.2,"Survey & Surveillance",12,9.6,14,1800,1100,2500
+"Fiji","FJ","FJI","242","WPR",2015,"Surveillance",0.89,0.37,1.7,"Surveillance",9.2,1.9,24,7,1,12
+"Fiji","FJ","FJI","242","WPR",2016,"Surveillance",0.92,0.4,1.7,"Surveillance",9,2.1,21,6,1,10
+"Fiji","FJ","FJI","242","WPR",2017,"Surveillance",0.95,0.42,1.7,"Surveillance",8.8,2.3,20,7,2,11
+"Fiji","FJ","FJI","242","WPR",2018,"Surveillance",0.98,0.44,1.7,"Surveillance",8.7,2.4,19,7,2,12
+"Fiji","FJ","FJI","242","WPR",2019,"Surveillance",1,0.45,1.8,"Surveillance",8.7,2.5,18,9,3,15
+"Fiji","FJ","FJI","242","WPR",2020,"Surveillance",1.1,0.46,1.9,"Surveillance",8.7,2.4,19,9,3,16
+"Fiji","FJ","FJI","242","WPR",2021,"Surveillance",1.1,0.46,2.1,"Surveillance",8.8,2.2,20,10,3,17
+"Finland","FI","FIN","246","EUR",2015,"Surveillance",2.3,1.7,3,"Surveillance",10,3.8,21,8,5,10
+"Finland","FI","FIN","246","EUR",2016,"Surveillance",2.5,1.8,3.2,"Surveillance",11,4,24,7,5,9
+"Finland","FI","FIN","246","EUR",2017,"Surveillance",2.6,1.9,3.6,"Surveillance",13,4.1,27,8,5,11
+"Finland","FI","FIN","246","EUR",2018,"Surveillance",2.8,1.9,3.9,"Surveillance",14,4.2,30,8,5,11
+"Finland","FI","FIN","246","EUR",2019,"Surveillance",3,2,4.3,"Surveillance",15,4.2,35,9,5,12
+"Finland","FI","FIN","246","EUR",2020,"Surveillance",3.2,2.1,4.6,"Surveillance",16,4.3,39,7,4,10
+"Finland","FI","FIN","246","EUR",2021,"Surveillance",3.4,2.2,5,"Surveillance",18,4.3,43,7,4,11
+"France","FR","FRA","250","EUR",2015,"Model",0.7,0.39,1.1,"Model",14,6.4,24,87,48,130
+"France","FR","FRA","250","EUR",2016,"Model",0.69,0.36,1.1,"Model",14,6.1,26,91,47,130
+"France","FR","FRA","250","EUR",2017,"Model",0.67,0.34,1.1,"Model",14,5.9,28,94,46,140
+"France","FR","FRA","250","EUR",2018,"Model",0.66,0.32,1.2,"Model",15,5.6,29,93,42,140
+"France","FR","FRA","250","EUR",2019,"Model",0.64,0.29,1.2,"Model",15,5.4,31,95,40,150
+"France","FR","FRA","250","EUR",2020,"Model",0.63,0.27,1.2,"Model",15,5.3,33,87,34,140
+"France","FR","FRA","250","EUR",2021,"Model",0.62,0.25,1.2,"Model",16,5.1,35,81,29,130
+"French Polynesia","PF","PYF","258","WPR",2015,"Surveillance",2.9,1.4,4.9,"Surveillance",8.5,2.4,18,2,1,3
+"French Polynesia","PF","PYF","258","WPR",2016,"Surveillance",3.3,1.7,5.6,"Surveillance",9.1,2.6,20,2,1,4
+"French Polynesia","PF","PYF","258","WPR",2017,"Surveillance",3.8,1.9,6.5,"Surveillance",9.8,2.6,21,3,1,4
+"French Polynesia","PF","PYF","258","WPR",2018,"Surveillance",4.3,2.1,7.5,"Surveillance",11,2.8,22,3,1,5
+"French Polynesia","PF","PYF","258","WPR",2019,"Surveillance",4.8,2.2,8.7,"Surveillance",11,3,24,3,1,5
+"French Polynesia","PF","PYF","258","WPR",2020,"Surveillance",5.5,2.4,10,"Surveillance",12,3.1,28,5,1,8
+"French Polynesia","PF","PYF","258","WPR",2021,"Surveillance",6.3,2.6,12,"Surveillance",14,3.1,33,3,1,5
+"Gabon","GA","GAB","266","AFR",2015,"Model",3.2,0.21,15,"Surveillance",12,7.7,17,460,0,1400
+"Gabon","GA","GAB","266","AFR",2016,"Model",3.2,0.21,15,"Surveillance",16,12,21,480,0,1400
+"Gabon","GA","GAB","266","AFR",2017,"Model",3.1,0.22,15,"Surveillance",22,19,26,510,0,1500
+"Gabon","GA","GAB","266","AFR",2018,"Model",3.1,0.22,14,"Surveillance",30,26,33,550,0,1500
+"Gabon","GA","GAB","266","AFR",2019,"Model",3.1,0.22,14,"Surveillance",38,34,43,600,0,1600
+"Gabon","GA","GAB","266","AFR",2020,"Model",3.1,0.22,15,"Surveillance",48,41,55,650,0,1700
+"Gabon","GA","GAB","266","AFR",2021,"Model",3.1,0.22,15,"Surveillance",57,48,66,700,0,1800
+"Gambia","GM","GMB","270","AFR",2015,"Model",1.9,0.35,5.7,"Surveillance",4.5,1.1,13,80,0,200
+"Gambia","GM","GMB","270","AFR",2016,"Model",2,0.36,6.3,"Surveillance",4.9,1.4,12,85,0,210
+"Gambia","GM","GMB","270","AFR",2017,"Model",2.1,0.36,6.7,"Surveillance",5.3,1.9,12,90,0,230
+"Gambia","GM","GMB","270","AFR",2018,"Model",2.2,0.37,7.4,"Surveillance",5.9,2.5,12,96,0,250
+"Gambia","GM","GMB","270","AFR",2019,"Model",2.3,0.35,7.9,"Surveillance",6.7,3.3,12,100,0,270
+"Gambia","GM","GMB","270","AFR",2020,"Model",2.5,0.33,8.4,"Surveillance",7.6,3.7,13,110,0,290
+"Gambia","GM","GMB","270","AFR",2021,"Model",2.6,0.32,9.2,"Surveillance",8.7,4.1,15,110,0,310
+"Georgia","GE","GEO","268","EUR",2015,"Surveillance",11,11,12,"Surveillance",32,30,33,600,430,770
+"Georgia","GE","GEO","268","EUR",2016,"Surveillance",11,11,12,"Surveillance",31,30,33,560,430,690
+"Georgia","GE","GEO","268","EUR",2017,"Surveillance",12,11,12,"Surveillance",31,30,33,530,410,640
+"Georgia","GE","GEO","268","EUR",2018,"Surveillance",12,11,12,"Surveillance",31,29,33,490,390,600
+"Georgia","GE","GEO","268","EUR",2019,"Surveillance",12,11,13,"Surveillance",31,29,33,460,370,550
+"Georgia","GE","GEO","268","EUR",2020,"Surveillance",12,11,13,"Surveillance",31,29,33,430,340,520
+"Georgia","GE","GEO","268","EUR",2021,"Surveillance",12,11,13,"Surveillance",31,28,33,410,320,490
+"Germany","DE","DEU","276","EUR",2015,"Surveillance",1.9,1.5,2.4,"Surveillance",19,16,23,170,130,200
+"Germany","DE","DEU","276","EUR",2016,"Surveillance",2,1.5,2.5,"Surveillance",20,16,24,170,130,210
+"Germany","DE","DEU","276","EUR",2017,"Surveillance",2,1.5,2.6,"Surveillance",21,17,26,160,120,200
+"Germany","DE","DEU","276","EUR",2018,"Surveillance",2,1.5,2.6,"Surveillance",22,18,28,160,120,210
+"Germany","DE","DEU","276","EUR",2019,"Surveillance",2,1.5,2.7,"Surveillance",23,18,29,150,110,190
+"Germany","DE","DEU","276","EUR",2020,"Surveillance",2.1,1.5,2.8,"Surveillance",24,19,31,130,94,170
+"Germany","DE","DEU","276","EUR",2021,"Surveillance",2.1,1.4,2.9,"Surveillance",26,19,33,130,89,160
+"Ghana","GH","GHA","288","AFR",2015,"Survey & Surveillance",1.6,1.2,1.9,"Survey & Surveillance",23,19,26,960,280,1600
+"Ghana","GH","GHA","288","AFR",2016,"Survey & Surveillance",1.7,1.4,2,"Survey & Surveillance",17,15,19,960,310,1600
+"Ghana","GH","GHA","288","AFR",2017,"Survey & Surveillance",1.8,1.6,2,"Survey & Surveillance",12,11,14,970,340,1600
+"Ghana","GH","GHA","288","AFR",2018,"Survey & Surveillance",2,1.8,2.2,"Survey & Surveillance",9,8,10,1000,370,1600
+"Ghana","GH","GHA","288","AFR",2019,"Survey & Surveillance",2.2,2,2.3,"Survey & Surveillance",6.5,5.5,7.6,1000,410,1700
+"Ghana","GH","GHA","288","AFR",2020,"Survey & Surveillance",2.4,2.1,2.6,"Survey & Surveillance",4.6,3.6,5.7,1100,410,1800
+"Ghana","GH","GHA","288","AFR",2021,"Survey & Surveillance",2.6,2.2,3,"Survey & Surveillance",3.3,2.4,4.4,1200,410,1900
+"Greece","GR","GRC","300","EUR",2015,"Surveillance",2.8,1.6,4.5,"Surveillance",13,5.6,24,18,10,27
+"Greece","GR","GRC","300","EUR",2016,"Surveillance",2.7,1.5,4.4,"Surveillance",12,4.9,23,16,8,24
+"Greece","GR","GRC","300","EUR",2017,"Surveillance",2.6,1.4,4.3,"Surveillance",11,4.1,22,16,8,25
+"Greece","GR","GRC","300","EUR",2018,"Surveillance",2.5,1.2,4.2,"Surveillance",10,3.4,22,15,7,23
+"Greece","GR","GRC","300","EUR",2019,"Surveillance",2.4,1.1,4.2,"Surveillance",9.5,2.8,21,15,6,24
+"Greece","GR","GRC","300","EUR",2020,"Surveillance",2.3,1.1,4.2,"Surveillance",8.9,2.3,21,13,5,20
+"Greece","GR","GRC","300","EUR",2021,"Surveillance",2.2,0.97,4.2,"Surveillance",8.3,1.9,21,12,4,19
+"Grenada","GD","GRD","308","AMR",2015,"Surveillance",2.8,0.36,9.7,"Model",19,1.4,62,0,0,1
+"Grenada","GD","GRD","308","AMR",2016,"Surveillance",2.7,0.36,9.3,"Model",18,1.5,59,0,0,1
+"Grenada","GD","GRD","308","AMR",2017,"Surveillance",2.7,0.39,9.2,"Model",18,1.6,57,0,0,1
+"Grenada","GD","GRD","308","AMR",2018,"Surveillance",2.7,0.38,9.1,"Model",17,1.8,56,0,0,0
+"Grenada","GD","GRD","308","AMR",2019,"Surveillance",2.6,0.37,9.1,"Model",17,1.8,56,0,0,1
+"Grenada","GD","GRD","308","AMR",2020,"Surveillance",2.6,0.36,8.7,"Model",17,1.7,53,0,0,1
+"Grenada","GD","GRD","308","AMR",2021,"Surveillance",2.6,0.37,8.5,"Model",16,1.6,53,0,0,1
+"Guam","GU","GUM","316","WPR",2015,"Surveillance",2.4,1.3,4.1,"Surveillance",9.4,1.4,26,2,1,4
+"Guam","GU","GUM","316","WPR",2016,"Surveillance",2.5,1.3,4.1,"Surveillance",9.7,1.5,27,2,1,4
+"Guam","GU","GUM","316","WPR",2017,"Surveillance",2.5,1.3,4.2,"Surveillance",10,1.6,27,3,1,4
+"Guam","GU","GUM","316","WPR",2018,"Surveillance",2.5,1.3,4.4,"Surveillance",11,1.8,27,2,1,4
+"Guam","GU","GUM","316","WPR",2019,"Surveillance",2.6,1.3,4.6,"Surveillance",11,1.9,29,3,1,4
+"Guam","GU","GUM","316","WPR",2020,"Surveillance",2.6,1.2,4.8,"Surveillance",12,2,31,2,1,3
+"Guam","GU","GUM","316","WPR",2021,"Surveillance",2.6,1.2,5.1,"Surveillance",12,1.9,34,2,1,4
+"Guatemala","GT","GTM","320","AMR",2015,"Surveillance",2.1,1.6,2.7,"Surveillance",15,13,18,120,79,160
+"Guatemala","GT","GTM","320","AMR",2016,"Surveillance",2.1,1.6,2.6,"Surveillance",15,12,17,110,74,150
+"Guatemala","GT","GTM","320","AMR",2017,"Surveillance",2,1.5,2.5,"Surveillance",14,11,17,110,74,160
+"Guatemala","GT","GTM","320","AMR",2018,"Surveillance",1.9,1.4,2.5,"Surveillance",13,11,16,110,72,160
+"Guatemala","GT","GTM","320","AMR",2019,"Surveillance",1.8,1.4,2.4,"Surveillance",13,9.9,15,110,70,160
+"Guatemala","GT","GTM","320","AMR",2020,"Surveillance",1.7,1.3,2.3,"Surveillance",12,9.3,15,100,64,150
+"Guatemala","GT","GTM","320","AMR",2021,"Surveillance",1.7,1.2,2.3,"Surveillance",11,8.7,14,110,64,150
+"Guinea","GN","GIN","324","AFR",2015,"Model",2.3,0.33,8.6,"Surveillance",55,49,62,720,0,1700
+"Guinea","GN","GIN","324","AFR",2016,"Model",2.3,0.33,8.3,"Surveillance",48,43,53,710,0,1700
+"Guinea","GN","GIN","324","AFR",2017,"Model",2.3,0.33,8,"Surveillance",40,37,44,690,0,1600
+"Guinea","GN","GIN","324","AFR",2018,"Model",2.3,0.33,8.1,"Surveillance",33,31,36,680,0,1700
+"Guinea","GN","GIN","324","AFR",2019,"Model",2.3,0.34,8,"Surveillance",27,25,29,670,0,1700
+"Guinea","GN","GIN","324","AFR",2020,"Model",2.3,0.34,8.1,"Surveillance",22,19,24,670,0,1700
+"Guinea","GN","GIN","324","AFR",2021,"Model",2.3,0.33,8.1,"Surveillance",17,14,20,660,0,1700
+"Guinea-Bissau","GW","GNB","624","AFR",2015,"Surveillance",1.8,0.88,3.2,"Surveillance",52,25,79,150,47,250
+"Guinea-Bissau","GW","GNB","624","AFR",2016,"Surveillance",1.7,0.96,2.9,"Surveillance",51,27,75,150,56,250
+"Guinea-Bissau","GW","GNB","624","AFR",2017,"Surveillance",1.7,1.1,2.6,"Surveillance",50,29,71,150,64,240
+"Guinea-Bissau","GW","GNB","624","AFR",2018,"Surveillance",1.7,1.2,2.4,"Surveillance",49,29,68,150,71,240
+"Guinea-Bissau","GW","GNB","624","AFR",2019,"Surveillance",1.7,1.2,2.3,"Surveillance",48,28,66,160,75,240
+"Guinea-Bissau","GW","GNB","624","AFR",2020,"Surveillance",1.7,1.2,2.3,"Surveillance",46,27,66,160,77,240
+"Guinea-Bissau","GW","GNB","624","AFR",2021,"Surveillance",1.7,1.2,2.3,"Surveillance",45,25,67,160,77,250
+"Guyana","GY","GUY","328","AMR",2015,"Surveillance",2.5,1.4,4,"Surveillance",10,4.7,17,26,13,40
+"Guyana","GY","GUY","328","AMR",2016,"Surveillance",2.4,1.4,3.7,"Surveillance",9.1,4.9,14,25,13,37
+"Guyana","GY","GUY","328","AMR",2017,"Surveillance",2.4,1.4,3.6,"Surveillance",8.2,4.7,13,22,12,32
+"Guyana","GY","GUY","328","AMR",2018,"Surveillance",2.3,1.4,3.5,"Surveillance",7.4,4.4,11,21,12,31
+"Guyana","GY","GUY","328","AMR",2019,"Surveillance",2.3,1.4,3.4,"Surveillance",6.8,3.8,11,20,11,29
+"Guyana","GY","GUY","328","AMR",2020,"Surveillance",2.3,1.3,3.4,"Surveillance",6.2,3.1,10,19,10,28
+"Guyana","GY","GUY","328","AMR",2021,"Surveillance",2.2,1.2,3.5,"Surveillance",5.7,2.4,10,20,10,30
+"Haiti","HT","HTI","332","AMR",2015,"Model",3.9,0.51,14,"Model",22,2,70,1100,0,2700
+"Haiti","HT","HTI","332","AMR",2016,"Model",3.9,0.56,13,"Model",21,1.9,64,1000,0,2600
+"Haiti","HT","HTI","332","AMR",2017,"Model",3.9,0.57,13,"Model",20,1.8,63,1000,0,2400
+"Haiti","HT","HTI","332","AMR",2018,"Model",3.8,0.59,13,"Model",19,1.8,60,980,0,2400
+"Haiti","HT","HTI","332","AMR",2019,"Model",3.8,0.57,13,"Model",18,1.7,57,960,0,2300
+"Haiti","HT","HTI","332","AMR",2020,"Model",3.8,0.57,13,"Model",17,1.6,56,940,0,2300
+"Haiti","HT","HTI","332","AMR",2021,"Model",3.9,0.57,13,"Model",16,1.5,53,920,0,2300
+"Honduras","HN","HND","340","AMR",2015,"Model",1.9,0.59,4.2,"Surveillance",5.8,4.1,7.9,74,0,150
+"Honduras","HN","HND","340","AMR",2016,"Model",1.9,0.56,4.4,"Surveillance",5.2,3.6,7.1,73,0,150
+"Honduras","HN","HND","340","AMR",2017,"Model",1.9,0.52,4.7,"Surveillance",4.7,3.2,6.6,71,0,150
+"Honduras","HN","HND","340","AMR",2018,"Model",1.9,0.48,4.9,"Surveillance",4.3,2.8,6.1,71,0,160
+"Honduras","HN","HND","340","AMR",2019,"Model",1.9,0.44,5,"Surveillance",3.9,2.4,5.7,61,0,140
+"Honduras","HN","HND","340","AMR",2020,"Model",1.9,0.4,5.2,"Surveillance",3.5,2.1,5.4,60,0,140
+"Honduras","HN","HND","340","AMR",2021,"Model",1.9,0.36,5.5,"Surveillance",3.2,1.8,5,66,0,160
+"Hungary","HU","HUN","348","EUR",2015,"Surveillance",3.2,2.4,4.1,"Surveillance",14,8.3,19,45,32,59
+"Hungary","HU","HUN","348","EUR",2016,"Surveillance",3.1,2.3,4.1,"Surveillance",14,8.7,21,39,28,51
+"Hungary","HU","HUN","348","EUR",2017,"Surveillance",3.1,2.2,4.1,"Surveillance",15,8.9,23,35,24,45
+"Hungary","HU","HUN","348","EUR",2018,"Surveillance",3.1,2.2,4.2,"Surveillance",17,9.2,25,32,22,43
+"Hungary","HU","HUN","348","EUR",2019,"Surveillance",3.1,2.1,4.2,"Surveillance",18,9.4,27,29,19,38
+"Hungary","HU","HUN","348","EUR",2020,"Surveillance",3,2,4.3,"Surveillance",19,9.6,30,21,13,29
+"Hungary","HU","HUN","348","EUR",2021,"Surveillance",3,1.9,4.4,"Surveillance",20,9.7,33,17,11,24
+"Iceland","IS","ISL","352","EUR",2015,"Surveillance",1.1,0.22,3.1,"Surveillance",11,1.4,34,0,0,0
+"Iceland","IS","ISL","352","EUR",2016,"Surveillance",1.1,0.23,3.1,"Surveillance",12,1.4,36,0,0,0
+"Iceland","IS","ISL","352","EUR",2017,"Surveillance",1.1,0.23,3.2,"Surveillance",12,1.4,37,0,0,0
+"Iceland","IS","ISL","352","EUR",2018,"Surveillance",1.1,0.22,3.2,"Surveillance",13,1.5,39,0,0,0
+"Iceland","IS","ISL","352","EUR",2019,"Surveillance",1.1,0.22,3.3,"Surveillance",13,1.5,42,0,0,1
+"Iceland","IS","ISL","352","EUR",2020,"Surveillance",1.1,0.21,3.4,"Surveillance",14,1.5,43,0,0,0
+"Iceland","IS","ISL","352","EUR",2021,"Surveillance",1.1,0.2,3.5,"Surveillance",14,1.5,47,0,0,0
+"India","IN","IND","356","SEA",2015,"Survey & Surveillance",2.8,2.4,3.2,"Survey & Surveillance",14,13,15,149000,75000,223000
+"India","IN","IND","356","SEA",2016,"Survey & Surveillance",2.7,2.4,3,"Survey & Surveillance",14,13,14,144000,82000,207000
+"India","IN","IND","356","SEA",2017,"Survey & Surveillance",2.7,2.5,2.9,"Survey & Surveillance",14,13,14,135000,81000,189000
+"India","IN","IND","356","SEA",2018,"Survey & Surveillance",2.6,2.5,2.7,"Survey & Surveillance",14,13,14,129000,79000,179000
+"India","IN","IND","356","SEA",2019,"Survey & Surveillance",2.6,2.5,2.6,"Survey & Surveillance",13,13,14,123000,77000,169000
+"India","IN","IND","356","SEA",2020,"Survey & Surveillance",2.6,2.5,2.7,"Survey & Surveillance",13,13,14,117000,94000,139000
+"India","IN","IND","356","SEA",2021,"Survey & Surveillance",2.5,2.3,2.7,"Survey & Surveillance",13,13,14,119000,93000,145000
+"Indonesia","ID","IDN","360","SEA",2015,"Survey",2.4,1.6,3.5,"Survey & Surveillance",23,22,24,26000,17000,36000
+"Indonesia","ID","IDN","360","SEA",2016,"Survey",2.4,1.7,3.3,"Survey & Surveillance",23,23,24,26000,18000,34000
+"Indonesia","ID","IDN","360","SEA",2017,"Survey",2.3,1.7,3.2,"Survey & Surveillance",24,23,24,25000,18000,33000
+"Indonesia","ID","IDN","360","SEA",2018,"Survey",2.3,1.6,3.1,"Survey & Surveillance",24,23,24,25000,17000,33000
+"Indonesia","ID","IDN","360","SEA",2019,"Survey",2.2,1.5,3.2,"Survey & Surveillance",24,24,25,25000,16000,33000
+"Indonesia","ID","IDN","360","SEA",2020,"Survey",2.2,1.4,3.3,"Survey & Surveillance",25,24,25,24000,14000,33000
+"Indonesia","ID","IDN","360","SEA",2021,"Survey",2.2,1.3,3.5,"Survey & Surveillance",25,24,26,28000,15000,41000
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2015,"Model",1.5,0.82,2.4,"Surveillance",9.2,7.3,11,250,100,390
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2016,"Model",1.5,0.82,2.5,"Surveillance",8.7,7,11,230,94,360
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2017,"Model",1.6,0.82,2.7,"Surveillance",8.3,6.5,10,230,89,370
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2018,"Model",1.6,0.82,2.8,"Surveillance",8,6,10,230,86,370
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2019,"Model",1.7,0.8,3,"Surveillance",7.6,5.4,10,220,73,380
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2020,"Model",1.7,0.8,3.2,"Surveillance",7.3,4.8,10,220,67,380
+"Iran (Islamic Republic of)","IR","IRN","364","EMR",2021,"Model",1.8,0.77,3.5,"Surveillance",7,4.2,11,220,51,390
+"Iraq","IQ","IRQ","368","EMR",2015,"Model",5.5,3.8,7.9,"Surveillance",26,23,30,1000,590,1400
+"Iraq","IQ","IRQ","368","EMR",2016,"Model",5.3,3.5,8,"Surveillance",28,25,31,940,520,1400
+"Iraq","IQ","IRQ","368","EMR",2017,"Model",5.2,3.1,8.3,"Surveillance",30,27,33,890,430,1300
+"Iraq","IQ","IRQ","368","EMR",2018,"Model",5.1,2.8,8.6,"Surveillance",32,28,36,830,350,1300
+"Iraq","IQ","IRQ","368","EMR",2019,"Model",5,2.5,8.9,"Surveillance",34,30,38,770,270,1300
+"Iraq","IQ","IRQ","368","EMR",2020,"Model",4.8,2.2,9.1,"Surveillance",36,31,42,720,210,1200
+"Iraq","IQ","IRQ","368","EMR",2021,"Model",4.8,2,9.5,"Surveillance",38,32,45,670,150,1200
+"Ireland","IE","IRL","372","EUR",2015,"Surveillance",1.1,0.57,1.9,"Surveillance",6,2.5,11,6,3,9
+"Ireland","IE","IRL","372","EUR",2016,"Surveillance",1.2,0.57,2,"Surveillance",6.5,2.7,12,6,3,9
+"Ireland","IE","IRL","372","EUR",2017,"Surveillance",1.2,0.55,2.2,"Surveillance",7,2.7,13,6,3,10
+"Ireland","IE","IRL","372","EUR",2018,"Surveillance",1.3,0.54,2.4,"Surveillance",7.6,2.8,15,7,3,11
+"Ireland","IE","IRL","372","EUR",2019,"Surveillance",1.3,0.54,2.6,"Surveillance",8.2,2.8,16,6,2,10
+"Ireland","IE","IRL","372","EUR",2020,"Surveillance",1.4,0.53,2.8,"Surveillance",8.9,2.9,18,6,2,10
+"Ireland","IE","IRL","372","EUR",2021,"Surveillance",1.5,0.52,3.1,"Surveillance",9.6,2.9,20,6,1,10
+"Israel","IL","ISR","376","EUR",2015,"Surveillance",6.1,4.9,7.3,"Surveillance",20,9.7,32,22,16,27
+"Israel","IL","ISR","376","EUR",2016,"Surveillance",6.3,4.9,7.8,"Surveillance",19,8.6,32,20,15,25
+"Israel","IL","ISR","376","EUR",2017,"Surveillance",6.5,4.9,8.3,"Surveillance",18,7.5,32,19,13,25
+"Israel","IL","ISR","376","EUR",2018,"Surveillance",6.8,4.8,9,"Surveillance",16,6.6,32,24,16,32
+"Israel","IL","ISR","376","EUR",2019,"Surveillance",7,4.8,9.6,"Surveillance",15,5.6,32,19,12,25
+"Israel","IL","ISR","376","EUR",2020,"Surveillance",7.3,4.7,10,"Surveillance",15,4.6,32,14,8,20
+"Israel","IL","ISR","376","EUR",2021,"Surveillance",7.6,4.7,11,"Surveillance",14,3.8,32,19,11,28
+"Italy","IT","ITA","380","EUR",2015,"Surveillance",2.8,2.3,3.4,"Surveillance",6.7,4.9,8.7,120,93,150
+"Italy","IT","ITA","380","EUR",2016,"Surveillance",2.8,2.3,3.4,"Surveillance",6,4.2,8,130,98,160
+"Italy","IT","ITA","380","EUR",2017,"Surveillance",2.8,2.2,3.4,"Surveillance",5.3,3.7,7.3,130,97,160
+"Italy","IT","ITA","380","EUR",2018,"Surveillance",2.8,2.2,3.5,"Surveillance",4.7,3.2,6.7,130,93,160
+"Italy","IT","ITA","380","EUR",2019,"Surveillance",2.8,2.2,3.5,"Surveillance",4.2,2.7,6.1,110,76,140
+"Italy","IT","ITA","380","EUR",2020,"Surveillance",2.8,2.1,3.6,"Surveillance",3.8,2.4,5.6,71,50,92
+"Italy","IT","ITA","380","EUR",2021,"Surveillance",2.8,2.1,3.6,"Surveillance",3.4,2,5.1,83,57,110
+"Jamaica","JM","JAM","388","AMR",2015,"Surveillance",0.94,0.19,2.6,"Model",22,1.4,72,1,0,3
+"Jamaica","JM","JAM","388","AMR",2016,"Surveillance",0.93,0.2,2.6,"Model",21,1.5,70,1,0,3
+"Jamaica","JM","JAM","388","AMR",2017,"Surveillance",0.93,0.19,2.6,"Model",20,1.4,68,2,0,3
+"Jamaica","JM","JAM","388","AMR",2018,"Surveillance",0.93,0.19,2.5,"Model",19,1.5,66,1,0,2
+"Jamaica","JM","JAM","388","AMR",2019,"Surveillance",0.93,0.2,2.5,"Model",19,1.5,66,1,0,2
+"Jamaica","JM","JAM","388","AMR",2020,"Surveillance",0.94,0.2,2.6,"Model",18,1.4,66,1,0,2
+"Jamaica","JM","JAM","388","AMR",2021,"Surveillance",0.95,0.2,2.6,"Model",18,1.3,65,1,0,2
+"Japan","JP","JPN","392","WPR",2015,"Model",2.1,0.64,5.4,"Model",15,3.2,38,600,0,1200
+"Japan","JP","JPN","392","WPR",2016,"Model",2.2,0.62,6.1,"Model",16,2.9,40,620,0,1300
+"Japan","JP","JPN","392","WPR",2017,"Model",2.4,0.6,6.7,"Model",16,2.6,43,620,0,1300
+"Japan","JP","JPN","392","WPR",2018,"Model",2.5,0.58,7.4,"Model",17,2.4,46,610,0,1400
+"Japan","JP","JPN","392","WPR",2019,"Model",2.7,0.57,8.2,"Model",17,2.1,49,610,0,1400
+"Japan","JP","JPN","392","WPR",2020,"Model",2.9,0.55,9.3,"Model",18,2,52,570,0,1300
+"Japan","JP","JPN","392","WPR",2021,"Model",3.1,0.54,10,"Model",18,1.8,54,550,0,1300
+"Jordan","JO","JOR","400","EMR",2015,"Surveillance",3.9,2.2,5.9,"Surveillance",22,8,44,24,11,36
+"Jordan","JO","JOR","400","EMR",2016,"Surveillance",3.6,2,5.7,"Surveillance",21,6.7,43,22,10,34
+"Jordan","JO","JOR","400","EMR",2017,"Surveillance",3.4,1.8,5.5,"Surveillance",20,5.7,43,26,10,42
+"Jordan","JO","JOR","400","EMR",2018,"Surveillance",3.1,1.6,5.3,"Surveillance",19,4.8,43,18,7,29
+"Jordan","JO","JOR","400","EMR",2019,"Surveillance",2.9,1.4,5.1,"Surveillance",18,4,43,20,7,32
+"Jordan","JO","JOR","400","EMR",2020,"Surveillance",2.7,1.3,4.9,"Surveillance",17,3.3,43,16,5,26
+"Jordan","JO","JOR","400","EMR",2021,"Surveillance",2.5,1.1,4.8,"Surveillance",16,2.8,42,13,4,23
+"Kazakhstan","KZ","KAZ","398","EUR",2015,"Surveillance",30,29,30,"Surveillance",52,52,53,5000,2600,7300
+"Kazakhstan","KZ","KAZ","398","EUR",2016,"Surveillance",30,30,31,"Surveillance",52,51,52,4700,2700,6600
+"Kazakhstan","KZ","KAZ","398","EUR",2017,"Surveillance",31,31,31,"Surveillance",51,51,52,4500,2700,6300
+"Kazakhstan","KZ","KAZ","398","EUR",2018,"Surveillance",32,31,32,"Surveillance",51,50,52,4500,2800,6300
+"Kazakhstan","KZ","KAZ","398","EUR",2019,"Surveillance",32,32,33,"Surveillance",50,49,51,4800,2900,6700
+"Kazakhstan","KZ","KAZ","398","EUR",2020,"Surveillance",33,32,34,"Surveillance",50,49,51,4800,3000,6600
+"Kazakhstan","KZ","KAZ","398","EUR",2021,"Surveillance",34,33,34,"Surveillance",49,48,50,5500,3600,7400
+"Kenya","KE","KEN","404","AFR",2015,"Surveillance",0.98,0.76,1.3,"Surveillance",5.1,4.3,6,2100,680,3600
+"Kenya","KE","KEN","404","AFR",2016,"Surveillance",0.95,0.78,1.2,"Surveillance",5,4.4,5.6,1900,740,3200
+"Kenya","KE","KEN","404","AFR",2017,"Surveillance",0.93,0.79,1.1,"Surveillance",4.8,4.3,5.2,1800,770,2800
+"Kenya","KE","KEN","404","AFR",2018,"Surveillance",0.91,0.8,1,"Surveillance",4.6,4.2,5,1600,770,2500
+"Kenya","KE","KEN","404","AFR",2019,"Surveillance",0.88,0.78,0.99,"Surveillance",4.5,4,5,1500,760,2200
+"Kenya","KE","KEN","404","AFR",2020,"Surveillance",0.86,0.75,0.99,"Surveillance",4.3,3.7,5.1,1400,710,2000
+"Kenya","KE","KEN","404","AFR",2021,"Surveillance",0.85,0.7,1,"Surveillance",4.2,3.3,5.2,1400,680,2100
+"Kiribati","KI","KIR","296","WPR",2015,"Surveillance",1.3,0.51,2.5,"Surveillance",23,7.1,47,12,3,21
+"Kiribati","KI","KIR","296","WPR",2016,"Surveillance",1.3,0.55,2.4,"Surveillance",22,7.4,42,12,3,21
+"Kiribati","KI","KIR","296","WPR",2017,"Surveillance",1.3,0.6,2.4,"Surveillance",21,7.9,38,9,3,15
+"Kiribati","KI","KIR","296","WPR",2018,"Surveillance",1.3,0.63,2.3,"Surveillance",20,8.1,36,8,3,13
+"Kiribati","KI","KIR","296","WPR",2019,"Surveillance",1.4,0.63,2.4,"Surveillance",20,7.5,36,10,3,16
+"Kiribati","KI","KIR","296","WPR",2020,"Surveillance",1.4,0.65,2.5,"Surveillance",19,6.6,35,10,3,16
+"Kiribati","KI","KIR","296","WPR",2021,"Surveillance",1.4,0.65,2.6,"Surveillance",19,5.6,36,10,3,18
+"Kuwait","KW","KWT","414","EMR",2015,"Surveillance",1.6,1.3,2,"Model",13,0.99,45,17,12,22
+"Kuwait","KW","KWT","414","EMR",2016,"Surveillance",1.7,1.3,2.1,"Model",13,1.1,43,19,13,25
+"Kuwait","KW","KWT","414","EMR",2017,"Surveillance",1.7,1.3,2.2,"Model",13,1.1,42,23,16,31
+"Kuwait","KW","KWT","414","EMR",2018,"Surveillance",1.7,1.3,2.3,"Model",13,1.1,42,20,13,26
+"Kuwait","KW","KWT","414","EMR",2019,"Surveillance",1.8,1.3,2.4,"Model",13,1.2,42,20,12,27
+"Kuwait","KW","KWT","414","EMR",2020,"Surveillance",1.8,1.3,2.6,"Model",13,1.3,43,17,11,24
+"Kuwait","KW","KWT","414","EMR",2021,"Surveillance",1.9,1.2,2.7,"Model",13,1.3,43,19,11,27
+"Kyrgyzstan","KG","KGZ","417","EUR",2015,"Surveillance",28,27,29,"Surveillance",59,58,60,3100,2500,3700
+"Kyrgyzstan","KG","KGZ","417","EUR",2016,"Surveillance",28,27,29,"Surveillance",59,58,60,3100,2500,3700
+"Kyrgyzstan","KG","KGZ","417","EUR",2017,"Surveillance",28,27,29,"Surveillance",59,58,61,2900,2400,3400
+"Kyrgyzstan","KG","KGZ","417","EUR",2018,"Surveillance",28,27,28,"Surveillance",59,58,61,2700,2300,3200
+"Kyrgyzstan","KG","KGZ","417","EUR",2019,"Surveillance",27,26,28,"Surveillance",59,58,61,2600,2200,3100
+"Kyrgyzstan","KG","KGZ","417","EUR",2020,"Surveillance",27,26,29,"Surveillance",59,57,61,2600,2200,3000
+"Kyrgyzstan","KG","KGZ","417","EUR",2021,"Surveillance",27,26,29,"Surveillance",59,57,62,3200,2500,3800
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2015,"Survey & Surveillance",0.95,0.64,1.4,"Survey & Surveillance",9.9,5.2,18,140,58,230
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2016,"Survey & Surveillance",0.89,0.64,1.2,"Survey & Surveillance",10,6,16,130,60,210
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2017,"Survey & Surveillance",0.83,0.64,1.1,"Survey & Surveillance",10,6.8,15,130,60,190
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2018,"Survey & Surveillance",0.79,0.63,0.97,"Survey & Surveillance",10,7.7,13,120,59,180
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2019,"Survey & Surveillance",0.74,0.59,0.91,"Survey & Surveillance",11,8.3,13,110,56,160
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2020,"Survey & Surveillance",0.7,0.55,0.88,"Survey & Surveillance",11,8.4,14,100,52,150
+"Lao People's Democratic Republic","LA","LAO","418","WPR",2021,"Survey & Surveillance",0.67,0.49,0.87,"Survey & Surveillance",11,7.9,15,98,46,150
+"Latvia","LV","LVA","428","EUR",2015,"Surveillance",9.6,8.6,11,"Surveillance",29,25,32,94,75,110
+"Latvia","LV","LVA","428","EUR",2016,"Surveillance",9.6,8.5,11,"Surveillance",28,24,32,86,69,100
+"Latvia","LV","LVA","428","EUR",2017,"Surveillance",9.5,8.3,11,"Surveillance",28,24,32,72,57,87
+"Latvia","LV","LVA","428","EUR",2018,"Surveillance",9.5,8.2,11,"Surveillance",27,23,31,64,51,78
+"Latvia","LV","LVA","428","EUR",2019,"Surveillance",9.4,8.1,11,"Surveillance",27,22,31,57,44,69
+"Latvia","LV","LVA","428","EUR",2020,"Surveillance",9.3,7.9,11,"Surveillance",26,22,31,49,38,60
+"Latvia","LV","LVA","428","EUR",2021,"Surveillance",9.3,7.8,11,"Surveillance",26,21,31,42,32,52
+"Lebanon","LB","LBN","422","EMR",2015,"Survey & Surveillance",1.6,1.1,2.2,"Survey & Surveillance",24,16,34,14,8,20
+"Lebanon","LB","LBN","422","EMR",2016,"Survey & Surveillance",1.5,1,2.1,"Survey & Surveillance",22,13,32,13,8,19
+"Lebanon","LB","LBN","422","EMR",2017,"Survey & Surveillance",1.5,0.97,2,"Survey & Surveillance",20,11,30,12,7,17
+"Lebanon","LB","LBN","422","EMR",2018,"Survey & Surveillance",1.4,0.91,2,"Survey & Surveillance",18,9.5,28,12,7,17
+"Lebanon","LB","LBN","422","EMR",2019,"Survey & Surveillance",1.3,0.85,1.9,"Survey & Surveillance",16,8.1,27,13,8,19
+"Lebanon","LB","LBN","422","EMR",2020,"Survey & Surveillance",1.3,0.78,1.9,"Survey & Surveillance",14,6.7,25,11,6,16
+"Lebanon","LB","LBN","422","EMR",2021,"Survey & Surveillance",1.2,0.71,1.8,"Survey & Surveillance",13,5.5,24,7,4,11
+"Lesotho","LS","LSO","426","AFR",2015,"Surveillance",5,4.3,5.9,"Surveillance",11,8.9,13,970,460,1500
+"Lesotho","LS","LSO","426","AFR",2016,"Surveillance",4.8,4.2,5.4,"Surveillance",10,8.6,12,870,450,1300
+"Lesotho","LS","LSO","426","AFR",2017,"Surveillance",4.6,4.1,5.1,"Surveillance",9.7,8.2,11,790,430,1100
+"Lesotho","LS","LSO","426","AFR",2018,"Surveillance",4.4,4,4.8,"Surveillance",9.1,7.7,11,740,410,1100
+"Lesotho","LS","LSO","426","AFR",2019,"Surveillance",4.2,3.7,4.6,"Surveillance",8.6,7.1,10,700,400,1000
+"Lesotho","LS","LSO","426","AFR",2020,"Surveillance",4,3.5,4.5,"Surveillance",8.1,6.4,9.9,620,340,890
+"Lesotho","LS","LSO","426","AFR",2021,"Surveillance",3.8,3.2,4.4,"Surveillance",7.7,5.8,9.7,620,340,900
+"Liberia","LR","LBR","430","AFR",2015,"Model",3.9,0.2,17,"Surveillance",8.1,0.91,25,560,0,1700
+"Liberia","LR","LBR","430","AFR",2016,"Model",3.8,0.2,16,"Surveillance",7.1,0.87,20,550,0,1700
+"Liberia","LR","LBR","430","AFR",2017,"Model",3.7,0.2,16,"Surveillance",6.3,0.79,17,550,0,1700
+"Liberia","LR","LBR","430","AFR",2018,"Model",3.6,0.2,16,"Surveillance",5.6,0.8,15,540,0,1800
+"Liberia","LR","LBR","430","AFR",2019,"Model",3.5,0.2,16,"Surveillance",5.1,0.75,14,540,0,1700
+"Liberia","LR","LBR","430","AFR",2020,"Model",3.4,0.19,15,"Surveillance",4.6,0.64,13,540,0,1700
+"Liberia","LR","LBR","430","AFR",2021,"Model",3.4,0.19,15,"Surveillance",4.3,0.62,13,540,0,1700
+"Libya","LY","LBY","434","EMR",2015,"Surveillance",1.8,0.82,3.4,"Model",17,0.96,64,52,14,89
+"Libya","LY","LBY","434","EMR",2016,"Surveillance",1.7,0.87,3,"Model",16,1,61,51,17,85
+"Libya","LY","LBY","434","EMR",2017,"Surveillance",1.7,0.88,2.8,"Model",16,1.1,58,51,19,83
+"Libya","LY","LBY","434","EMR",2018,"Surveillance",1.6,0.9,2.7,"Model",15,1.1,55,50,20,81
+"Libya","LY","LBY","434","EMR",2019,"Surveillance",1.6,0.9,2.6,"Model",15,1.1,53,74,24,120
+"Libya","LY","LBY","434","EMR",2020,"Surveillance",1.6,0.88,2.6,"Model",15,1.1,53,74,24,120
+"Libya","LY","LBY","434","EMR",2021,"Surveillance",1.6,0.84,2.7,"Model",15,1.1,52,74,22,130
+"Lithuania","LT","LTU","440","EUR",2015,"Surveillance",13,13,14,"Surveillance",46,44,48,300,240,350
+"Lithuania","LT","LTU","440","EUR",2016,"Surveillance",14,13,14,"Surveillance",46,43,48,290,240,350
+"Lithuania","LT","LTU","440","EUR",2017,"Surveillance",14,13,15,"Surveillance",45,43,48,280,230,330
+"Lithuania","LT","LTU","440","EUR",2018,"Surveillance",14,13,15,"Surveillance",45,43,48,240,200,280
+"Lithuania","LT","LTU","440","EUR",2019,"Surveillance",15,14,16,"Surveillance",45,42,48,230,190,270
+"Lithuania","LT","LTU","440","EUR",2020,"Surveillance",15,14,16,"Surveillance",45,42,48,160,130,190
+"Lithuania","LT","LTU","440","EUR",2021,"Surveillance",15,14,17,"Surveillance",45,42,48,150,120,180
+"Luxembourg","LU","LUX","442","EUR",2015,"Surveillance",1.1,0.36,2.5,"Surveillance",6.6,0.74,22,1,0,1
+"Luxembourg","LU","LUX","442","EUR",2016,"Surveillance",1.1,0.36,2.6,"Surveillance",7.1,0.85,24,1,0,1
+"Luxembourg","LU","LUX","442","EUR",2017,"Surveillance",1.1,0.35,2.7,"Surveillance",7.6,0.95,25,1,0,1
+"Luxembourg","LU","LUX","442","EUR",2018,"Surveillance",1.2,0.34,2.9,"Surveillance",8.2,1,27,1,0,2
+"Luxembourg","LU","LUX","442","EUR",2019,"Surveillance",1.2,0.34,3,"Surveillance",8.8,1.1,29,1,0,2
+"Luxembourg","LU","LUX","442","EUR",2020,"Surveillance",1.2,0.34,3.1,"Surveillance",9.6,1.2,31,1,0,1
+"Luxembourg","LU","LUX","442","EUR",2021,"Surveillance",1.3,0.32,3.3,"Surveillance",10,1.2,33,1,0,2
+"Madagascar","MG","MDG","450","AFR",2015,"Model",0.84,0.25,2.1,"Model",6.7,4.2,9.9,650,0,1300
+"Madagascar","MG","MDG","450","AFR",2016,"Model",0.88,0.24,2.2,"Model",6.8,4.6,9.5,700,0,1500
+"Madagascar","MG","MDG","450","AFR",2017,"Model",0.91,0.23,2.5,"Model",6.9,5,9.2,740,0,1600
+"Madagascar","MG","MDG","450","AFR",2018,"Model",0.95,0.22,2.7,"Model",7.1,5.5,9,790,0,1800
+"Madagascar","MG","MDG","450","AFR",2019,"Model",1,0.21,2.9,"Model",7.2,5.9,8.9,850,0,1900
+"Madagascar","MG","MDG","450","AFR",2020,"Model",1,0.21,3.2,"Model",7.4,6,9.1,910,0,2100
+"Madagascar","MG","MDG","450","AFR",2021,"Model",1.1,0.2,3.5,"Model",7.6,6,9.5,980,0,2300
+"Malawi","MW","MWI","454","AFR",2015,"Survey",1.9,1.3,2.7,"Survey",6.2,4.9,7.8,770,160,1400
+"Malawi","MW","MWI","454","AFR",2016,"Survey",1.9,1.4,2.7,"Survey",6.2,4.9,7.9,720,200,1200
+"Malawi","MW","MWI","454","AFR",2017,"Survey",2,1.5,2.7,"Survey",6.2,4.7,8.1,700,230,1200
+"Malawi","MW","MWI","454","AFR",2018,"Survey",2.1,1.5,2.8,"Survey",6.2,4.6,8.3,700,260,1100
+"Malawi","MW","MWI","454","AFR",2019,"Survey",2.1,1.5,2.9,"Survey",6.2,4.4,8.8,710,270,1100
+"Malawi","MW","MWI","454","AFR",2020,"Survey",2.2,1.5,3.1,"Survey",6.3,4.2,9.2,710,240,1200
+"Malawi","MW","MWI","454","AFR",2021,"Survey",2.3,1.4,3.3,"Survey",6.3,4,9.7,710,210,1200
+"Malaysia","MY","MYS","458","WPR",2015,"Surveillance",1.3,1.2,1.5,"Surveillance",6,3.8,8.5,500,400,610
+"Malaysia","MY","MYS","458","WPR",2016,"Surveillance",1.3,1.1,1.4,"Surveillance",7.3,5.1,9.6,520,420,620
+"Malaysia","MY","MYS","458","WPR",2017,"Surveillance",1.2,1.1,1.3,"Surveillance",8.8,6.8,11,510,420,610
+"Malaysia","MY","MYS","458","WPR",2018,"Surveillance",1.1,1,1.2,"Surveillance",11,8.7,13,500,400,590
+"Malaysia","MY","MYS","458","WPR",2019,"Surveillance",1.1,0.94,1.2,"Surveillance",13,11,16,500,400,590
+"Malaysia","MY","MYS","458","WPR",2020,"Surveillance",0.99,0.86,1.1,"Surveillance",16,12,19,500,400,590
+"Malaysia","MY","MYS","458","WPR",2021,"Surveillance",0.94,0.8,1.1,"Surveillance",19,14,24,540,430,660
+"Maldives","MV","MDV","462","SEA",2015,"Surveillance",0.92,0.17,2.7,"Surveillance",6.8,0.33,27,2,0,5
+"Maldives","MV","MDV","462","SEA",2016,"Surveillance",0.89,0.17,2.5,"Surveillance",6.5,0.36,26,2,0,5
+"Maldives","MV","MDV","462","SEA",2017,"Surveillance",0.87,0.17,2.4,"Surveillance",6.3,0.37,24,2,0,4
+"Maldives","MV","MDV","462","SEA",2018,"Surveillance",0.85,0.17,2.3,"Surveillance",6.2,0.38,24,2,0,4
+"Maldives","MV","MDV","462","SEA",2019,"Surveillance",0.83,0.17,2.3,"Surveillance",6.1,0.39,23,2,0,4
+"Maldives","MV","MDV","462","SEA",2020,"Surveillance",0.81,0.16,2.2,"Surveillance",6.1,0.39,23,2,0,4
+"Maldives","MV","MDV","462","SEA",2021,"Surveillance",0.8,0.16,2.1,"Surveillance",6.2,0.4,25,2,0,4
+"Mali","ML","MLI","466","AFR",2015,"Survey",0.92,0.46,1.7,"Survey & Surveillance",12,5.1,22,150,48,240
+"Mali","ML","MLI","466","AFR",2016,"Survey",0.93,0.5,1.6,"Survey & Surveillance",12,6.1,20,150,57,240
+"Mali","ML","MLI","466","AFR",2017,"Survey",0.95,0.52,1.6,"Survey & Surveillance",12,7.4,18,150,61,240
+"Mali","ML","MLI","466","AFR",2018,"Survey",0.97,0.54,1.6,"Survey & Surveillance",12,8.3,17,160,67,250
+"Mali","ML","MLI","466","AFR",2019,"Survey",0.99,0.54,1.6,"Survey & Surveillance",12,9.2,16,160,70,250
+"Mali","ML","MLI","466","AFR",2020,"Survey",1,0.54,1.7,"Survey & Surveillance",12,9.2,16,170,67,260
+"Mali","ML","MLI","466","AFR",2021,"Survey",1,0.52,1.9,"Survey & Surveillance",13,8.7,18,170,63,280
+"Malta","MT","MLT","470","EUR",2015,"Surveillance",0.55,0.1,1.5,"Model",8.6,0.76,29,0,0,1
+"Malta","MT","MLT","470","EUR",2016,"Surveillance",0.56,0.1,1.5,"Model",9.1,0.84,30,1,0,1
+"Malta","MT","MLT","470","EUR",2017,"Surveillance",0.58,0.1,1.6,"Model",9.7,0.94,31,1,0,1
+"Malta","MT","MLT","470","EUR",2018,"Surveillance",0.59,0.1,1.7,"Model",10,1,33,1,0,1
+"Malta","MT","MLT","470","EUR",2019,"Surveillance",0.61,0.11,1.7,"Model",11,1.1,36,1,0,3
+"Malta","MT","MLT","470","EUR",2020,"Surveillance",0.63,0.11,1.9,"Model",12,1.1,39,2,0,4
+"Malta","MT","MLT","470","EUR",2021,"Surveillance",0.66,0.11,2,"Model",13,1.2,43,2,0,5
+"Marshall Islands","MH","MHL","584","WPR",2015,"Surveillance",1.6,0.65,2.9,"Surveillance",4.8,0.78,14,3,1,5
+"Marshall Islands","MH","MHL","584","WPR",2016,"Surveillance",1.6,0.67,2.9,"Surveillance",5.2,0.88,14,4,1,6
+"Marshall Islands","MH","MHL","584","WPR",2017,"Surveillance",1.6,0.67,3.1,"Surveillance",5.7,0.94,16,4,1,8
+"Marshall Islands","MH","MHL","584","WPR",2018,"Surveillance",1.6,0.65,3.3,"Surveillance",6.2,1.1,17,9,1,17
+"Marshall Islands","MH","MHL","584","WPR",2019,"Surveillance",1.7,0.63,3.4,"Surveillance",6.8,1.2,18,5,1,8
+"Marshall Islands","MH","MHL","584","WPR",2020,"Surveillance",1.7,0.61,3.7,"Surveillance",7.6,1.3,21,4,0,9
+"Marshall Islands","MH","MHL","584","WPR",2021,"Surveillance",1.8,0.59,3.9,"Surveillance",8.4,1.3,24,4,0,9
+"Mauritania","MR","MRT","478","AFR",2015,"Model",1.8,0.14,7.3,"Surveillance",41,26,56,93,0,260
+"Mauritania","MR","MRT","478","AFR",2016,"Model",1.8,0.14,7.2,"Surveillance",41,29,53,90,0,260
+"Mauritania","MR","MRT","478","AFR",2017,"Model",1.8,0.15,7,"Surveillance",41,32,50,87,0,250
+"Mauritania","MR","MRT","478","AFR",2018,"Model",1.7,0.15,6.8,"Surveillance",41,34,48,85,0,240
+"Mauritania","MR","MRT","478","AFR",2019,"Model",1.7,0.16,7.1,"Surveillance",42,35,49,83,0,240
+"Mauritania","MR","MRT","478","AFR",2020,"Model",1.7,0.16,7,"Surveillance",42,34,51,81,0,230
+"Mauritania","MR","MRT","478","AFR",2021,"Model",1.7,0.17,6.7,"Surveillance",43,31,55,80,0,220
+"Mauritius","MU","MUS","480","AFR",2015,"Surveillance",1,0.59,1.6,"Surveillance",6.1,1.7,14,2,1,3
+"Mauritius","MU","MUS","480","AFR",2016,"Surveillance",1.1,0.61,1.7,"Surveillance",5.7,1.6,13,2,1,3
+"Mauritius","MU","MUS","480","AFR",2017,"Surveillance",1.1,0.61,1.8,"Surveillance",5.4,1.5,13,2,1,3
+"Mauritius","MU","MUS","480","AFR",2018,"Surveillance",1.1,0.61,1.9,"Surveillance",5.1,1.3,12,2,1,4
+"Mauritius","MU","MUS","480","AFR",2019,"Surveillance",1.2,0.61,2.1,"Surveillance",4.8,1.1,13,2,1,3
+"Mauritius","MU","MUS","480","AFR",2020,"Surveillance",1.2,0.6,2.2,"Surveillance",4.6,0.89,13,2,1,4
+"Mauritius","MU","MUS","480","AFR",2021,"Surveillance",1.3,0.59,2.4,"Surveillance",4.5,0.74,13,2,1,4
+"Mexico","MX","MEX","484","AMR",2015,"Model",2.4,1.2,4.2,"Surveillance",13,11,14,890,380,1400
+"Mexico","MX","MEX","484","AMR",2016,"Model",2.4,1.1,4.5,"Surveillance",13,12,14,920,330,1500
+"Mexico","MX","MEX","484","AMR",2017,"Model",2.4,1,4.8,"Surveillance",13,12,15,940,270,1600
+"Mexico","MX","MEX","484","AMR",2018,"Model",2.4,0.92,5.1,"Surveillance",14,12,15,970,210,1700
+"Mexico","MX","MEX","484","AMR",2019,"Model",2.4,0.82,5.5,"Surveillance",14,12,16,990,150,1800
+"Mexico","MX","MEX","484","AMR",2020,"Model",2.5,0.74,5.8,"Surveillance",14,12,16,980,75,1900
+"Mexico","MX","MEX","484","AMR",2021,"Model",2.5,0.67,6.2,"Surveillance",15,12,17,1100,7,2200
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2015,"Surveillance",0.97,0.15,3,"Surveillance",9.7,0.51,41,2,0,6
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2016,"Surveillance",0.95,0.16,3,"Surveillance",9.4,0.57,37,3,0,8
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2017,"Surveillance",0.93,0.16,2.8,"Surveillance",9.2,0.65,35,3,0,7
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2018,"Surveillance",0.92,0.16,2.7,"Surveillance",9.1,0.67,33,2,0,5
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2019,"Surveillance",0.9,0.16,2.6,"Surveillance",9,0.72,33,2,0,5
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2020,"Surveillance",0.9,0.17,2.5,"Surveillance",9,0.75,33,2,0,5
+"Micronesia (Federated States of)","FM","FSM","583","WPR",2021,"Surveillance",0.89,0.17,2.5,"Surveillance",9.1,0.78,34,1,0,4
+"Monaco","MC","MCO","492","EUR",2015,"Model",2.6,0.23,11,"Model",25,1.7,78,0,0,0
+"Monaco","MC","MCO","492","EUR",2016,"Model",2.5,0.24,11,"Model",25,1.9,76,0,0,1
+"Monaco","MC","MCO","492","EUR",2017,"Model",2.4,0.25,10,"Model",24,2,74,0,0,0
+"Monaco","MC","MCO","492","EUR",2018,"Model",2.3,0.22,9.6,"Model",24,1.9,72,0,0,1
+"Monaco","MC","MCO","492","EUR",2019,"Model",2.2,0.23,9.2,"Model",23,1.8,69,0,0,0
+"Monaco","MC","MCO","492","EUR",2020,"Model",2.2,0.22,8.7,"Model",23,1.9,68,0,0,0
+"Monaco","MC","MCO","492","EUR",2021,"Model",2.1,0.21,8.1,"Model",22,1.9,69,0,0,0
+"Mongolia","MN","MNG","496","WPR",2015,"Survey & Surveillance",4.8,4.2,5.5,"Survey & Surveillance",16,15,18,690,280,1100
+"Mongolia","MN","MNG","496","WPR",2016,"Survey & Surveillance",5.2,4.6,5.8,"Survey & Surveillance",15,13,16,740,300,1200
+"Mongolia","MN","MNG","496","WPR",2017,"Survey & Surveillance",5.5,5,6.2,"Survey & Surveillance",13,11,15,790,330,1300
+"Mongolia","MN","MNG","496","WPR",2018,"Survey & Surveillance",6,5.3,6.6,"Survey & Surveillance",12,9.8,13,850,350,1400
+"Mongolia","MN","MNG","496","WPR",2019,"Survey & Surveillance",6.4,5.7,7.1,"Survey & Surveillance",10,8.5,12,920,380,1500
+"Mongolia","MN","MNG","496","WPR",2020,"Survey & Surveillance",6.9,6,7.8,"Survey & Surveillance",9.1,7.4,11,1000,390,1600
+"Mongolia","MN","MNG","496","WPR",2021,"Survey & Surveillance",7.4,6.3,8.6,"Survey & Surveillance",8,6.4,9.8,1100,420,1700
+"Montenegro","ME","MNE","499","EUR",2015,"Surveillance",0.6,0.25,1.2,"Surveillance",8.7,4.1,15,1,0,2
+"Montenegro","ME","MNE","499","EUR",2016,"Surveillance",0.58,0.24,1.1,"Surveillance",8.2,3.7,15,1,0,2
+"Montenegro","ME","MNE","499","EUR",2017,"Surveillance",0.57,0.23,1.1,"Surveillance",7.8,3.1,14,1,0,1
+"Montenegro","ME","MNE","499","EUR",2018,"Surveillance",0.55,0.21,1.1,"Surveillance",7.4,2.7,14,1,0,2
+"Montenegro","ME","MNE","499","EUR",2019,"Surveillance",0.54,0.2,1.2,"Surveillance",7,2.3,15,1,0,2
+"Montenegro","ME","MNE","499","EUR",2020,"Surveillance",0.53,0.19,1.2,"Surveillance",6.7,2,15,1,0,1
+"Montenegro","ME","MNE","499","EUR",2021,"Surveillance",0.52,0.18,1.2,"Surveillance",6.4,1.7,15,1,0,2
+"Montserrat","MS","MSR","500","AMR",2015,"Model",3,0.24,14,"Model",19,1.1,63,0,0,0
+"Montserrat","MS","MSR","500","AMR",2016,"Model",3,0.25,13,"Model",18,1.3,62,0,0,0
+"Montserrat","MS","MSR","500","AMR",2017,"Model",2.9,0.25,13,"Model",18,1.4,61,0,0,0
+"Montserrat","MS","MSR","500","AMR",2018,"Model",2.9,0.26,12,"Model",17,1.4,60,0,0,0
+"Montserrat","MS","MSR","500","AMR",2019,"Model",2.8,0.25,12,"Model",17,1.3,58,0,0,0
+"Montserrat","MS","MSR","500","AMR",2020,"Model",2.8,0.25,12,"Model",17,1.4,57,0,0,0
+"Montserrat","MS","MSR","500","AMR",2021,"Model",2.8,0.25,12,"Model",17,1.4,59,0,0,0
+"Morocco","MA","MAR","504","EMR",2015,"Model",1.1,0.57,2,"Surveillance",12,11,14,580,250,900
+"Morocco","MA","MAR","504","EMR",2016,"Model",1.1,0.55,2.2,"Surveillance",12,11,13,610,240,980
+"Morocco","MA","MAR","504","EMR",2017,"Model",1.2,0.55,2.4,"Surveillance",12,11,13,620,220,1000
+"Morocco","MA","MAR","504","EMR",2018,"Model",1.3,0.53,2.6,"Surveillance",12,11,13,650,200,1100
+"Morocco","MA","MAR","504","EMR",2019,"Model",1.3,0.52,2.8,"Surveillance",12,11,13,670,170,1200
+"Morocco","MA","MAR","504","EMR",2020,"Model",1.4,0.5,3.1,"Surveillance",12,11,13,690,140,1200
+"Morocco","MA","MAR","504","EMR",2021,"Model",1.5,0.49,3.4,"Surveillance",12,10,13,720,94,1300
+"Mozambique","MZ","MOZ","508","AFR",2015,"Survey & Surveillance",3.7,2.9,4.7,"Survey & Surveillance",15,12,18,4100,2100,6100
+"Mozambique","MZ","MOZ","508","AFR",2016,"Survey & Surveillance",3.7,2.8,4.7,"Survey & Surveillance",14,12,17,4200,2100,6300
+"Mozambique","MZ","MOZ","508","AFR",2017,"Survey & Surveillance",3.7,2.8,4.7,"Survey & Surveillance",13,12,15,4300,2200,6500
+"Mozambique","MZ","MOZ","508","AFR",2018,"Survey & Surveillance",3.7,2.8,4.7,"Survey & Surveillance",13,11,14,4500,2200,6700
+"Mozambique","MZ","MOZ","508","AFR",2019,"Survey & Surveillance",3.7,2.7,4.8,"Survey & Surveillance",12,10,14,4600,2200,6900
+"Mozambique","MZ","MOZ","508","AFR",2020,"Survey & Surveillance",3.7,2.6,4.9,"Survey & Surveillance",12,9.4,14,4700,2200,7200
+"Mozambique","MZ","MOZ","508","AFR",2021,"Survey & Surveillance",3.7,2.6,5,"Survey & Surveillance",11,8.4,14,4800,2200,7500
+"Myanmar","MM","MMR","104","SEA",2015,"Surveillance",4.8,4.6,5,"Surveillance",18,17,19,12000,5000,18000
+"Myanmar","MM","MMR","104","SEA",2016,"Surveillance",4.6,4.5,4.8,"Surveillance",18,18,19,11000,5000,17000
+"Myanmar","MM","MMR","104","SEA",2017,"Surveillance",4.5,4.4,4.7,"Surveillance",18,18,19,10000,5000,15000
+"Myanmar","MM","MMR","104","SEA",2018,"Surveillance",4.4,4.3,4.5,"Surveillance",19,18,19,9600,4900,14000
+"Myanmar","MM","MMR","104","SEA",2019,"Surveillance",4.3,4.1,4.5,"Surveillance",19,18,19,9000,4700,13000
+"Myanmar","MM","MMR","104","SEA",2020,"Surveillance",4.2,4,4.4,"Surveillance",19,18,20,8500,4700,12000
+"Myanmar","MM","MMR","104","SEA",2021,"Surveillance",4.1,3.8,4.3,"Surveillance",19,18,20,9700,5400,14000
+"Namibia","NA","NAM","516","AFR",2015,"Survey & Surveillance",4.9,4.5,5.3,"Survey & Surveillance",11,9.5,12,790,450,1100
+"Namibia","NA","NAM","516","AFR",2016,"Survey & Surveillance",4.8,4.4,5.2,"Survey & Surveillance",10,8.6,11,750,440,1000
+"Namibia","NA","NAM","516","AFR",2017,"Survey & Surveillance",4.7,4.4,5.1,"Survey & Surveillance",9.1,7.8,10,700,430,960
+"Namibia","NA","NAM","516","AFR",2018,"Survey & Surveillance",4.7,4.3,5,"Survey & Surveillance",8.3,7,9.6,640,410,870
+"Namibia","NA","NAM","516","AFR",2019,"Survey & Surveillance",4.6,4.2,5,"Survey & Surveillance",7.6,6.2,9,600,390,800
+"Namibia","NA","NAM","516","AFR",2020,"Survey & Surveillance",4.5,4.1,5,"Survey & Surveillance",6.9,5.6,8.3,550,380,720
+"Namibia","NA","NAM","516","AFR",2021,"Survey & Surveillance",4.5,4,5,"Survey & Surveillance",6.3,5,7.8,560,380,740
+"Nauru","NR","NRU","520","WPR",2015,"Surveillance",1.7,0.24,6.1,"Model",13,0.73,53,0,0,1
+"Nauru","NR","NRU","520","WPR",2016,"Surveillance",1.7,0.25,6.2,"Model",13,0.78,51,0,0,1
+"Nauru","NR","NRU","520","WPR",2017,"Surveillance",1.7,0.25,6.3,"Model",13,0.88,50,0,0,1
+"Nauru","NR","NRU","520","WPR",2018,"Surveillance",1.8,0.27,6.3,"Model",13,0.95,48,0,0,0
+"Nauru","NR","NRU","520","WPR",2019,"Surveillance",1.8,0.28,6.5,"Model",13,1,49,0,0,1
+"Nauru","NR","NRU","520","WPR",2020,"Surveillance",1.9,0.29,6.5,"Model",13,1,50,0,0,1
+"Nauru","NR","NRU","520","WPR",2021,"Surveillance",1.9,0.31,6.7,"Model",13,1.1,52,1,0,2
+"Nepal","NP","NPL","524","SEA",2015,"Surveillance",3.3,2.9,3.7,"Model",7.9,2.6,17,2600,1200,4000
+"Nepal","NP","NPL","524","SEA",2016,"Surveillance",3.4,3,3.8,"Model",7.5,2.3,17,2600,1200,4000
+"Nepal","NP","NPL","524","SEA",2017,"Surveillance",3.5,3.2,3.8,"Model",7.1,2,17,2600,1200,4000
+"Nepal","NP","NPL","524","SEA",2018,"Surveillance",3.6,3.3,3.9,"Model",6.7,1.8,17,2600,1300,4000
+"Nepal","NP","NPL","524","SEA",2019,"Surveillance",3.7,3.4,4.1,"Model",6.4,1.5,17,2700,1300,4100
+"Nepal","NP","NPL","524","SEA",2020,"Surveillance",3.8,3.5,4.2,"Model",6.1,1.3,17,2700,1300,4100
+"Nepal","NP","NPL","524","SEA",2021,"Surveillance",4,3.6,4.4,"Model",5.8,1.1,16,2800,1400,4300
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2015,"Surveillance",1.9,1.5,2.3,"Surveillance",15,9.1,21,23,17,29
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2016,"Surveillance",2,1.6,2.5,"Surveillance",16,9.7,24,25,18,32
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2017,"Surveillance",2.1,1.6,2.6,"Surveillance",18,10,27,23,17,30
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2018,"Surveillance",2.2,1.7,2.8,"Surveillance",19,11,30,25,18,33
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2019,"Surveillance",2.3,1.7,3,"Surveillance",21,11,34,25,17,33
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2020,"Surveillance",2.4,1.8,3.2,"Surveillance",23,12,37,22,15,29
+"Netherlands (Kingdom of the)","NL","NLD","528","EUR",2021,"Surveillance",2.6,1.8,3.5,"Surveillance",25,12,41,25,17,34
+"New Caledonia","NC","NCL","540","WPR",2015,"Surveillance",0.89,0.24,2.2,"Surveillance",8.4,0.67,29,1,0,1
+"New Caledonia","NC","NCL","540","WPR",2016,"Surveillance",0.91,0.25,2.2,"Surveillance",8.7,0.8,29,0,0,1
+"New Caledonia","NC","NCL","540","WPR",2017,"Surveillance",0.93,0.25,2.2,"Surveillance",9,0.87,28,0,0,1
+"New Caledonia","NC","NCL","540","WPR",2018,"Surveillance",0.95,0.26,2.2,"Surveillance",9.4,1,29,1,0,1
+"New Caledonia","NC","NCL","540","WPR",2019,"Surveillance",0.98,0.26,2.3,"Surveillance",9.8,1.1,30,0,0,1
+"New Caledonia","NC","NCL","540","WPR",2020,"Surveillance",1,0.26,2.4,"Surveillance",10,1.2,33,1,0,1
+"New Caledonia","NC","NCL","540","WPR",2021,"Surveillance",1,0.27,2.6,"Surveillance",11,1.3,36,0,0,1
+"New Zealand","NZ","NZL","554","WPR",2015,"Model",1.3,0.59,2.4,"Model",19,6.7,36,6,2,9
+"New Zealand","NZ","NZL","554","WPR",2016,"Model",1.4,0.59,2.6,"Model",20,6.8,40,6,2,10
+"New Zealand","NZ","NZL","554","WPR",2017,"Model",1.5,0.59,2.9,"Model",22,6.8,44,7,2,11
+"New Zealand","NZ","NZL","554","WPR",2018,"Model",1.6,0.58,3.2,"Model",24,7,49,7,2,12
+"New Zealand","NZ","NZL","554","WPR",2019,"Model",1.7,0.57,3.5,"Model",26,6.9,54,8,2,14
+"New Zealand","NZ","NZL","554","WPR",2020,"Model",1.7,0.57,3.9,"Model",28,6.8,58,9,2,15
+"New Zealand","NZ","NZL","554","WPR",2021,"Model",1.9,0.57,4.3,"Model",30,6.8,63,9,2,16
+"Nicaragua","NI","NIC","558","AMR",2015,"Surveillance",1.3,0.8,1.9,"Surveillance",7.4,4.9,10,53,28,78
+"Nicaragua","NI","NIC","558","AMR",2016,"Surveillance",1.3,0.82,1.9,"Surveillance",7.1,4.5,10,50,28,73
+"Nicaragua","NI","NIC","558","AMR",2017,"Surveillance",1.3,0.83,1.9,"Surveillance",6.8,4.2,10,49,27,70
+"Nicaragua","NI","NIC","558","AMR",2018,"Surveillance",1.3,0.85,1.9,"Surveillance",6.5,3.8,10,46,26,66
+"Nicaragua","NI","NIC","558","AMR",2019,"Surveillance",1.3,0.86,2,"Surveillance",6.2,3.4,9.9,49,27,71
+"Nicaragua","NI","NIC","558","AMR",2020,"Surveillance",1.4,0.84,2,"Surveillance",6,3.1,9.9,49,26,72
+"Nicaragua","NI","NIC","558","AMR",2021,"Surveillance",1.4,0.8,2.2,"Surveillance",5.7,2.8,10,54,26,81
+"Niger","NE","NER","562","AFR",2015,"Survey",2.4,1,5,"Survey & Surveillance",15,12,18,560,74,1100
+"Niger","NE","NER","562","AFR",2016,"Survey",2.5,1.1,4.9,"Survey & Surveillance",15,13,17,580,110,1000
+"Niger","NE","NER","562","AFR",2017,"Survey",2.5,1.2,4.6,"Survey & Surveillance",15,13,16,590,150,1000
+"Niger","NE","NER","562","AFR",2018,"Survey",2.6,1.3,4.5,"Survey & Surveillance",14,13,16,600,180,1000
+"Niger","NE","NER","562","AFR",2019,"Survey",2.6,1.4,4.4,"Survey & Surveillance",14,13,16,620,210,1000
+"Niger","NE","NER","562","AFR",2020,"Survey",2.7,1.5,4.4,"Survey & Surveillance",14,12,16,630,230,1000
+"Niger","NE","NER","562","AFR",2021,"Survey",2.7,1.5,4.5,"Survey & Surveillance",14,11,17,650,230,1100
+"Nigeria","NG","NGA","566","AFR",2015,"Model",3.2,1.6,5.6,"Surveillance",21,9.7,37,16000,5100,27000
+"Nigeria","NG","NGA","566","AFR",2016,"Model",3,1.4,5.7,"Surveillance",20,8.4,39,16000,4000,27000
+"Nigeria","NG","NGA","566","AFR",2017,"Model",2.9,1.2,6,"Surveillance",20,7.2,41,15000,2800,28000
+"Nigeria","NG","NGA","566","AFR",2018,"Model",2.8,1.1,6.1,"Surveillance",19,6.2,43,15000,1600,29000
+"Nigeria","NG","NGA","566","AFR",2019,"Model",2.7,0.92,6.4,"Surveillance",19,5.3,45,15000,310,30000
+"Nigeria","NG","NGA","566","AFR",2020,"Model",2.6,0.79,6.6,"Surveillance",19,4.5,47,15000,0,31000
+"Nigeria","NG","NGA","566","AFR",2021,"Model",2.5,0.68,6.8,"Surveillance",19,3.8,49,15000,0,32000
+"Niue","NU","NIU","570","WPR",2015,"Model",2.1,0.21,9,"Model",23,1.6,71,0,0,0
+"Niue","NU","NIU","570","WPR",2016,"Model",2.1,0.23,9,"Model",22,1.6,67,0,0,0
+"Niue","NU","NIU","570","WPR",2017,"Model",2.1,0.23,8.7,"Model",21,1.7,66,0,0,0
+"Niue","NU","NIU","570","WPR",2018,"Model",2.2,0.24,8.8,"Model",20,1.6,64,0,0,1
+"Niue","NU","NIU","570","WPR",2019,"Model",2.2,0.25,9.2,"Model",20,1.7,61,0,0,0
+"Niue","NU","NIU","570","WPR",2020,"Model",2.3,0.27,9.4,"Model",19,1.5,60,0,0,0
+"Niue","NU","NIU","570","WPR",2021,"Model",2.3,0.26,9.9,"Model",19,1.4,61,0,0,0
+"North Macedonia","MK","MKD","807","EUR",2015,"Surveillance",1.2,0.7,1.7,"Surveillance",5.9,2.9,9.6,5,2,8
+"North Macedonia","MK","MKD","807","EUR",2016,"Surveillance",1.1,0.66,1.7,"Surveillance",5.4,2.4,9.1,5,2,8
+"North Macedonia","MK","MKD","807","EUR",2017,"Surveillance",1.1,0.62,1.7,"Surveillance",4.9,2,8.9,4,2,6
+"North Macedonia","MK","MKD","807","EUR",2018,"Surveillance",1.1,0.58,1.8,"Surveillance",4.5,1.6,9,4,1,6
+"North Macedonia","MK","MKD","807","EUR",2019,"Surveillance",1,0.54,1.8,"Surveillance",4.2,1.3,8.9,3,1,5
+"North Macedonia","MK","MKD","807","EUR",2020,"Surveillance",1,0.49,1.8,"Surveillance",3.8,1.1,8.7,3,1,5
+"North Macedonia","MK","MKD","807","EUR",2021,"Surveillance",1,0.45,1.8,"Surveillance",3.6,0.87,8.7,3,1,5
+"Northern Mariana Islands","MP","MNP","580","WPR",2015,"Surveillance",2.5,1.2,4.5,"Surveillance",6.6,0.45,25,1,0,1
+"Northern Mariana Islands","MP","MNP","580","WPR",2016,"Surveillance",2.4,1.1,4.4,"Surveillance",6.7,0.46,26,1,0,1
+"Northern Mariana Islands","MP","MNP","580","WPR",2017,"Surveillance",2.4,1,4.5,"Surveillance",6.9,0.52,27,1,0,2
+"Northern Mariana Islands","MP","MNP","580","WPR",2018,"Surveillance",2.3,0.94,4.5,"Surveillance",7.2,0.57,28,1,0,2
+"Northern Mariana Islands","MP","MNP","580","WPR",2019,"Surveillance",2.3,0.87,4.6,"Surveillance",7.5,0.53,32,1,0,3
+"Northern Mariana Islands","MP","MNP","580","WPR",2020,"Surveillance",2.2,0.8,4.8,"Surveillance",7.9,0.54,35,1,0,2
+"Northern Mariana Islands","MP","MNP","580","WPR",2021,"Surveillance",2.2,0.72,5,"Surveillance",8.3,0.53,38,1,0,2
+"Norway","NO","NOR","578","EUR",2015,"Surveillance",3.2,2.3,4.1,"Surveillance",7.5,4.2,12,13,9,16
+"Norway","NO","NOR","578","EUR",2016,"Surveillance",3.4,2.4,4.4,"Surveillance",7.7,4.1,13,13,9,17
+"Norway","NO","NOR","578","EUR",2017,"Surveillance",3.5,2.4,4.6,"Surveillance",7.9,4,13,11,8,15
+"Norway","NO","NOR","578","EUR",2018,"Surveillance",3.7,2.5,4.9,"Surveillance",8.1,3.8,15,9,6,13
+"Norway","NO","NOR","578","EUR",2019,"Surveillance",3.8,2.5,5.3,"Surveillance",8.3,3.7,16,8,5,11
+"Norway","NO","NOR","578","EUR",2020,"Surveillance",4,2.5,5.7,"Surveillance",8.5,3.7,17,8,5,11
+"Norway","NO","NOR","578","EUR",2021,"Surveillance",4.2,2.5,6,"Surveillance",8.8,3.5,18,8,5,11
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2015,"Surveillance",2.7,0.32,9.6,"Model",20,1.4,66,2,0,4
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2016,"Surveillance",2.5,0.33,9.2,"Model",18,1.4,61,1,0,4
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2017,"Surveillance",2.4,0.33,8.5,"Model",17,1.4,56,1,0,3
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2018,"Surveillance",2.3,0.33,8.1,"Model",16,1.3,52,1,0,3
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2019,"Surveillance",2.2,0.31,7.7,"Model",15,1.3,48,1,0,2
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2020,"Surveillance",2.1,0.3,7.2,"Model",14,1.2,45,1,0,2
+"occupied Palestinian territory, including east Jerusalem","PS","PSE","275","EMR",2021,"Surveillance",2,0.29,7,"Model",13,1.2,42,1,0,2
+"Oman","OM","OMN","512","EMR",2015,"Surveillance",1.6,1.1,2,"Surveillance",5.3,2,10,6,4,8
+"Oman","OM","OMN","512","EMR",2016,"Surveillance",1.6,1.1,2.1,"Surveillance",4.3,1.5,8.9,6,4,8
+"Oman","OM","OMN","512","EMR",2017,"Surveillance",1.6,1,2.1,"Surveillance",3.5,1.1,7.6,5,3,7
+"Oman","OM","OMN","512","EMR",2018,"Surveillance",1.6,1,2.2,"Surveillance",2.8,0.8,6.4,4,3,6
+"Oman","OM","OMN","512","EMR",2019,"Surveillance",1.6,0.98,2.2,"Surveillance",2.3,0.59,5.5,7,4,9
+"Oman","OM","OMN","512","EMR",2020,"Surveillance",1.6,0.95,2.3,"Surveillance",1.8,0.44,4.7,6,3,8
+"Oman","OM","OMN","512","EMR",2021,"Surveillance",1.6,0.92,2.3,"Surveillance",1.5,0.32,4.1,4,2,6
+"Pakistan","PK","PAK","586","EMR",2015,"Surveillance",3.4,3.1,3.8,"Surveillance",12,11,13,20000,12000,28000
+"Pakistan","PK","PAK","586","EMR",2016,"Surveillance",3.2,3,3.6,"Surveillance",10,9.7,11,19000,13000,26000
+"Pakistan","PK","PAK","586","EMR",2017,"Surveillance",3.1,2.9,3.3,"Surveillance",9,8.5,9.5,18000,12000,24000
+"Pakistan","PK","PAK","586","EMR",2018,"Surveillance",2.9,2.8,3.1,"Surveillance",7.7,7.3,8.1,17000,12000,23000
+"Pakistan","PK","PAK","586","EMR",2019,"Surveillance",2.8,2.7,2.9,"Surveillance",6.7,6.2,7.1,17000,11000,22000
+"Pakistan","PK","PAK","586","EMR",2020,"Surveillance",2.7,2.5,2.8,"Surveillance",5.7,5.3,6.2,16000,11000,21000
+"Pakistan","PK","PAK","586","EMR",2021,"Surveillance",2.5,2.4,2.7,"Surveillance",4.9,4.4,5.4,16000,11000,21000
+"Palau","PW","PLW","585","WPR",2015,"Surveillance",3,0.88,6.7,"Surveillance",13,0.71,47,1,0,1
+"Palau","PW","PLW","585","WPR",2016,"Surveillance",3,0.89,6.3,"Surveillance",13,0.8,45,1,0,2
+"Palau","PW","PLW","585","WPR",2017,"Surveillance",3,0.88,6.3,"Surveillance",13,0.91,43,1,0,2
+"Palau","PW","PLW","585","WPR",2018,"Surveillance",2.9,0.88,6.4,"Surveillance",13,1,42,1,0,1
+"Palau","PW","PLW","585","WPR",2019,"Surveillance",2.9,0.85,6.3,"Surveillance",13,1.1,42,0,0,0
+"Palau","PW","PLW","585","WPR",2020,"Surveillance",2.9,0.79,6.4,"Surveillance",13,1.2,44,0,0,1
+"Palau","PW","PLW","585","WPR",2021,"Surveillance",2.9,0.75,6.7,"Surveillance",14,1.2,45,0,0,1
+"Panama","PA","PAN","591","AMR",2015,"Surveillance",4.1,2.3,6.6,"Surveillance",17,9,28,110,51,160
+"Panama","PA","PAN","591","AMR",2016,"Surveillance",4.1,2.4,6.3,"Surveillance",16,8.2,26,110,59,170
+"Panama","PA","PAN","591","AMR",2017,"Surveillance",4.1,2.5,6.2,"Surveillance",15,7.4,25,120,62,170
+"Panama","PA","PAN","591","AMR",2018,"Surveillance",4.1,2.6,6,"Surveillance",14,6.3,25,110,58,160
+"Panama","PA","PAN","591","AMR",2019,"Surveillance",4.1,2.5,6.1,"Surveillance",13,5.3,25,78,42,120
+"Panama","PA","PAN","591","AMR",2020,"Surveillance",4.2,2.5,6.4,"Surveillance",12,4.3,27,70,35,110
+"Panama","PA","PAN","591","AMR",2021,"Surveillance",4.2,2.4,6.7,"Surveillance",12,3.4,27,88,41,130
+"Papua New Guinea","PG","PNG","598","WPR",2015,"Model",3.7,2.5,5.2,"Model",25,17,34,2000,1300,2700
+"Papua New Guinea","PG","PNG","598","WPR",2016,"Model",3.7,2.4,5.5,"Model",24,15,37,2100,1200,2900
+"Papua New Guinea","PG","PNG","598","WPR",2017,"Model",3.7,2.3,5.9,"Model",24,13,40,2100,1200,3100
+"Papua New Guinea","PG","PNG","598","WPR",2018,"Model",3.8,2.1,6.4,"Model",24,10,43,2200,1100,3300
+"Papua New Guinea","PG","PNG","598","WPR",2019,"Model",3.8,2,7.1,"Model",23,8.7,47,2200,930,3600
+"Papua New Guinea","PG","PNG","598","WPR",2020,"Model",3.9,1.8,7.8,"Model",23,7.4,50,2200,750,3700
+"Papua New Guinea","PG","PNG","598","WPR",2021,"Model",4,1.6,8.4,"Model",23,6.2,53,2400,610,4100
+"Paraguay","PY","PRY","600","AMR",2015,"Surveillance",0.86,0.5,1.3,"Surveillance",4.2,2.5,6.7,35,21,49
+"Paraguay","PY","PRY","600","AMR",2016,"Surveillance",0.8,0.46,1.2,"Surveillance",3.9,2.3,6.2,34,21,48
+"Paraguay","PY","PRY","600","AMR",2017,"Surveillance",0.75,0.42,1.2,"Surveillance",3.7,2.1,5.8,34,20,48
+"Paraguay","PY","PRY","600","AMR",2018,"Surveillance",0.7,0.38,1.1,"Surveillance",3.4,2,5.4,32,18,45
+"Paraguay","PY","PRY","600","AMR",2019,"Surveillance",0.65,0.35,1.1,"Surveillance",3.2,1.8,5.1,33,18,47
+"Paraguay","PY","PRY","600","AMR",2020,"Surveillance",0.61,0.32,1,"Surveillance",3,1.7,4.9,30,16,44
+"Paraguay","PY","PRY","600","AMR",2021,"Surveillance",0.57,0.28,0.96,"Surveillance",2.8,1.5,4.6,30,15,45
+"Peru","PE","PER","604","AMR",2015,"Surveillance",5.3,5.1,5.5,"Surveillance",20,20,21,2400,1800,3000
+"Peru","PE","PER","604","AMR",2016,"Surveillance",5.2,5,5.4,"Surveillance",18,17,19,2300,1700,2900
+"Peru","PE","PER","604","AMR",2017,"Surveillance",5.1,4.9,5.4,"Surveillance",16,15,17,2300,1700,2800
+"Peru","PE","PER","604","AMR",2018,"Surveillance",5.1,4.8,5.3,"Surveillance",14,13,15,2200,1700,2800
+"Peru","PE","PER","604","AMR",2019,"Surveillance",5,4.7,5.3,"Surveillance",12,11,13,2200,1700,2800
+"Peru","PE","PER","604","AMR",2020,"Surveillance",4.9,4.6,5.3,"Surveillance",11,9.9,12,2200,1600,2700
+"Peru","PE","PER","604","AMR",2021,"Surveillance",4.9,4.5,5.2,"Surveillance",9.6,8.5,11,2400,1800,3000
+"Philippines","PH","PHL","608","WPR",2015,"Survey & Surveillance",2.1,1.6,2.6,"Survey & Surveillance",28,27,29,22000,9900,34000
+"Philippines","PH","PHL","608","WPR",2016,"Survey & Surveillance",2,1.5,2.5,"Survey & Surveillance",28,27,28,21000,9600,33000
+"Philippines","PH","PHL","608","WPR",2017,"Survey & Surveillance",1.8,1.4,2.4,"Survey & Surveillance",27,27,28,21000,9100,32000
+"Philippines","PH","PHL","608","WPR",2018,"Survey & Surveillance",1.7,1.3,2.3,"Survey & Surveillance",27,27,28,20000,8700,31000
+"Philippines","PH","PHL","608","WPR",2019,"Survey & Surveillance",1.6,1.2,2.3,"Survey & Surveillance",27,26,27,19000,8200,30000
+"Philippines","PH","PHL","608","WPR",2020,"Survey & Surveillance",1.5,1.1,2.2,"Survey & Surveillance",27,26,27,18000,7200,29000
+"Philippines","PH","PHL","608","WPR",2021,"Survey & Surveillance",1.5,0.97,2.1,"Survey & Surveillance",26,25,27,21000,8300,34000
+"Poland","PL","POL","616","EUR",2015,"Surveillance",0.89,0.79,0.99,"Surveillance",3.7,3.2,4.3,84,68,100
+"Poland","PL","POL","616","EUR",2016,"Surveillance",0.9,0.79,1,"Surveillance",3.5,3,4.1,83,67,99
+"Poland","PL","POL","616","EUR",2017,"Surveillance",0.92,0.8,1,"Surveillance",3.3,2.8,4,75,60,90
+"Poland","PL","POL","616","EUR",2018,"Surveillance",0.93,0.8,1.1,"Surveillance",3.1,2.6,3.8,70,56,85
+"Poland","PL","POL","616","EUR",2019,"Surveillance",0.95,0.8,1.1,"Surveillance",2.9,2.4,3.6,68,53,82
+"Poland","PL","POL","616","EUR",2020,"Surveillance",0.96,0.8,1.1,"Surveillance",2.8,2.2,3.5,43,33,52
+"Poland","PL","POL","616","EUR",2021,"Surveillance",0.98,0.8,1.2,"Surveillance",2.6,2,3.3,47,36,58
+"Portugal","PT","PRT","620","EUR",2015,"Model",1.1,0.73,1.5,"Model",7.2,4.2,11,35,23,47
+"Portugal","PT","PRT","620","EUR",2016,"Model",1.1,0.68,1.5,"Model",7.2,4,11,29,18,40
+"Portugal","PT","PRT","620","EUR",2017,"Model",1,0.64,1.5,"Model",7.2,3.8,11,28,17,39
+"Portugal","PT","PRT","620","EUR",2018,"Model",1,0.6,1.5,"Model",7.1,3.6,12,29,17,41
+"Portugal","PT","PRT","620","EUR",2019,"Model",0.97,0.56,1.5,"Model",7.1,3.5,12,26,14,38
+"Portugal","PT","PRT","620","EUR",2020,"Model",0.94,0.53,1.5,"Model",7.1,3.3,12,21,11,30
+"Portugal","PT","PRT","620","EUR",2021,"Model",0.92,0.49,1.5,"Model",7.1,3.1,13,21,11,31
+"Puerto Rico","PR","PRI","630","AMR",2015,"Surveillance",2.2,1.2,3.7,"Surveillance",20,6.4,39,2,1,4
+"Puerto Rico","PR","PRI","630","AMR",2016,"Surveillance",2.3,1.2,3.9,"Surveillance",19,6,39,3,1,5
+"Puerto Rico","PR","PRI","630","AMR",2017,"Surveillance",2.4,1.2,4.2,"Surveillance",18,5.7,39,2,1,3
+"Puerto Rico","PR","PRI","630","AMR",2018,"Surveillance",2.5,1.2,4.6,"Surveillance",18,5.2,39,1,0,2
+"Puerto Rico","PR","PRI","630","AMR",2019,"Surveillance",2.6,1.2,4.9,"Surveillance",17,4.7,40,2,0,3
+"Puerto Rico","PR","PRI","630","AMR",2020,"Surveillance",2.8,1.1,5.4,"Surveillance",17,4.3,41,1,0,2
+"Puerto Rico","PR","PRI","630","AMR",2021,"Surveillance",2.9,1.1,5.9,"Surveillance",17,3.8,41,1,0,1
+"Qatar","QA","QAT","634","EMR",2015,"Surveillance",1.4,0.99,1.9,"Surveillance",21,2.8,60,9,6,12
+"Qatar","QA","QAT","634","EMR",2016,"Surveillance",1.4,1,1.9,"Surveillance",19,2.9,55,8,5,11
+"Qatar","QA","QAT","634","EMR",2017,"Surveillance",1.4,1,2,"Surveillance",17,2.8,50,10,6,14
+"Qatar","QA","QAT","634","EMR",2018,"Surveillance",1.5,1,2,"Surveillance",16,2.6,45,13,8,18
+"Qatar","QA","QAT","634","EMR",2019,"Surveillance",1.5,0.99,2.1,"Surveillance",15,2.5,42,15,9,21
+"Qatar","QA","QAT","634","EMR",2020,"Surveillance",1.5,0.99,2.3,"Surveillance",14,2.4,39,16,9,22
+"Qatar","QA","QAT","634","EMR",2021,"Surveillance",1.6,0.99,2.4,"Surveillance",13,2.1,36,18,10,27
+"Republic of Korea","KR","KOR","410","WPR",2015,"Surveillance",3.3,3.1,3.4,"Surveillance",10,9.8,11,1800,1600,2000
+"Republic of Korea","KR","KOR","410","WPR",2016,"Surveillance",3.3,3.1,3.4,"Surveillance",9.9,9.5,10,1700,1600,1900
+"Republic of Korea","KR","KOR","410","WPR",2017,"Surveillance",3.2,3.1,3.3,"Surveillance",9.6,9.1,10,1600,1400,1700
+"Republic of Korea","KR","KOR","410","WPR",2018,"Surveillance",3.2,3.1,3.3,"Surveillance",9.2,8.8,9.7,1500,1300,1600
+"Republic of Korea","KR","KOR","410","WPR",2019,"Surveillance",3.2,3,3.3,"Surveillance",8.9,8.4,9.5,1300,1200,1400
+"Republic of Korea","KR","KOR","410","WPR",2020,"Surveillance",3.1,3,3.3,"Surveillance",8.6,8,9.2,1100,940,1200
+"Republic of Korea","KR","KOR","410","WPR",2021,"Surveillance",3.1,2.9,3.3,"Surveillance",8.3,7.7,8.9,960,860,1100
+"Republic of Moldova","MD","MDA","498","EUR",2015,"Surveillance",28,27,29,"Surveillance",58,57,59,1200,960,1500
+"Republic of Moldova","MD","MDA","498","EUR",2016,"Surveillance",28,27,29,"Surveillance",58,56,59,1200,950,1400
+"Republic of Moldova","MD","MDA","498","EUR",2017,"Surveillance",29,28,30,"Surveillance",58,56,59,1100,910,1400
+"Republic of Moldova","MD","MDA","498","EUR",2018,"Surveillance",29,28,30,"Surveillance",57,55,59,1000,830,1200
+"Republic of Moldova","MD","MDA","498","EUR",2019,"Surveillance",30,28,31,"Surveillance",57,55,59,950,790,1100
+"Republic of Moldova","MD","MDA","498","EUR",2020,"Surveillance",30,29,31,"Surveillance",57,55,59,930,760,1100
+"Republic of Moldova","MD","MDA","498","EUR",2021,"Surveillance",31,29,32,"Surveillance",56,54,59,1000,790,1200
+"Romania","RO","ROU","642","EUR",2015,"Survey & Surveillance",2.8,2.6,3,"Survey & Surveillance",16,15,16,900,730,1100
+"Romania","RO","ROU","642","EUR",2016,"Survey & Surveillance",2.7,2.5,2.9,"Survey & Surveillance",15,14,16,780,630,930
+"Romania","RO","ROU","642","EUR",2017,"Survey & Surveillance",2.6,2.5,2.8,"Survey & Surveillance",15,14,15,730,590,870
+"Romania","RO","ROU","642","EUR",2018,"Survey & Surveillance",2.5,2.4,2.7,"Survey & Surveillance",14,13,15,660,540,790
+"Romania","RO","ROU","642","EUR",2019,"Survey & Surveillance",2.5,2.3,2.6,"Survey & Surveillance",14,13,15,620,500,730
+"Romania","RO","ROU","642","EUR",2020,"Survey & Surveillance",2.4,2.2,2.6,"Survey & Surveillance",13,12,14,390,310,460
+"Romania","RO","ROU","642","EUR",2021,"Survey & Surveillance",2.3,2.1,2.5,"Survey & Surveillance",13,12,14,400,320,480
+"Russian Federation","RU","RUS","643","EUR",2015,"Surveillance",32,31,32,"Surveillance",69,68,70,49000,23000,75000
+"Russian Federation","RU","RUS","643","EUR",2016,"Surveillance",33,32,33,"Surveillance",69,68,69,47000,24000,71000
+"Russian Federation","RU","RUS","643","EUR",2017,"Surveillance",34,34,34,"Surveillance",69,69,69,45000,24000,66000
+"Russian Federation","RU","RUS","643","EUR",2018,"Surveillance",35,35,35,"Surveillance",69,69,69,42000,24000,61000
+"Russian Federation","RU","RUS","643","EUR",2019,"Surveillance",36,35,36,"Surveillance",69,69,69,39000,24000,55000
+"Russian Federation","RU","RUS","643","EUR",2020,"Surveillance",37,36,37,"Surveillance",69,68,69,39000,23000,54000
+"Russian Federation","RU","RUS","643","EUR",2021,"Surveillance",38,37,39,"Surveillance",69,68,70,38000,31000,46000
+"Rwanda","RW","RWA","646","AFR",2015,"Survey & Surveillance",2,1.8,2.3,"Survey & Surveillance",8.6,7.4,10,170,120,220
+"Rwanda","RW","RWA","646","AFR",2016,"Survey & Surveillance",1.9,1.7,2.2,"Survey & Surveillance",7.5,6.3,8.9,170,120,220
+"Rwanda","RW","RWA","646","AFR",2017,"Survey & Surveillance",1.8,1.6,2,"Survey & Surveillance",6.6,5.4,7.9,150,110,190
+"Rwanda","RW","RWA","646","AFR",2018,"Survey & Surveillance",1.7,1.4,1.9,"Survey & Surveillance",5.8,4.7,7.1,150,100,190
+"Rwanda","RW","RWA","646","AFR",2019,"Survey & Surveillance",1.6,1.3,1.8,"Survey & Surveillance",5,3.9,6.3,130,95,170
+"Rwanda","RW","RWA","646","AFR",2020,"Survey & Surveillance",1.5,1.2,1.8,"Survey & Surveillance",4.4,3.3,5.6,130,88,170
+"Rwanda","RW","RWA","646","AFR",2021,"Survey & Surveillance",1.4,1.1,1.7,"Survey & Surveillance",3.8,2.8,5.1,120,82,160
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2015,"Surveillance",3.6,0.26,18,"Model",26,1.9,78,0,0,1
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2016,"Surveillance",3.5,0.26,17,"Model",25,1.9,75,0,0,0
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2017,"Surveillance",3.4,0.26,16,"Model",24,1.9,73,0,0,1
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2018,"Surveillance",3.3,0.27,15,"Model",23,1.8,71,0,0,0
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2019,"Surveillance",3.2,0.28,15,"Model",22,1.7,70,0,0,1
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2020,"Surveillance",3.1,0.27,14,"Model",21,1.6,68,0,0,1
+"Saint Kitts and Nevis","KN","KNA","659","AMR",2021,"Surveillance",3,0.26,13,"Model",20,1.5,66,0,0,1
+"Saint Lucia","LC","LCA","662","AMR",2015,"Surveillance",2.7,0.22,10,"Model",18,0.85,68,1,0,2
+"Saint Lucia","LC","LCA","662","AMR",2016,"Surveillance",2.7,0.23,10,"Model",18,0.93,67,0,0,0
+"Saint Lucia","LC","LCA","662","AMR",2017,"Surveillance",2.7,0.24,10,"Model",17,1.1,66,0,0,1
+"Saint Lucia","LC","LCA","662","AMR",2018,"Surveillance",2.8,0.24,11,"Model",16,1.1,63,0,0,1
+"Saint Lucia","LC","LCA","662","AMR",2019,"Surveillance",2.8,0.25,11,"Model",16,1.1,61,0,0,1
+"Saint Lucia","LC","LCA","662","AMR",2020,"Surveillance",2.8,0.25,11,"Model",15,1.2,59,0,0,0
+"Saint Lucia","LC","LCA","662","AMR",2021,"Surveillance",2.9,0.25,12,"Model",15,1.1,60,0,0,0
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2015,"Surveillance",2.1,0.24,7.7,"Model",18,1.1,64,0,0,1
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2016,"Surveillance",2.1,0.25,7.5,"Model",17,1.2,60,0,0,1
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2017,"Surveillance",2,0.24,7.3,"Model",17,1.2,57,0,0,0
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2018,"Surveillance",2,0.24,6.9,"Model",16,1.2,55,0,0,1
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2019,"Surveillance",2,0.24,6.8,"Model",16,1.3,54,0,0,0
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2020,"Surveillance",2,0.22,6.9,"Model",16,1.4,54,0,0,1
+"Saint Vincent and the Grenadines","VC","VCT","670","AMR",2021,"Surveillance",2,0.21,7,"Model",16,1.3,53,0,0,1
+"Samoa","WS","WSM","882","WPR",2015,"Surveillance",1.6,0.28,4.2,"Model",23,1.4,75,1,0,1
+"Samoa","WS","WSM","882","WPR",2016,"Surveillance",1.6,0.3,4.3,"Model",22,1.5,74,0,0,1
+"Samoa","WS","WSM","882","WPR",2017,"Surveillance",1.6,0.3,4.3,"Model",21,1.6,70,1,0,2
+"Samoa","WS","WSM","882","WPR",2018,"Surveillance",1.7,0.31,4.4,"Model",21,1.6,68,0,0,1
+"Samoa","WS","WSM","882","WPR",2019,"Surveillance",1.7,0.31,4.5,"Model",20,1.5,66,1,0,1
+"Samoa","WS","WSM","882","WPR",2020,"Surveillance",1.8,0.31,4.6,"Model",19,1.5,65,0,0,1
+"Samoa","WS","WSM","882","WPR",2021,"Surveillance",1.8,0.32,4.9,"Model",19,1.4,64,0,0,1
+"San Marino","SM","SMR","674","EUR",2015,"Model",1.9,0.26,6.9,"Model",15,1,52,0,0,0
+"San Marino","SM","SMR","674","EUR",2016,"Model",2,0.29,7,"Model",15,1.2,50,0,0,0
+"San Marino","SM","SMR","674","EUR",2017,"Model",2.1,0.31,7.1,"Model",16,1.3,51,0,0,0
+"San Marino","SM","SMR","674","EUR",2018,"Model",2.1,0.33,7.3,"Model",16,1.4,52,0,0,0
+"San Marino","SM","SMR","674","EUR",2019,"Model",2.2,0.36,7.5,"Model",16,1.6,51,0,0,0
+"San Marino","SM","SMR","674","EUR",2020,"Model",2.3,0.37,7.6,"Model",17,1.7,51,0,0,0
+"San Marino","SM","SMR","674","EUR",2021,"Model",2.4,0.41,8,"Model",17,1.8,53,0,0,0
+"Sao Tome and Principe","ST","STP","678","AFR",2015,"Model",4.2,0.27,21,"Model",66,38,91,19,0,62
+"Sao Tome and Principe","ST","STP","678","AFR",2016,"Model",4.3,0.28,20,"Model",64,34,90,20,0,65
+"Sao Tome and Principe","ST","STP","678","AFR",2017,"Model",4.4,0.3,21,"Model",62,30,90,15,0,47
+"Sao Tome and Principe","ST","STP","678","AFR",2018,"Model",4.5,0.31,21,"Model",60,26,89,16,0,51
+"Sao Tome and Principe","ST","STP","678","AFR",2019,"Model",4.6,0.29,22,"Model",57,23,89,15,0,49
+"Sao Tome and Principe","ST","STP","678","AFR",2020,"Model",4.7,0.29,22,"Model",55,19,89,16,0,51
+"Sao Tome and Principe","ST","STP","678","AFR",2021,"Model",4.8,0.3,23,"Model",53,15,89,16,0,52
+"Saudi Arabia","SA","SAU","682","EMR",2015,"Model",2.5,1.4,4,"Surveillance",6.8,3.9,11,97,47,150
+"Saudi Arabia","SA","SAU","682","EMR",2016,"Model",2.4,1.2,4.3,"Surveillance",5.7,2.9,9.4,84,33,140
+"Saudi Arabia","SA","SAU","682","EMR",2017,"Model",2.4,1.1,4.5,"Surveillance",4.7,2.2,8.5,82,27,140
+"Saudi Arabia","SA","SAU","682","EMR",2018,"Model",2.4,1,4.8,"Surveillance",4,1.6,7.6,84,21,150
+"Saudi Arabia","SA","SAU","682","EMR",2019,"Model",2.4,0.96,5.1,"Surveillance",3.3,1.2,6.8,83,14,150
+"Saudi Arabia","SA","SAU","682","EMR",2020,"Model",2.5,0.88,5.4,"Surveillance",2.8,0.92,6.1,69,6,130
+"Saudi Arabia","SA","SAU","682","EMR",2021,"Model",2.5,0.81,5.8,"Surveillance",2.3,0.69,5.4,73,0,150
+"Senegal","SN","SEN","686","AFR",2015,"Model",1.1,0.56,2.1,"Surveillance",8.5,7.3,9.9,280,99,460
+"Senegal","SN","SEN","686","AFR",2016,"Model",1.1,0.52,2.1,"Surveillance",7.9,6.9,8.9,280,87,470
+"Senegal","SN","SEN","686","AFR",2017,"Model",1.1,0.5,2.2,"Surveillance",7.3,6.5,8.2,280,80,470
+"Senegal","SN","SEN","686","AFR",2018,"Model",1.1,0.46,2.2,"Surveillance",6.8,6,7.5,280,68,480
+"Senegal","SN","SEN","686","AFR",2019,"Model",1.1,0.42,2.3,"Surveillance",6.3,5.5,7.1,270,58,490
+"Senegal","SN","SEN","686","AFR",2020,"Model",1.1,0.38,2.4,"Surveillance",5.8,4.9,6.8,270,38,510
+"Senegal","SN","SEN","686","AFR",2021,"Model",1.1,0.35,2.5,"Surveillance",5.4,4.4,6.5,270,18,530
+"Serbia","RS","SRB","688","EUR",2015,"Model",0.89,0.55,1.3,"Model",6,3.2,10,20,10,31
+"Serbia","RS","SRB","688","EUR",2016,"Model",0.91,0.53,1.4,"Model",6,2.9,11,18,9,28
+"Serbia","RS","SRB","688","EUR",2017,"Model",0.93,0.51,1.5,"Model",6,2.7,11,18,8,29
+"Serbia","RS","SRB","688","EUR",2018,"Model",0.95,0.5,1.6,"Model",6,2.5,12,17,7,28
+"Serbia","RS","SRB","688","EUR",2019,"Model",0.98,0.48,1.7,"Model",5.9,2.3,13,15,5,24
+"Serbia","RS","SRB","688","EUR",2020,"Model",1,0.46,1.9,"Model",5.9,2.1,14,14,4,24
+"Serbia","RS","SRB","688","EUR",2021,"Model",1,0.45,2,"Model",5.9,1.9,14,15,4,27
+"Seychelles","SC","SYC","690","AFR",2015,"Surveillance",0.82,0.14,2.6,"Surveillance",10,0.68,36,0,0,0
+"Seychelles","SC","SYC","690","AFR",2016,"Surveillance",0.8,0.14,2.5,"Surveillance",10,0.79,36,0,0,0
+"Seychelles","SC","SYC","690","AFR",2017,"Surveillance",0.79,0.14,2.5,"Surveillance",10,0.88,36,0,0,0
+"Seychelles","SC","SYC","690","AFR",2018,"Surveillance",0.78,0.14,2.5,"Surveillance",11,0.95,36,0,0,0
+"Seychelles","SC","SYC","690","AFR",2019,"Surveillance",0.78,0.15,2.4,"Surveillance",11,0.96,37,0,0,0
+"Seychelles","SC","SYC","690","AFR",2020,"Surveillance",0.77,0.15,2.4,"Surveillance",11,0.95,39,0,0,0
+"Seychelles","SC","SYC","690","AFR",2021,"Surveillance",0.77,0.14,2.4,"Surveillance",11,0.93,42,0,0,0
+"Sierra Leone","SL","SLE","694","AFR",2015,"Model",2.6,0.26,11,"Model",18,1.3,61,640,0,1900
+"Sierra Leone","SL","SLE","694","AFR",2016,"Model",2.5,0.27,10,"Model",17,1.3,59,640,0,1900
+"Sierra Leone","SL","SLE","694","AFR",2017,"Model",2.5,0.28,10,"Model",16,1.3,53,640,0,1900
+"Sierra Leone","SL","SLE","694","AFR",2018,"Model",2.5,0.28,9.6,"Model",15,1.3,51,650,0,1800
+"Sierra Leone","SL","SLE","694","AFR",2019,"Model",2.5,0.28,9.4,"Model",14,1.2,49,650,0,1800
+"Sierra Leone","SL","SLE","694","AFR",2020,"Model",2.5,0.28,9.1,"Model",13,1.2,47,660,0,1800
+"Sierra Leone","SL","SLE","694","AFR",2021,"Model",2.5,0.27,9.1,"Model",12,1.1,45,660,0,1800
+"Singapore","SG","SGP","702","WPR",2015,"Surveillance",1.2,1.1,1.4,"Surveillance",2.5,1.6,3.5,32,25,38
+"Singapore","SG","SGP","702","WPR",2016,"Surveillance",1.3,1.1,1.5,"Surveillance",2.5,1.6,3.7,39,30,47
+"Singapore","SG","SGP","702","WPR",2017,"Surveillance",1.4,1.2,1.7,"Surveillance",2.6,1.5,3.8,39,31,48
+"Singapore","SG","SGP","702","WPR",2018,"Surveillance",1.5,1.3,1.8,"Surveillance",2.6,1.5,4,42,32,51
+"Singapore","SG","SGP","702","WPR",2019,"Surveillance",1.6,1.3,1.9,"Surveillance",2.6,1.4,4.2,40,30,50
+"Singapore","SG","SGP","702","WPR",2020,"Surveillance",1.7,1.4,2.1,"Surveillance",2.7,1.4,4.4,48,36,61
+"Singapore","SG","SGP","702","WPR",2021,"Surveillance",1.9,1.4,2.3,"Surveillance",2.7,1.4,4.6,54,39,69
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2015,"Model",3.9,0.37,16,"Model",21,1.1,69,0,0,0
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2016,"Model",4,0.38,16,"Model",20,1.2,66,0,0,0
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2017,"Model",4.2,0.4,17,"Model",20,1.4,64,0,0,1
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2018,"Model",4.3,0.42,18,"Model",19,1.5,62,0,0,1
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2019,"Model",4.5,0.44,19,"Model",19,1.5,62,0,0,1
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2020,"Model",4.7,0.45,19,"Model",19,1.5,63,0,0,0
+"Sint Maarten (Dutch part)","SX","SXM","534","AMR",2021,"Model",4.9,0.45,20,"Model",18,1.6,62,0,0,0
+"Slovakia","SK","SVK","703","EUR",2015,"Surveillance",1.6,0.93,2.4,"Surveillance",9.8,5.8,14,9,4,14
+"Slovakia","SK","SVK","703","EUR",2016,"Surveillance",1.6,0.92,2.5,"Surveillance",10,6,16,8,4,13
+"Slovakia","SK","SVK","703","EUR",2017,"Surveillance",1.7,0.91,2.6,"Surveillance",11,6.3,17,7,3,11
+"Slovakia","SK","SVK","703","EUR",2018,"Surveillance",1.7,0.9,2.8,"Surveillance",12,6.5,19,9,3,14
+"Slovakia","SK","SVK","703","EUR",2019,"Surveillance",1.8,0.9,3,"Surveillance",13,6.9,21,7,3,11
+"Slovakia","SK","SVK","703","EUR",2020,"Surveillance",1.8,0.89,3.1,"Surveillance",14,7.1,23,5,2,9
+"Slovakia","SK","SVK","703","EUR",2021,"Surveillance",1.9,0.88,3.3,"Surveillance",15,7.4,25,5,2,8
+"Slovenia","SI","SVN","705","EUR",2015,"Surveillance",0.45,0.2,0.81,"Surveillance",2.2,0.58,5.3,1,0,1
+"Slovenia","SI","SVN","705","EUR",2016,"Surveillance",0.46,0.2,0.84,"Surveillance",2.3,0.56,5.9,1,0,1
+"Slovenia","SI","SVN","705","EUR",2017,"Surveillance",0.48,0.2,0.89,"Surveillance",2.4,0.55,6.5,1,0,1
+"Slovenia","SI","SVN","705","EUR",2018,"Surveillance",0.49,0.19,0.93,"Surveillance",2.6,0.52,7.1,1,0,1
+"Slovenia","SI","SVN","705","EUR",2019,"Surveillance",0.5,0.19,0.99,"Surveillance",2.7,0.5,7.9,1,0,1
+"Slovenia","SI","SVN","705","EUR",2020,"Surveillance",0.52,0.18,1.1,"Surveillance",2.9,0.48,9,1,0,1
+"Slovenia","SI","SVN","705","EUR",2021,"Surveillance",0.53,0.17,1.1,"Surveillance",3.1,0.46,9.7,1,0,1
+"Solomon Islands","SB","SLB","090","WPR",2015,"Model",1.7,0.23,5.7,"Surveillance",3.3,0.44,9.3,9,0,25
+"Solomon Islands","SB","SLB","090","WPR",2016,"Model",1.6,0.22,5.7,"Surveillance",3.5,0.52,9.8,9,0,24
+"Solomon Islands","SB","SLB","090","WPR",2017,"Model",1.6,0.23,5.5,"Surveillance",3.8,0.6,11,8,0,21
+"Solomon Islands","SB","SLB","090","WPR",2018,"Model",1.6,0.22,5.3,"Surveillance",4.2,0.65,12,8,0,21
+"Solomon Islands","SB","SLB","090","WPR",2019,"Model",1.6,0.22,5.2,"Surveillance",4.6,0.76,13,7,0,19
+"Solomon Islands","SB","SLB","090","WPR",2020,"Model",1.5,0.22,5.3,"Surveillance",5,0.8,14,7,0,18
+"Solomon Islands","SB","SLB","090","WPR",2021,"Model",1.5,0.22,5.3,"Surveillance",5.6,0.84,17,8,0,20
+"Somalia","SO","SOM","706","EMR",2015,"Model",6.1,3.5,9.2,"Surveillance",72,58,89,2500,950,4000
+"Somalia","SO","SOM","706","EMR",2016,"Model",5.7,3.1,9.1,"Surveillance",73,59,87,2400,830,4000
+"Somalia","SO","SOM","706","EMR",2017,"Model",5.4,2.7,9.2,"Surveillance",74,61,87,2300,690,4000
+"Somalia","SO","SOM","706","EMR",2018,"Model",5.1,2.3,9.2,"Surveillance",75,61,86,2300,550,4000
+"Somalia","SO","SOM","706","EMR",2019,"Model",4.9,2,9.4,"Surveillance",75,61,87,2200,390,4000
+"Somalia","SO","SOM","706","EMR",2020,"Model",4.6,1.8,9.5,"Surveillance",75,60,88,2100,240,4000
+"Somalia","SO","SOM","706","EMR",2021,"Model",4.4,1.5,9.5,"Surveillance",76,59,90,2100,110,4000
+"South Africa","ZA","ZAF","710","AFR",2015,"Surveillance",3.4,3.2,3.6,"Surveillance",19,18,20,30000,14000,47000
+"South Africa","ZA","ZAF","710","AFR",2016,"Surveillance",3.5,3.4,3.7,"Surveillance",20,19,21,26000,14000,38000
+"South Africa","ZA","ZAF","710","AFR",2017,"Surveillance",3.6,3.5,3.8,"Surveillance",21,21,22,25000,14000,35000
+"South Africa","ZA","ZAF","710","AFR",2018,"Surveillance",3.7,3.6,3.8,"Surveillance",23,22,24,24000,14000,33000
+"South Africa","ZA","ZAF","710","AFR",2019,"Surveillance",3.8,3.7,4,"Surveillance",25,24,25,23000,14000,31000
+"South Africa","ZA","ZAF","710","AFR",2020,"Surveillance",4,3.8,4.1,"Surveillance",26,25,27,22000,14000,30000
+"South Africa","ZA","ZAF","710","AFR",2021,"Surveillance",4.1,3.9,4.2,"Surveillance",28,27,29,21000,13000,29000
+"South Sudan","SS","SSD","728","AFR",2015,"Model",1.9,0.16,7.9,"Model",16,0.76,63,690,0,1900
+"South Sudan","SS","SSD","728","AFR",2016,"Model",1.8,0.17,7.6,"Model",15,0.78,60,660,0,1800
+"South Sudan","SS","SSD","728","AFR",2017,"Model",1.8,0.17,7.1,"Model",15,0.79,57,610,0,1600
+"South Sudan","SS","SSD","728","AFR",2018,"Model",1.7,0.18,6.9,"Model",14,0.8,54,570,0,1500
+"South Sudan","SS","SSD","728","AFR",2019,"Model",1.7,0.17,6.9,"Model",13,0.87,53,560,0,1500
+"South Sudan","SS","SSD","728","AFR",2020,"Model",1.6,0.17,6.8,"Model",13,0.87,49,550,0,1500
+"South Sudan","SS","SSD","728","AFR",2021,"Model",1.6,0.16,6.5,"Model",12,0.81,48,550,0,1500
+"Spain","ES","ESP","724","EUR",2015,"Surveillance",4.1,2.8,5.6,"Surveillance",18,9.9,28,250,160,340
+"Spain","ES","ESP","724","EUR",2016,"Surveillance",4.1,2.7,5.8,"Surveillance",18,9.6,29,290,180,410
+"Spain","ES","ESP","724","EUR",2017,"Surveillance",4.1,2.6,6.1,"Surveillance",18,9.1,31,280,160,390
+"Spain","ES","ESP","724","EUR",2018,"Surveillance",4.2,2.4,6.6,"Surveillance",18,8.2,34,290,150,420
+"Spain","ES","ESP","724","EUR",2019,"Surveillance",4.2,2.3,7,"Surveillance",19,7.5,37,260,120,400
+"Spain","ES","ESP","724","EUR",2020,"Surveillance",4.3,2.1,7.6,"Surveillance",19,6.8,40,190,77,310
+"Spain","ES","ESP","724","EUR",2021,"Surveillance",4.4,2,8.2,"Surveillance",20,5.9,44,210,70,340
+"Sri Lanka","LK","LKA","144","SEA",2015,"Survey",0.45,0.14,1.1,"Survey & Surveillance",2.7,2.2,3.4,84,1,170
+"Sri Lanka","LK","LKA","144","SEA",2016,"Survey",0.46,0.14,1.2,"Survey & Surveillance",2.8,2.2,3.5,85,0,170
+"Sri Lanka","LK","LKA","144","SEA",2017,"Survey",0.46,0.13,1.2,"Survey & Surveillance",2.8,2.1,3.6,86,0,180
+"Sri Lanka","LK","LKA","144","SEA",2018,"Survey",0.47,0.13,1.3,"Survey & Surveillance",2.9,2.1,3.8,87,0,180
+"Sri Lanka","LK","LKA","144","SEA",2019,"Survey",0.48,0.12,1.4,"Survey & Surveillance",2.9,2,4,88,0,190
+"Sri Lanka","LK","LKA","144","SEA",2020,"Survey",0.49,0.12,1.4,"Survey & Surveillance",3,2,4.2,90,0,200
+"Sri Lanka","LK","LKA","144","SEA",2021,"Survey",0.5,0.11,1.5,"Survey & Surveillance",3,1.9,4.5,91,0,200
+"Sudan","SD","SDN","729","EMR",2015,"Survey",2.8,1.8,4.2,"Survey & Surveillance",12,8.6,16,1200,340,2000
+"Sudan","SD","SDN","729","EMR",2016,"Survey",2.8,1.8,4,"Survey & Surveillance",12,9.5,15,1100,480,1700
+"Sudan","SD","SDN","729","EMR",2017,"Survey",2.8,1.8,4,"Survey & Surveillance",12,10,14,1100,510,1600
+"Sudan","SD","SDN","729","EMR",2018,"Survey",2.9,1.8,4.2,"Survey & Surveillance",12,11,14,1000,490,1600
+"Sudan","SD","SDN","729","EMR",2019,"Survey",2.9,1.8,4.5,"Survey & Surveillance",13,11,14,1000,450,1600
+"Sudan","SD","SDN","729","EMR",2020,"Survey",2.9,1.6,4.8,"Survey & Surveillance",13,11,15,980,390,1600
+"Sudan","SD","SDN","729","EMR",2021,"Survey",3,1.5,5.2,"Survey & Surveillance",13,10,16,960,310,1600
+"Suriname","SR","SUR","740","AMR",2015,"Surveillance",9.5,5.7,15,"Surveillance",31,12,57,21,10,32
+"Suriname","SR","SUR","740","AMR",2016,"Surveillance",9.6,6.3,14,"Surveillance",30,13,52,17,9,24
+"Suriname","SR","SUR","740","AMR",2017,"Surveillance",9.7,6.7,14,"Surveillance",29,13,47,19,11,27
+"Suriname","SR","SUR","740","AMR",2018,"Surveillance",9.9,7,13,"Surveillance",28,13,44,26,14,38
+"Suriname","SR","SUR","740","AMR",2019,"Surveillance",10,7,14,"Surveillance",27,13,43,20,12,28
+"Suriname","SR","SUR","740","AMR",2020,"Surveillance",10,6.9,14,"Surveillance",26,12,43,21,12,29
+"Suriname","SR","SUR","740","AMR",2021,"Surveillance",11,6.7,15,"Surveillance",25,11,44,21,12,31
+"Sweden","SE","SWE","752","EUR",2015,"Surveillance",2.8,2.3,3.4,"Surveillance",14,9.2,19,30,22,39
+"Sweden","SE","SWE","752","EUR",2016,"Surveillance",2.9,2.3,3.6,"Surveillance",15,9.4,21,28,20,37
+"Sweden","SE","SWE","752","EUR",2017,"Surveillance",3.1,2.3,3.9,"Surveillance",15,9.4,22,21,14,27
+"Sweden","SE","SWE","752","EUR",2018,"Surveillance",3.2,2.4,4.1,"Surveillance",16,9.5,24,21,14,28
+"Sweden","SE","SWE","752","EUR",2019,"Surveillance",3.3,2.4,4.4,"Surveillance",17,9.6,26,22,15,30
+"Sweden","SE","SWE","752","EUR",2020,"Surveillance",3.5,2.5,4.7,"Surveillance",17,9.7,27,15,10,21
+"Sweden","SE","SWE","752","EUR",2021,"Surveillance",3.7,2.5,5,"Surveillance",18,9.7,29,17,11,24
+"Switzerland","CH","CHE","756","EUR",2015,"Surveillance",1.8,1.2,2.5,"Surveillance",20,14,28,22,12,31
+"Switzerland","CH","CHE","756","EUR",2016,"Surveillance",1.9,1.2,2.7,"Surveillance",22,14,30,25,14,36
+"Switzerland","CH","CHE","756","EUR",2017,"Surveillance",2,1.2,2.9,"Surveillance",23,15,33,24,13,36
+"Switzerland","CH","CHE","756","EUR",2018,"Surveillance",2.1,1.2,3.1,"Surveillance",25,16,36,23,12,34
+"Switzerland","CH","CHE","756","EUR",2019,"Surveillance",2.2,1.2,3.3,"Surveillance",27,16,39,21,10,31
+"Switzerland","CH","CHE","756","EUR",2020,"Surveillance",2.3,1.3,3.6,"Surveillance",28,17,42,19,9,29
+"Switzerland","CH","CHE","756","EUR",2021,"Surveillance",2.4,1.3,3.9,"Surveillance",30,18,45,20,10,31
+"Syrian Arab Republic","SY","SYR","760","EMR",2015,"Surveillance",2.3,1.5,3.2,"Surveillance",24,21,28,120,72,180
+"Syrian Arab Republic","SY","SYR","760","EMR",2016,"Surveillance",2.1,1.3,2.9,"Surveillance",23,19,26,120,68,180
+"Syrian Arab Republic","SY","SYR","760","EMR",2017,"Surveillance",1.9,1.2,2.8,"Surveillance",21,17,25,100,57,150
+"Syrian Arab Republic","SY","SYR","760","EMR",2018,"Surveillance",1.7,1.1,2.6,"Surveillance",19,15,23,92,50,130
+"Syrian Arab Republic","SY","SYR","760","EMR",2019,"Surveillance",1.6,0.95,2.4,"Surveillance",18,14,22,86,45,130
+"Syrian Arab Republic","SY","SYR","760","EMR",2020,"Surveillance",1.5,0.84,2.3,"Surveillance",16,12,21,79,40,120
+"Syrian Arab Republic","SY","SYR","760","EMR",2021,"Surveillance",1.3,0.75,2.2,"Surveillance",15,10,20,72,35,110
+"Tajikistan","TJ","TJK","762","EUR",2015,"Survey & Surveillance",19,18,20,"Survey & Surveillance",47,45,48,1500,1100,1900
+"Tajikistan","TJ","TJK","762","EUR",2016,"Survey & Surveillance",21,20,21,"Survey & Surveillance",44,42,46,1600,1200,2000
+"Tajikistan","TJ","TJK","762","EUR",2017,"Survey & Surveillance",23,22,23,"Survey & Surveillance",42,40,44,1800,1300,2200
+"Tajikistan","TJ","TJK","762","EUR",2018,"Survey & Surveillance",25,24,25,"Survey & Surveillance",40,38,42,1900,1500,2400
+"Tajikistan","TJ","TJK","762","EUR",2019,"Survey & Surveillance",27,26,28,"Survey & Surveillance",38,35,40,2100,1600,2600
+"Tajikistan","TJ","TJK","762","EUR",2020,"Survey & Surveillance",29,28,30,"Survey & Surveillance",35,33,38,2200,1700,2800
+"Tajikistan","TJ","TJK","762","EUR",2021,"Survey & Surveillance",31,30,33,"Survey & Surveillance",33,30,36,2700,2000,3400
+"Thailand","TH","THA","764","SEA",2015,"Survey",1.8,1.3,2.3,"Survey & Surveillance",15,14,16,2900,1400,4500
+"Thailand","TH","THA","764","SEA",2016,"Survey",1.8,1.3,2.4,"Survey & Surveillance",14,13,15,2900,1500,4200
+"Thailand","TH","THA","764","SEA",2017,"Survey",1.8,1.2,2.4,"Survey & Surveillance",13,13,14,2800,1600,3900
+"Thailand","TH","THA","764","SEA",2018,"Survey",1.8,1.2,2.5,"Survey & Surveillance",12,12,13,2700,1500,3900
+"Thailand","TH","THA","764","SEA",2019,"Survey",1.7,1.1,2.6,"Survey & Surveillance",11,11,12,2600,1400,3800
+"Thailand","TH","THA","764","SEA",2020,"Survey",1.7,1.1,2.6,"Survey & Surveillance",11,10,11,2500,1300,3600
+"Thailand","TH","THA","764","SEA",2021,"Survey",1.7,1.1,2.6,"Survey & Surveillance",9.8,9.2,11,2400,1200,3600
+"Timor-Leste","TL","TLS","626","SEA",2015,"Survey",0.76,0.29,1.6,"Survey",3.4,0.71,11,58,6,110
+"Timor-Leste","TL","TLS","626","SEA",2016,"Survey",0.73,0.3,1.5,"Survey",3.5,0.82,11,57,9,110
+"Timor-Leste","TL","TLS","626","SEA",2017,"Survey",0.71,0.29,1.4,"Survey",3.7,0.99,10,57,11,100
+"Timor-Leste","TL","TLS","626","SEA",2018,"Survey",0.69,0.29,1.4,"Survey",3.9,1.1,9.9,57,11,100
+"Timor-Leste","TL","TLS","626","SEA",2019,"Survey",0.68,0.28,1.4,"Survey",4.1,1.3,10,57,11,100
+"Timor-Leste","TL","TLS","626","SEA",2020,"Survey",0.66,0.27,1.3,"Survey",4.4,1.3,11,54,11,98
+"Timor-Leste","TL","TLS","626","SEA",2021,"Survey",0.65,0.26,1.3,"Survey",4.8,1.3,12,57,11,100
+"Togo","TG","TGO","768","AFR",2015,"Survey & Surveillance",1,0.6,1.6,"Survey & Surveillance",5.8,3.9,8.2,48,19,77
+"Togo","TG","TGO","768","AFR",2016,"Survey & Surveillance",0.99,0.64,1.4,"Survey & Surveillance",5.4,3.7,7.3,41,23,60
+"Togo","TG","TGO","768","AFR",2017,"Survey & Surveillance",0.96,0.65,1.3,"Survey & Surveillance",5,3.6,6.6,36,22,50
+"Togo","TG","TGO","768","AFR",2018,"Survey & Surveillance",0.93,0.66,1.2,"Survey & Surveillance",4.7,3.3,6.1,33,21,45
+"Togo","TG","TGO","768","AFR",2019,"Survey & Surveillance",0.9,0.65,1.2,"Survey & Surveillance",4.4,3,6,32,21,44
+"Togo","TG","TGO","768","AFR",2020,"Survey & Surveillance",0.88,0.62,1.2,"Survey & Surveillance",4.1,2.6,6.1,30,19,42
+"Togo","TG","TGO","768","AFR",2021,"Survey & Surveillance",0.86,0.58,1.2,"Survey & Surveillance",3.8,2.1,6.2,29,17,40
+"Tonga","TO","TON","776","WPR",2015,"Surveillance",1.3,0.14,4.4,"Model",25,1.7,73,0,0,1
+"Tonga","TO","TON","776","WPR",2016,"Surveillance",1.3,0.15,4.3,"Model",24,1.8,72,0,0,0
+"Tonga","TO","TON","776","WPR",2017,"Surveillance",1.3,0.15,4.3,"Model",24,1.9,72,0,0,1
+"Tonga","TO","TON","776","WPR",2018,"Surveillance",1.3,0.16,4.4,"Model",24,2.1,71,0,0,0
+"Tonga","TO","TON","776","WPR",2019,"Surveillance",1.3,0.17,4.5,"Model",24,1.9,70,0,0,1
+"Tonga","TO","TON","776","WPR",2020,"Surveillance",1.3,0.16,4.4,"Model",23,1.8,69,0,0,0
+"Tonga","TO","TON","776","WPR",2021,"Surveillance",1.3,0.16,4.5,"Model",23,2,71,0,0,0
+"Trinidad and Tobago","TT","TTO","780","AMR",2015,"Surveillance",1.1,0.21,2.9,"Surveillance",7.8,1.4,21,4,0,8
+"Trinidad and Tobago","TT","TTO","780","AMR",2016,"Surveillance",1,0.21,2.8,"Surveillance",7.6,1.6,19,5,0,9
+"Trinidad and Tobago","TT","TTO","780","AMR",2017,"Surveillance",1,0.22,2.8,"Surveillance",7.6,1.7,18,4,0,8
+"Trinidad and Tobago","TT","TTO","780","AMR",2018,"Surveillance",1,0.22,2.7,"Surveillance",7.5,1.7,18,5,0,10
+"Trinidad and Tobago","TT","TTO","780","AMR",2019,"Surveillance",1,0.23,2.6,"Surveillance",7.6,1.7,18,5,0,9
+"Trinidad and Tobago","TT","TTO","780","AMR",2020,"Surveillance",1,0.23,2.7,"Surveillance",7.6,1.8,19,5,0,9
+"Trinidad and Tobago","TT","TTO","780","AMR",2021,"Surveillance",1,0.23,2.8,"Surveillance",7.8,1.8,20,4,0,7
+"Tunisia","TN","TUN","788","EMR",2015,"Surveillance",0.89,0.63,1.2,"Surveillance",13,9,17,45,26,63
+"Tunisia","TN","TUN","788","EMR",2016,"Surveillance",0.9,0.65,1.2,"Surveillance",14,10,19,46,27,64
+"Tunisia","TN","TUN","788","EMR",2017,"Surveillance",0.92,0.65,1.3,"Surveillance",16,11,21,43,25,60
+"Tunisia","TN","TUN","788","EMR",2018,"Surveillance",0.93,0.63,1.4,"Surveillance",18,11,25,45,24,65
+"Tunisia","TN","TUN","788","EMR",2019,"Surveillance",0.96,0.59,1.5,"Surveillance",20,11,30,47,23,72
+"Tunisia","TN","TUN","788","EMR",2020,"Surveillance",0.98,0.56,1.7,"Surveillance",22,11,37,50,21,80
+"Tunisia","TN","TUN","788","EMR",2021,"Surveillance",1,0.52,1.8,"Surveillance",24,11,44,53,19,88
+"Türkiye","TR","TUR","792","EUR",2015,"Surveillance",3.2,3.1,3.4,"Surveillance",16,15,17,560,450,670
+"Türkiye","TR","TUR","792","EUR",2016,"Surveillance",3.1,2.9,3.2,"Surveillance",14,13,16,520,420,610
+"Türkiye","TR","TUR","792","EUR",2017,"Surveillance",2.9,2.8,3.1,"Surveillance",13,12,14,470,390,560
+"Türkiye","TR","TUR","792","EUR",2018,"Surveillance",2.8,2.6,3,"Surveillance",11,10,13,440,360,520
+"Türkiye","TR","TUR","792","EUR",2019,"Surveillance",2.7,2.4,2.9,"Surveillance",10,8.8,12,400,330,470
+"Türkiye","TR","TUR","792","EUR",2020,"Surveillance",2.5,2.3,2.8,"Surveillance",9,7.6,11,390,320,460
+"Türkiye","TR","TUR","792","EUR",2021,"Surveillance",2.4,2.1,2.7,"Surveillance",8,6.6,9.9,420,330,510
+"Turkmenistan","TM","TKM","795","EUR",2015,"Survey & Surveillance",21,19,23,"Survey & Surveillance",47,43,53,820,550,1100
+"Turkmenistan","TM","TKM","795","EUR",2016,"Survey & Surveillance",24,22,26,"Survey & Surveillance",49,46,54,850,600,1100
+"Turkmenistan","TM","TKM","795","EUR",2017,"Survey & Surveillance",28,26,30,"Survey & Surveillance",51,48,55,900,650,1100
+"Turkmenistan","TM","TKM","795","EUR",2018,"Survey & Surveillance",32,29,34,"Survey & Surveillance",53,49,57,1100,780,1400
+"Turkmenistan","TM","TKM","795","EUR",2019,"Survey & Surveillance",36,33,39,"Survey & Surveillance",55,51,59,1200,850,1500
+"Turkmenistan","TM","TKM","795","EUR",2020,"Survey & Surveillance",41,37,44,"Survey & Surveillance",57,52,62,1300,970,1700
+"Turkmenistan","TM","TKM","795","EUR",2021,"Survey & Surveillance",45,41,49,"Survey & Surveillance",59,53,64,1500,1100,1900
+"Turks and Caicos Islands","TC","TCA","796","AMR",2015,"Model",3.4,0.37,12,"Model",22,1.5,73,0,0,1
+"Turks and Caicos Islands","TC","TCA","796","AMR",2016,"Model",3.3,0.38,12,"Model",22,1.6,70,0,0,1
+"Turks and Caicos Islands","TC","TCA","796","AMR",2017,"Model",3.2,0.38,12,"Model",21,1.7,68,0,0,1
+"Turks and Caicos Islands","TC","TCA","796","AMR",2018,"Model",3.1,0.39,12,"Model",21,1.8,67,0,0,1
+"Turks and Caicos Islands","TC","TCA","796","AMR",2019,"Model",3.1,0.39,11,"Model",21,1.8,67,0,0,1
+"Turks and Caicos Islands","TC","TCA","796","AMR",2020,"Model",3.1,0.38,11,"Model",20,1.8,65,0,0,1
+"Turks and Caicos Islands","TC","TCA","796","AMR",2021,"Model",3,0.38,11,"Model",20,1.7,63,0,0,0
+"Tuvalu","TV","TUV","798","WPR",2015,"Surveillance",2.3,0.43,6.2,"Surveillance",18,2.2,50,1,0,2
+"Tuvalu","TV","TUV","798","WPR",2016,"Surveillance",2.3,0.43,6.2,"Surveillance",17,2.6,47,1,0,2
+"Tuvalu","TV","TUV","798","WPR",2017,"Surveillance",2.3,0.44,6.1,"Surveillance",17,2.6,46,1,0,2
+"Tuvalu","TV","TUV","798","WPR",2018,"Surveillance",2.3,0.43,6,"Surveillance",17,2.9,44,1,0,2
+"Tuvalu","TV","TUV","798","WPR",2019,"Surveillance",2.3,0.45,6.1,"Surveillance",17,3.1,43,1,0,3
+"Tuvalu","TV","TUV","798","WPR",2020,"Surveillance",2.3,0.44,6.3,"Surveillance",17,3.2,42,1,0,3
+"Tuvalu","TV","TUV","798","WPR",2021,"Surveillance",2.3,0.45,6.4,"Surveillance",17,3,41,1,0,3
+"Uganda","UG","UGA","800","AFR",2015,"Surveillance",1.2,1,1.4,"Model",22,1.5,69,1600,480,2700
+"Uganda","UG","UGA","800","AFR",2016,"Surveillance",1.1,1,1.2,"Model",21,1.5,65,1600,480,2600
+"Uganda","UG","UGA","800","AFR",2017,"Surveillance",1.1,0.98,1.2,"Model",20,1.5,64,1500,460,2600
+"Uganda","UG","UGA","800","AFR",2018,"Surveillance",1,0.93,1.1,"Model",19,1.6,60,1500,470,2600
+"Uganda","UG","UGA","800","AFR",2019,"Surveillance",0.97,0.86,1.1,"Model",19,1.6,57,1500,460,2500
+"Uganda","UG","UGA","800","AFR",2020,"Surveillance",0.93,0.78,1.1,"Model",18,1.6,55,1500,470,2500
+"Uganda","UG","UGA","800","AFR",2021,"Surveillance",0.89,0.71,1.1,"Model",18,1.6,54,1500,450,2500
+"Ukraine","UA","UKR","804","EUR",2015,"Surveillance",25,24,25,"Surveillance",44,43,44,12000,6400,17000
+"Ukraine","UA","UKR","804","EUR",2016,"Surveillance",26,25,26,"Surveillance",44,43,44,12000,6500,17000
+"Ukraine","UA","UKR","804","EUR",2017,"Surveillance",27,26,27,"Surveillance",44,44,45,12000,6700,17000
+"Ukraine","UA","UKR","804","EUR",2018,"Surveillance",28,28,28,"Surveillance",44,44,45,12000,6800,16000
+"Ukraine","UA","UKR","804","EUR",2019,"Surveillance",29,29,29,"Surveillance",45,44,45,11000,6900,16000
+"Ukraine","UA","UKR","804","EUR",2020,"Surveillance",30,30,31,"Surveillance",45,44,46,11000,7100,15000
+"Ukraine","UA","UKR","804","EUR",2021,"Surveillance",31,31,32,"Surveillance",45,44,46,11000,6800,15000
+"United Arab Emirates","AE","ARE","784","EMR",2015,"Surveillance",1.6,0.2,5.5,"Surveillance",14,2.9,35,1,0,3
+"United Arab Emirates","AE","ARE","784","EMR",2016,"Surveillance",1.7,0.21,5.5,"Surveillance",13,2.9,34,1,0,4
+"United Arab Emirates","AE","ARE","784","EMR",2017,"Surveillance",1.7,0.23,5.5,"Surveillance",13,2.8,32,2,0,4
+"United Arab Emirates","AE","ARE","784","EMR",2018,"Surveillance",1.8,0.24,5.7,"Surveillance",13,2.6,31,2,0,5
+"United Arab Emirates","AE","ARE","784","EMR",2019,"Surveillance",1.8,0.26,5.8,"Surveillance",12,2.7,32,2,0,5
+"United Arab Emirates","AE","ARE","784","EMR",2020,"Surveillance",1.9,0.29,6,"Surveillance",12,2.4,31,2,0,4
+"United Arab Emirates","AE","ARE","784","EMR",2021,"Surveillance",2,0.3,6.2,"Surveillance",12,2.1,32,2,0,4
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2015,"Surveillance",1.5,1.3,1.7,"Surveillance",4.9,3.8,6.2,130,110,150
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2016,"Surveillance",1.5,1.4,1.7,"Surveillance",5,3.8,6.4,130,110,150
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2017,"Surveillance",1.6,1.4,1.8,"Surveillance",5.1,3.8,6.7,120,99,140
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2018,"Surveillance",1.6,1.4,1.8,"Surveillance",5.2,3.7,7,110,91,130
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2019,"Surveillance",1.6,1.4,1.9,"Surveillance",5.3,3.7,7.3,110,93,130
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2020,"Surveillance",1.7,1.4,1.9,"Surveillance",5.5,3.7,7.6,100,82,120
+"United Kingdom of Great Britain and Northern Ireland","GB","GBR","826","EUR",2021,"Surveillance",1.7,1.4,2,"Surveillance",5.6,3.7,8,93,75,110
+"United Republic of Tanzania","TZ","TZA","834","AFR",2015,"Survey & Surveillance",1.2,0.99,1.5,"Survey & Surveillance",12,9.8,14,2400,410,4300
+"United Republic of Tanzania","TZ","TZA","834","AFR",2016,"Survey & Surveillance",1.2,1,1.5,"Survey & Surveillance",12,10,13,2300,510,4100
+"United Republic of Tanzania","TZ","TZA","834","AFR",2017,"Survey & Surveillance",1.3,1.1,1.4,"Survey & Surveillance",11,10,13,2300,610,3900
+"United Republic of Tanzania","TZ","TZA","834","AFR",2018,"Survey & Surveillance",1.3,1.1,1.4,"Survey & Surveillance",11,10,12,2200,690,3700
+"United Republic of Tanzania","TZ","TZA","834","AFR",2019,"Survey & Surveillance",1.3,1.1,1.4,"Survey & Surveillance",11,9.9,12,2100,770,3500
+"United Republic of Tanzania","TZ","TZA","834","AFR",2020,"Survey & Surveillance",1.3,1.2,1.4,"Survey & Surveillance",11,9.5,12,2100,750,3400
+"United Republic of Tanzania","TZ","TZA","834","AFR",2021,"Survey & Surveillance",1.3,1.2,1.5,"Survey & Surveillance",11,8.9,13,2000,650,3400
+"United States of America","US","USA","840","AMR",2015,"Surveillance",1.5,1.4,1.6,"Surveillance",6.9,6,7.7,220,180,250
+"United States of America","US","USA","840","AMR",2016,"Surveillance",1.5,1.4,1.6,"Surveillance",6.8,5.8,7.7,210,170,240
+"United States of America","US","USA","840","AMR",2017,"Surveillance",1.5,1.3,1.6,"Surveillance",6.7,5.6,7.8,200,170,240
+"United States of America","US","USA","840","AMR",2018,"Surveillance",1.5,1.3,1.6,"Surveillance",6.6,5.4,7.8,200,160,230
+"United States of America","US","USA","840","AMR",2019,"Surveillance",1.4,1.3,1.6,"Surveillance",6.5,5.1,7.8,190,160,230
+"United States of America","US","USA","840","AMR",2020,"Surveillance",1.4,1.3,1.6,"Surveillance",6.4,4.9,7.9,160,130,180
+"United States of America","US","USA","840","AMR",2021,"Surveillance",1.4,1.2,1.6,"Surveillance",6.3,4.8,8,170,140,200
+"Uruguay","UY","URY","858","AMR",2015,"Surveillance",0.52,0.32,0.76,"Surveillance",3.7,2.1,5.5,9,5,14
+"Uruguay","UY","URY","858","AMR",2016,"Surveillance",0.56,0.35,0.81,"Surveillance",3.7,2.1,5.6,10,5,14
+"Uruguay","UY","URY","858","AMR",2017,"Surveillance",0.59,0.37,0.85,"Surveillance",3.7,2,5.8,11,6,16
+"Uruguay","UY","URY","858","AMR",2018,"Surveillance",0.64,0.39,0.92,"Surveillance",3.8,1.9,6.1,12,7,18
+"Uruguay","UY","URY","858","AMR",2019,"Surveillance",0.68,0.41,1,"Surveillance",3.8,1.8,6.6,14,7,20
+"Uruguay","UY","URY","858","AMR",2020,"Surveillance",0.73,0.41,1.1,"Surveillance",3.9,1.6,7.2,13,7,20
+"Uruguay","UY","URY","858","AMR",2021,"Surveillance",0.79,0.41,1.3,"Surveillance",3.9,1.5,7.7,14,6,21
+"Uzbekistan","UZ","UZB","860","EUR",2015,"Surveillance",15,14,15,"Surveillance",48,46,50,5100,3200,6900
+"Uzbekistan","UZ","UZB","860","EUR",2016,"Surveillance",15,14,16,"Surveillance",45,43,46,4900,3000,6700
+"Uzbekistan","UZ","UZB","860","EUR",2017,"Surveillance",15,15,16,"Surveillance",41,40,42,4700,3000,6500
+"Uzbekistan","UZ","UZB","860","EUR",2018,"Surveillance",16,15,16,"Surveillance",38,37,39,4600,3000,6200
+"Uzbekistan","UZ","UZB","860","EUR",2019,"Surveillance",16,16,17,"Surveillance",35,34,36,4500,3000,6000
+"Uzbekistan","UZ","UZB","860","EUR",2020,"Surveillance",17,16,17,"Surveillance",32,30,33,4300,2800,5900
+"Uzbekistan","UZ","UZB","860","EUR",2021,"Surveillance",17,16,18,"Surveillance",29,27,31,4200,2700,5800
+"Vanuatu","VU","VUT","548","WPR",2015,"Surveillance",2,0.75,4,"Model",14,0.71,56,4,1,7
+"Vanuatu","VU","VUT","548","WPR",2016,"Surveillance",2.1,0.82,4.2,"Model",14,0.83,55,4,1,7
+"Vanuatu","VU","VUT","548","WPR",2017,"Surveillance",2.2,0.84,4.3,"Model",14,0.92,54,3,1,6
+"Vanuatu","VU","VUT","548","WPR",2018,"Surveillance",2.3,0.88,4.5,"Model",14,1,52,3,1,6
+"Vanuatu","VU","VUT","548","WPR",2019,"Surveillance",2.4,0.88,4.8,"Model",14,1.2,53,3,0,6
+"Vanuatu","VU","VUT","548","WPR",2020,"Surveillance",2.5,0.9,5.1,"Model",14,1.2,54,3,0,6
+"Vanuatu","VU","VUT","548","WPR",2021,"Surveillance",2.6,0.91,5.5,"Model",14,1.2,54,3,0,6
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2015,"Model",3.6,0.44,14,"Model",19,1.5,65,430,0,1100
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2016,"Model",3.5,0.46,13,"Model",18,1.5,61,490,0,1200
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2017,"Model",3.5,0.48,12,"Model",18,1.6,58,630,0,1600
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2018,"Model",3.4,0.48,12,"Model",17,1.6,56,640,0,1600
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2019,"Model",3.4,0.49,12,"Model",16,1.6,52,580,0,1500
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2020,"Model",3.4,0.5,12,"Model",16,1.5,49,550,0,1400
+"Venezuela (Bolivarian Republic of)","VE","VEN","862","AMR",2021,"Model",3.4,0.5,12,"Model",15,1.4,49,580,0,1500
+"Viet Nam","VN","VNM","704","WPR",2015,"Surveillance",3.6,3.4,3.8,"Surveillance",18,17,19,8300,4400,12000
+"Viet Nam","VN","VNM","704","WPR",2016,"Surveillance",3.7,3.5,3.9,"Surveillance",18,17,18,8300,4500,12000
+"Viet Nam","VN","VNM","704","WPR",2017,"Surveillance",3.8,3.7,4,"Surveillance",17,17,17,8400,4700,12000
+"Viet Nam","VN","VNM","704","WPR",2018,"Surveillance",3.9,3.8,4.1,"Surveillance",16,16,17,8400,4900,12000
+"Viet Nam","VN","VNM","704","WPR",2019,"Surveillance",4.1,4,4.2,"Surveillance",16,15,16,8400,5000,12000
+"Viet Nam","VN","VNM","704","WPR",2020,"Surveillance",4.2,4,4.3,"Surveillance",15,15,16,8500,5100,12000
+"Viet Nam","VN","VNM","704","WPR",2021,"Surveillance",4.3,4.1,4.5,"Surveillance",15,14,16,8900,5400,12000
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2015,"Surveillance",1.9,0.17,8.5,"Model",23,1.3,76,0,0,0
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2016,"Surveillance",1.9,0.17,8.3,"Model",22,1.5,74,0,0,0
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2017,"Surveillance",1.9,0.18,8.4,"Model",21,1.5,72,0,0,0
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2018,"Surveillance",2,0.2,8.6,"Model",21,1.4,71,0,0,0
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2019,"Surveillance",2,0.2,8.4,"Model",20,1.4,69,0,0,1
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2020,"Surveillance",2,0.19,8.7,"Model",19,1.3,67,0,0,0
+"Wallis and Futuna Islands","WF","WLF","876","WPR",2021,"Surveillance",2.1,0.19,9,"Model",19,1.3,66,0,0,0
+"Yemen","YE","YEM","887","EMR",2015,"Model",2.3,1.1,4.2,"Model",18,9,31,360,120,600
+"Yemen","YE","YEM","887","EMR",2016,"Model",2.3,0.99,4.4,"Model",18,8.3,33,370,100,640
+"Yemen","YE","YEM","887","EMR",2017,"Model",2.3,0.92,4.5,"Model",19,7.8,36,380,83,670
+"Yemen","YE","YEM","887","EMR",2018,"Model",2.3,0.84,4.7,"Model",19,7.1,38,380,64,700
+"Yemen","YE","YEM","887","EMR",2019,"Model",2.2,0.79,4.8,"Model",19,6.9,41,390,45,740
+"Yemen","YE","YEM","887","EMR",2020,"Model",2.2,0.72,5.1,"Model",20,6.3,44,400,19,780
+"Yemen","YE","YEM","887","EMR",2021,"Model",2.2,0.67,5.3,"Model",20,5.8,46,410,0,820
+"Zambia","ZM","ZMB","894","AFR",2015,"Survey & Surveillance",2.6,2.3,2.8,"Survey",12,8,17,2500,1300,3700
+"Zambia","ZM","ZMB","894","AFR",2016,"Survey & Surveillance",2.5,2.3,2.7,"Survey",12,7.4,17,2400,1300,3500
+"Zambia","ZM","ZMB","894","AFR",2017,"Survey & Surveillance",2.4,2.3,2.6,"Survey",11,7,17,2300,1300,3300
+"Zambia","ZM","ZMB","894","AFR",2018,"Survey & Surveillance",2.4,2.3,2.5,"Survey",11,6.4,17,2200,1300,3200
+"Zambia","ZM","ZMB","894","AFR",2019,"Survey & Surveillance",2.3,2.2,2.4,"Survey",10,6,17,2200,1300,3000
+"Zambia","ZM","ZMB","894","AFR",2020,"Survey & Surveillance",2.3,2.1,2.4,"Survey",10,5.5,17,2100,1200,2900
+"Zambia","ZM","ZMB","894","AFR",2021,"Survey & Surveillance",2.2,2,2.4,"Survey",9.8,5.1,17,2000,1200,2900
+"Zimbabwe","ZW","ZWE","716","AFR",2015,"Survey & Surveillance",5.1,4.2,6.1,"Survey & Surveillance",16,12,22,2200,1300,3100
+"Zimbabwe","ZW","ZWE","716","AFR",2016,"Survey & Surveillance",4.2,3.7,4.7,"Survey & Surveillance",18,14,23,1800,1200,2500
+"Zimbabwe","ZW","ZWE","716","AFR",2017,"Survey & Surveillance",3.5,3.2,3.8,"Survey & Surveillance",20,16,24,1500,1000,2000
+"Zimbabwe","ZW","ZWE","716","AFR",2018,"Survey & Surveillance",2.9,2.7,3.1,"Survey & Surveillance",21,18,25,1200,850,1600
+"Zimbabwe","ZW","ZWE","716","AFR",2019,"Survey & Surveillance",2.4,2.2,2.7,"Survey & Surveillance",23,20,27,1000,710,1400
+"Zimbabwe","ZW","ZWE","716","AFR",2020,"Survey & Surveillance",2,1.7,2.4,"Survey & Surveillance",25,20,30,830,540,1100
+"Zimbabwe","ZW","ZWE","716","AFR",2021,"Survey & Surveillance",1.7,1.3,2.1,"Survey & Surveillance",28,21,34,780,480,1100
