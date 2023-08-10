@@ -1,5 +1,5 @@
 # Group_Project_1
-Repo for Group Project 1
+Repo for Group Project 1, Team 3
 
 ### Title: 
 TB: The Curable Disease Still Killing Millions
@@ -19,9 +19,9 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
     3) What role does multidrug-resistant TB play in infection and mortality?
 
 ### Data Sets: 
-	Data Dictionary: https://extranet.who.int/tme/generateCSV.asp?ds=dictionary
- 	Infection/Mortality Rates(HIV): https://extranet.who.int/tme/generateCSV.asp?ds=estimates  
-	MDR: https://extranet.who.int/tme/generateCSV.asp?ds=mdr_rr_estimates	
+	* Data Dictionary: https://extranet.who.int/tme/generateCSV.asp?ds=dictionary
+ 	* Infection/Mortality Rates(HIV): https://extranet.who.int/tme/generateCSV.asp?ds=estimates  
+	* MDR: https://extranet.who.int/tme/generateCSV.asp?ds=mdr_rr_estimates	
 
 ### Task Leads:
 	* Data Cleaning: Sam & Laura
