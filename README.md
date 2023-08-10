@@ -22,6 +22,7 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 	* Data Dictionary: https://extranet.who.int/tme/generateCSV.asp?ds=dictionary
  	* Infection/Mortality Rates(HIV): https://extranet.who.int/tme/generateCSV.asp?ds=estimates  
 	* MDR: https://extranet.who.int/tme/generateCSV.asp?ds=mdr_rr_estimates	
+	* UN HDI: https://hdr.undp.org/data-center/documentation-and-downloads
 
 ### Task Leads:
 	* Data Cleaning: Sam & Laura
