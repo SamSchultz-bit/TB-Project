@@ -19,6 +19,7 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
     3) What role does multidrug-resistant TB play in infection and mortality?
 
 ### Data Sets: 
+	* Tuberculosis Data Documentation: https://www.who.int/teams/global-tuberculosis-programme/data
 	* Data Dictionary: https://extranet.who.int/tme/generateCSV.asp?ds=dictionary
  	* Infection/Mortality Rates(HIV): https://extranet.who.int/tme/generateCSV.asp?ds=estimates  
 	* MDR: https://extranet.who.int/tme/generateCSV.asp?ds=mdr_rr_estimates	
