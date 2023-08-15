@@ -16,7 +16,7 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 ### Research Questions:
     1) Is there a link between HDI and infection and mortality?
     2) What role does HIV infection play in TB infection and mortality?
-    3) What role does multidrug-resistant TB play in infection and mortality?
+    3) What role does multidrug-resistant TB play in infection?
 
 ### Data Sets: 
 	* Tuberculosis Data Documentation: https://www.who.int/teams/global-tuberculosis-programme/data
@@ -39,3 +39,5 @@ https://docs.google.com/document/d/1rxHTi2pmAGjePYVj5ul5AofuYjhgOCADi2n8ihrXRwE/
 
 ### Presentation Slides:
 https://docs.google.com/presentation/d/1gw5XUOpP7Q4jWMe-F52-K1BJLG8zBt4tJTS5yVlEl9A/edit?usp=sharing
+### Resource:
+https://stackoverflow.com/questions/44413020/how-to-specify-legend-position-in-matplotlib-in-graph-coordinates > used to create multi-index line plots for drug resistance
