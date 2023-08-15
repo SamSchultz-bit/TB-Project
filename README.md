@@ -29,10 +29,10 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 	* Data Cleaning: Sam & Laura
 	* Manage GitHub: Laura
 	* Q1: Matt
-	* Q2: Sam & Sha'miah
+	* Q2: Sam 
 	* Q3: Colin	
-	* Analysis: Colin & Laura
-	* Slides: Laura
+	* Analysis: Sha'miah & Laura
+	* Slides: Sha'miah & Laura
 
 ### Proposal:
 https://docs.google.com/document/d/1rxHTi2pmAGjePYVj5ul5AofuYjhgOCADi2n8ihrXRwE/edit?usp=sharing
