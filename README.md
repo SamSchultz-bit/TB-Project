@@ -16,7 +16,7 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 ### Research Questions:
     1) Is there a link between HDI and infection and mortality?
     2) What role does HIV infection play in TB infection and mortality?
-    3) What role does multidrug-resistant TB play in infection and mortality?
+    3) What role does multidrug-resistant TB play in infection?
 
 ### Data Sets: 
 	* Tuberculosis Data Documentation: https://www.who.int/teams/global-tuberculosis-programme/data
