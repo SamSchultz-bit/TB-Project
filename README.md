@@ -62,7 +62,19 @@ While people with HIV make up a small proportion of overall cases, if a person h
 Very much like Matt's previous findings, people in lesser developed countries are much worse off for both contracting and dying from TB. They are roughly 100 times more likely to do each. 
 
 #### Drug Resistance
+To explore the effect of MDR TB on infection and to draw conclusions surrounding the data, we imported a Rifampicin-resistance .csv file from WHO. Unnecessary colums were dropped and colums were renamed to clean the dataframe. 
 
+Since percentages and totals for new cases were given but only percentages for reinfection cases, as well as no data for non-MDR cases, I used some algebra to generate columns in the dataframe pertaining to the number of reinfection cases as well as the total amount of TB cases.
+
+I felt the best way to see the global impact of MDR TB was to separate by region given the limits of the dataset. This would show if certain  regions are more susceptible to MDR TB or if the effect is indescriminate of region. To do this, I used the .groupby() function to group by region and year and took the average of the reinfection rates and the new case rates for every year from 2015-2021 of every country. I used a 'for' loop I found on stackoverflow to produce two line charts that showed the new case rates and reinfection rates per region over time.  I also created a line plot that did not take region into consideration to show the relationship between new cases and reinfection cases.
+
+My findings were that new rifampicin resistant cases were usually not determined by the region, with Europe being an outlier. According to the ECDC, Europe has failed to meet their Rifampicin Resistant TB treatment success goal for the years 2015-2020, and the age structure of Europe aligns with the most affected groups. The data also suggests that treatment is what is affected by resistant TB as opposed to spread. The recurrence rate globally sits around 17% while the new case rate is around 4%.
+
+Sources for extra information:
+https://www.ecdc.europa.eu/en/publications-data/tuberculosis-surveillance-and-monitoring-europe-2021-2019-data
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998482/#:~:text=The%20incidence%20trends%20of%20MDR-TB%20in%20most%20regions,of%20MDR-TB%20%28p%20%3C%200.001%2C%20%CF%81%20%3D%20%E2%88%920.43%29.
+https://www.visualcapitalist.com/mapped-the-median-age-of-every-continent/
+https://www.nature.com/articles/ja2014107
 
 
 ### Task Leads:
