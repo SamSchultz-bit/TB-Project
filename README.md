@@ -35,7 +35,7 @@ After performing the join and merging the datasets, I dropped unnecessary column
 
 To better get a sense of how HDI score impacts Incidence and Mortality, I researched HDI and gleaned that there are different classifications via which countries are sorted. I then "binned" the HDI values using widely established HDI classifications: Very High, High, Medium and Low. I then added those data points as another series in my DataFrame.
 
-Next, I determined that a boxplot displayed by HDI classification would be a great way to visualize the impact HDI has on TB/Mortality rates. I also plotted a scatterplot removing HDI classifcation and just using HDI values as the independent variable.
+Next, I determined that a boxplot displayed by HDI classification would be a great way to visualize the impact HDI has on TB/Mortality rates. I also plotted a scatterplot removing HDI classification and just using HDI values as the independent variable.
 
 Finally, I generated code displaying both the correlation coefficient and r-squared to understand both the strength of the relationship between the two variables and understand how well HDI explains the variation in Incidence/Mortality Rates by country.
 
@@ -51,7 +51,7 @@ The correlation coefficient for these two variables is -0.49 indicating a weak t
 #### HIV
 To explore the relationship between TB and HDI, I started by importing and creating data frames from the csv files. Then I dropped the unnecessary columns and renamed the remaining ones. 
 
-My next step was to merge the two dataframes, find the upper and lower quartiles of the HDI index and seperate the countries into two dataframes. One each for the higher and lower quartiles.
+My next step was to merge the two dataframes, find the upper and lower quartiles of the HDI index and separate the countries into two dataframes. One each for the higher and lower quartiles.
 
 To prepare the data I grouped all the countries in each dataframe by year, showing the mean value for each column. I also created calculated columns to get the Mortality Rates.
 
@@ -62,7 +62,7 @@ While people with HIV make up a small proportion of overall cases, if a person h
 Very much like Matt's previous findings, people in lesser developed countries are much worse off for both contracting and dying from TB. They are roughly 100 times more likely to do each. 
 
 #### Drug Resistance
-To explore the effect of MDR TB on infection and to draw conclusions surrounding the data, we imported a Rifampicin-resistance .csv file from WHO. Unnecessary colums were dropped and colums were renamed to clean the dataframe. 
+To explore the effect of MDR TB on infection and to draw conclusions surrounding the data, we imported a Rifampicin-resistance .csv file from WHO. Unnecessary columns were dropped and columns were renamed to clean the dataframe. 
 
 Since percentages and totals for new cases were given but only percentages for reinfection cases, as well as no data for non-MDR cases, I used some algebra to generate columns in the dataframe pertaining to the number of reinfection cases as well as the total amount of TB cases.
 
@@ -71,10 +71,10 @@ I felt the best way to see the global impact of MDR TB was to separate by region
 My findings were that new rifampicin resistant cases were usually not determined by the region, with Europe being an outlier. According to the ECDC, Europe has failed to meet their Rifampicin Resistant TB treatment success goal for the years 2015-2020, and the age structure of Europe aligns with the most affected groups. The data also suggests that treatment is what is affected by resistant TB as opposed to spread. The recurrence rate globally sits around 17% while the new case rate is around 4%.
 
 Sources for extra information:
-https://www.ecdc.europa.eu/en/publications-data/tuberculosis-surveillance-and-monitoring-europe-2021-2019-data
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998482/#:~:text=The%20incidence%20trends%20of%20MDR-TB%20in%20most%20regions,of%20MDR-TB%20%28p%20%3C%200.001%2C%20%CF%81%20%3D%20%E2%88%920.43%29.
-https://www.visualcapitalist.com/mapped-the-median-age-of-every-continent/
-https://www.nature.com/articles/ja2014107
+* https://www.ecdc.europa.eu/en/publications-data/tuberculosis-surveillance-and-monitoring-europe-2021-2019-data
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998482/#:~:text=The%20incidence%20trends%20of%20MDR-TB%20in%20most%20regions,of%20MDR-TB%20%28p%20%3C%200.001%2C%20%CF%81%20%3D%20%E2%88%920.43%29.
+* https://www.visualcapitalist.com/mapped-the-median-age-of-every-continent/
+* https://www.nature.com/articles/ja2014107
 
 
 ### Task Leads:
@@ -87,11 +87,11 @@ https://www.nature.com/articles/ja2014107
 	* Slides: Sha'miah & Laura
 
 ### Proposal:
-https://docs.google.com/document/d/1rxHTi2pmAGjePYVj5ul5AofuYjhgOCADi2n8ihrXRwE/edit?usp=sharing
+* https://docs.google.com/document/d/1rxHTi2pmAGjePYVj5ul5AofuYjhgOCADi2n8ihrXRwE/edit?usp=sharing
 
 ### Presentation Slides:
-https://docs.google.com/presentation/d/1gw5XUOpP7Q4jWMe-F52-K1BJLG8zBt4tJTS5yVlEl9A/edit?usp=sharing
-### Resource:
+* https://docs.google.com/presentation/d/1gw5XUOpP7Q4jWMe-F52-K1BJLG8zBt4tJTS5yVlEl9A/edit?usp=sharing
+### Additional Resource:
 * Used to create multi-index line plots for drug resistance: https://stackoverflow.com/questions/44413020/how-to-specify-legend-position-in-matplotlib-in-graph-coordinates
 
 * Henry, John Green: https://youtu.be/JhVJMO0wgTE 
