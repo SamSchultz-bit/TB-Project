@@ -27,13 +27,28 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 We chose to explore the data from the World Health Organization for their Tuberculosis Report in conjuntion with the United Nations' Human Development Index. We wanted to look at how infection and mortality rates are affected by development, HIV infection, and drug resistance. 
 
 #### HDI SECTION
+Steps to Generate Output:
+
+In determining the relationship between HDI and TB Incidence and Mortality Rates, I began by using an inner join to merge two previously imported CSV files (one having HDI values by country and the other Incidence and Mortality Rates by country). I also had to rename the "country" series name to perform the join.
+
+After performing the join and merging the datasets, I dropped unnecessary columns and renamed them to display only "Country", "HDI Value", "Incidence Rate per 100k", and "Mortality Rate per 100k".)
+
+To better get a sense of how HDI score impacts Incidence and Mortality, I researched HDI and gleaned that there are different classifications via which countries are sorted. I then "binned" the HDI values using widely established HDI classifications: Very High, High, Medium and Low. I then added those data points as another series in my DataFrame.
+
+Next, I determined that a boxplot displayed by HDI classification would be a great way to understand the impact HDI has on TB/Mortality rates. I also plotted a scatterplot removing HDI classifcation and just using HDI values as the independent variable.
+
+Finally, I generated code displaying both the correlation coefficient and r-squared to understand both the strength of the relationship between the two variables and understand how well HDI explains the variation in Incidence/Mortality Rates by country.
+
+Summary Analysis:
+
+Generating the box plots, allows us to see that 'generally' countries with ver high HDI scores have very low mortality rates. The outliers in very high HDI countries, 
 
 #### HIV
 To explore the relationship between TB and HDI, I started by importing and creating data frames from the csv files. Then I dropped the unnecessary columns and renamed the remaining ones. 
 
 My next step was to merge the two dataframes, find the upper and lower quartiles of the HDI index and seperate the countries into two dataframes. One each for the higher and lower quartiles.
 
-To prepare the data I grouped all the countries in each dataframe by year, showing the mean value for each column. I also created calculated columns to get the Mortality Raates.
+To prepare the data I grouped all the countries in each dataframe by year, showing the mean value for each column. I also created calculated columns to get the Mortality Rates.
 
 Finally, I created four plots showing the relationships between infection rates with and without HIV, Mortality Rates with and without HIV, and how cases and mortality compare in high and low HDI countries.
 
