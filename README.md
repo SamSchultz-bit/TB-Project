@@ -35,13 +35,18 @@ After performing the join and merging the datasets, I dropped unnecessary column
 
 To better get a sense of how HDI score impacts Incidence and Mortality, I researched HDI and gleaned that there are different classifications via which countries are sorted. I then "binned" the HDI values using widely established HDI classifications: Very High, High, Medium and Low. I then added those data points as another series in my DataFrame.
 
-Next, I determined that a boxplot displayed by HDI classification would be a great way to understand the impact HDI has on TB/Mortality rates. I also plotted a scatterplot removing HDI classifcation and just using HDI values as the independent variable.
+Next, I determined that a boxplot displayed by HDI classification would be a great way to visualize the impact HDI has on TB/Mortality rates. I also plotted a scatterplot removing HDI classifcation and just using HDI values as the independent variable.
 
 Finally, I generated code displaying both the correlation coefficient and r-squared to understand both the strength of the relationship between the two variables and understand how well HDI explains the variation in Incidence/Mortality Rates by country.
 
 Summary Analysis:
 
-Generating the box plots, allows us to see that 'generally' countries with ver high HDI scores have very low mortality rates. The outliers in very high HDI countries, 
+Generating the box plots allows us to see that countries with very high HDI scores have very low mortality rates. All high and very high HDI countries have mortality rates below the median outcomes of both low and medium countries. We can also see that the spread of outcomes in both high and very high HDI countries are quite small with few countries varying much from their respective medians. We also note that, interestingly, countries with medium HDI scores have a VERY wide spread in terms of mortality rate outcomes, much moreso than even low HDI countries. 
+
+Possible reasons for this could include: a greater international and NGO focus on low HDI countries vs. HDI countries. Another possible reason is national median age. Age, while not part of this analysis, is strongly correlated with TB incidence and mortality rate, and medium HDI countries could have higher spreads of median age, which could affect mortality outcomes.
+
+The correlation coefficient for these two variables is -0.49 indicating a weak to relatively moderate relationship between the two variables. The r-squared was determined to be 0.24 indicating HDI, by itself, explains relatively little of the variation in TB mortality outcomes. The relationship between the two variables is relatively strong as you move through the development curve, but seems to hit a "speed bump" in medium HDI countries that when evaluating HDI alone cannot explain.
+
 
 #### HIV
 To explore the relationship between TB and HDI, I started by importing and creating data frames from the csv files. Then I dropped the unnecessary columns and renamed the remaining ones. 
