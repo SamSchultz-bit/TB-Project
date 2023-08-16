@@ -10,9 +10,6 @@ Colin Vehmeier (cvehmei3r), Laura Bishop (TLCLauraB), Matthew Bond (Matthewbond1
 ### Description: 
 Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
 
-### Description:
- Examine the data collected by the World Health Organization's Global Tuberculosis Report and search for trends. We will be using the collective data of 2021. What can a local community do to address this global concern?
-
 ### Research Questions:
     1) Is there a link between HDI and infection and mortality?
     2) What role does HIV infection play in TB infection and mortality?
@@ -24,6 +21,29 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
  	* Infection/Mortality Rates(HIV): https://extranet.who.int/tme/generateCSV.asp?ds=estimates  
 	* MDR: https://extranet.who.int/tme/generateCSV.asp?ds=outcomes
 	* UN HDI: https://hdr.undp.org/data-center/documentation-and-downloads
+
+## Our Project:
+
+We chose to explore the data from the World Health Organization for their Tuberculosis Report in conjuntion with the United Nations' Human Development Index. We wanted to look at how infection and mortality rates are affected by development, HIV infection, and drug resistance. 
+
+#### HDI SECTION
+
+#### HIV
+To explore the relationship between TB and HDI, I started by importing and creating data frames from the csv files. Then I dropped the unnecessary columns and renamed the remaining ones. 
+
+My next step was to merge the two dataframes, find the upper and lower quartiles of the HDI index and seperate the countries into two dataframes. One each for the higher and lower quartiles.
+
+To prepare the data I grouped all the countries in each dataframe by year, showing the mean value for each column. I also created calculated columns to get the Mortality Raates.
+
+Finally, I created four plots showing the relationships between infection rates with and without HIV, Mortality Rates with and without HIV, and how cases and mortality compare in high and low HDI countries.
+
+While people with HIV make up a small proportion of overall cases, if a person has both, they are much more likely to die.
+
+Very much like Matt's previous findings, people in lesser developed countries are much worse off for both contracting and dying from TB. They are roughly 100 times more likely to do each. 
+
+#### Drug Resistance
+
+
 
 ### Task Leads:
 	* Data Cleaning: Sam & Laura
