@@ -22,6 +22,16 @@ Examine the data collected by the World Health Organization's Global Tuberculosi
 	* MDR: https://extranet.who.int/tme/generateCSV.asp?ds=outcomes
 	* UN HDI: https://hdr.undp.org/data-center/documentation-and-downloads
 
+ 
+### Task Leads:
+	* Data Cleaning: Sam & Laura
+	* Manage GitHub: Laura
+	* Q1: Matt
+	* Q2: Sam 
+	* Q3: Colin	
+	* Analysis: Sha'miah & Laura
+	* Slides: Sha'miah & Laura
+
 ## Our Project:
 
 We chose to explore the data from the World Health Organization for their Tuberculosis Report in conjuntion with the United Nations' Human Development Index. We wanted to look at how infection and mortality rates are affected by development, HIV infection, and drug resistance. 
@@ -75,16 +85,6 @@ Sources for extra information:
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9998482/#:~:text=The%20incidence%20trends%20of%20MDR-TB%20in%20most%20regions,of%20MDR-TB%20%28p%20%3C%200.001%2C%20%CF%81%20%3D%20%E2%88%920.43%29.
 * https://www.visualcapitalist.com/mapped-the-median-age-of-every-continent/
 * https://www.nature.com/articles/ja2014107
-
-
-### Task Leads:
-	* Data Cleaning: Sam & Laura
-	* Manage GitHub: Laura
-	* Q1: Matt
-	* Q2: Sam 
-	* Q3: Colin	
-	* Analysis: Sha'miah & Laura
-	* Slides: Sha'miah & Laura
 
 ### Proposal:
 * https://docs.google.com/document/d/1rxHTi2pmAGjePYVj5ul5AofuYjhgOCADi2n8ihrXRwE/edit?usp=sharing
